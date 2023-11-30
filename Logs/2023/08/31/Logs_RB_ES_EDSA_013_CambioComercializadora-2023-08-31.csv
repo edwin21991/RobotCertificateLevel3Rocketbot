@@ -1,0 +1,150 @@
+Hora, Tipo Registro, Mensaje,Robot
+
+2023-08-31 15:11:39.332798, TRACE, Inicio Ejecucion, RB_ES_EDSA_013_CambioComercializadora
+2023-08-31 15:11:39.393536, TRACE, Inicio del modulo Init ,InitConfig
+2023-08-31 15:11:39.548427, TRACE, Fin del modulo Init ,InitConfig
+2023-08-31 15:11:39.630552, INFO, "Inicio del modulo GetAssets" ,GetAssets
+2023-08-31 15:11:46.636581, INFO, "Inicio del modulo GetAssets" ,GetAssets
+2023-08-31 15:11:46.726325, TRACE, Inicio del submodulo KillProcess ,KillProcess
+2023-08-31 15:11:46.887500, TRACE, Fin del submodulo KillProcess ,KillProcess
+2023-08-31 15:11:46.955342, TRACE, Inicio del submodulo InitApps ,InitApps
+2023-08-31 15:11:47.023118, INFO, "Incio del modulo LoginCosmos" ,Login
+2023-08-31 15:12:02.722581, INFO, "Inicio del modulo Obtener Token" ,ObtenerToken
+2023-08-31 15:12:02.819582, INFO, "Fin del modulo Obtener Token" ,ObtenerToken
+2023-08-31 15:12:16.747805, INFO, "Fin del modulo LoginCosmos" ,Login
+2023-08-31 15:12:16.790301, TRACE, Fin del submodulo InitApps ,InitApps
+2023-08-31 15:12:16.839832, TRACE, Fin del modulo Init ,Init
+2023-08-31 15:12:17.144222, TRACE, Inicio del modulo GetTransaction ,GetTransaction
+2023-08-31 15:12:17.907558, ERROR, "Error inesperado" ,GetDataOrchestrator
+2023-08-31 15:12:18.000986, INFO, "Inicio del modulo Chage Status BPM" ,Change_Status_BPM
+2023-08-31 15:12:18.640900, INFO, Inicio del modulo envio de correo ,NotificacionesCorreo
+2023-08-31 15:12:18.742494, INFO, "Conecta con el server de gmail" ,NotificacionesCorreo
+2023-08-31 15:12:20.415636, INFO, "Valida si es un correo de inicio o de fin" ,NotificacionesCorreo
+2023-08-31 15:12:21.835343, INFO, "Valido que es un correo de Inicio" ,NotificacionesCorreo
+2023-08-31 15:12:21.909343, INFO, Se conecto y envio correo correctamente ,NotificacionesCorreo
+2023-08-31 15:12:21.989895, INFO, Finaliza el modulo de envio de correo ,NotificacionesCorreo
+2023-08-31 15:12:24.412551, INFO, "Fin del modulo Chage Status BPM" ,Change_Status_BPM
+2023-08-31 15:12:25.076621, TRACE, Inicio del modulo Process ,Process
+2023-08-31 15:12:25.155570, INFO, "Inicio del modulo Work Data" ,Work_Data
+2023-08-31 15:12:25.893757, ERROR, "Error inesperado" ,Work_Data
+2023-08-31 15:15:25.454215, TRACE, Incio del modulo Init ,Init
+
+2023-08-31 15:15:25.570530, TRACE, Inicio Ejecucion, RB_ES_EDSA_013_CambioComercializadora
+2023-08-31 15:15:25.630737, TRACE, Inicio del modulo Init ,InitConfig
+2023-08-31 15:15:25.765630, TRACE, Fin del modulo Init ,InitConfig
+2023-08-31 15:15:25.850447, INFO, "Inicio del modulo GetAssets" ,GetAssets
+2023-08-31 15:15:32.798798, INFO, "Inicio del modulo GetAssets" ,GetAssets
+2023-08-31 15:15:32.878349, TRACE, Inicio del submodulo KillProcess ,KillProcess
+2023-08-31 15:15:37.831098, TRACE, Fin del submodulo KillProcess ,KillProcess
+2023-08-31 15:15:37.896649, TRACE, Inicio del submodulo InitApps ,InitApps
+2023-08-31 15:15:37.968327, INFO, "Incio del modulo LoginCosmos" ,Login
+2023-08-31 15:15:57.442250, INFO, "Inicio del modulo Obtener Token" ,ObtenerToken
+2023-08-31 15:15:57.503861, INFO, "Fin del modulo Obtener Token" ,ObtenerToken
+2023-08-31 15:16:11.385283, INFO, "Fin del modulo LoginCosmos" ,Login
+2023-08-31 15:16:11.434387, TRACE, Fin del submodulo InitApps ,InitApps
+2023-08-31 15:16:11.480347, TRACE, Fin del modulo Init ,Init
+2023-08-31 15:16:11.902493, TRACE, Inicio del modulo GetTransaction ,GetTransaction
+2023-08-31 15:16:12.567664, ERROR, "Error inesperado" ,GetDataOrchestrator
+2023-08-31 15:16:12.661663, INFO, "Inicio del modulo Chage Status BPM" ,Change_Status_BPM
+2023-08-31 15:16:13.238679, INFO, Inicio del modulo envio de correo ,NotificacionesCorreo
+2023-08-31 15:16:13.310806, INFO, "Conecta con el server de gmail" ,NotificacionesCorreo
+2023-08-31 15:16:14.627805, INFO, "Valida si es un correo de inicio o de fin" ,NotificacionesCorreo
+2023-08-31 15:16:15.842585, INFO, "Valido que es un correo de Inicio" ,NotificacionesCorreo
+2023-08-31 15:16:15.897725, INFO, Se conecto y envio correo correctamente ,NotificacionesCorreo
+2023-08-31 15:16:15.952228, INFO, Finaliza el modulo de envio de correo ,NotificacionesCorreo
+2023-08-31 15:16:18.308043, INFO, "Fin del modulo Chage Status BPM" ,Change_Status_BPM
+2023-08-31 15:16:19.005001, TRACE, Inicio del modulo Process ,Process
+2023-08-31 15:16:19.099004, INFO, "Inicio del modulo Work Data" ,Work_Data
+2023-08-31 15:16:19.946676, ERROR, "Error inesperado" ,Work_Data
+
+2023-08-31 15:21:53.416037, TRACE, Inicio Ejecucion, RB_ES_EDSA_013_CambioComercializadora
+2023-08-31 15:21:53.481136, TRACE, Inicio del modulo Init ,InitConfig
+2023-08-31 15:21:53.617908, TRACE, Fin del modulo Init ,InitConfig
+2023-08-31 15:21:53.695166, INFO, "Inicio del modulo GetAssets" ,GetAssets
+2023-08-31 15:22:00.477441, INFO, "Inicio del modulo GetAssets" ,GetAssets
+2023-08-31 15:22:00.558730, TRACE, Inicio del submodulo KillProcess ,KillProcess
+2023-08-31 15:22:05.607884, TRACE, Fin del submodulo KillProcess ,KillProcess
+2023-08-31 15:22:05.671828, TRACE, Inicio del submodulo InitApps ,InitApps
+2023-08-31 15:22:05.737649, INFO, "Incio del modulo LoginCosmos" ,Login
+2023-08-31 15:22:25.904306, INFO, "Inicio del modulo Obtener Token" ,ObtenerToken
+2023-08-31 15:22:25.962327, INFO, "Fin del modulo Obtener Token" ,ObtenerToken
+2023-08-31 15:22:39.810720, INFO, "Fin del modulo LoginCosmos" ,Login
+2023-08-31 15:22:39.854249, TRACE, Fin del submodulo InitApps ,InitApps
+2023-08-31 15:22:39.901157, TRACE, Fin del modulo Init ,Init
+2023-08-31 15:22:40.007364, TRACE, Inicio del modulo GetTransaction ,GetTransaction
+2023-08-31 15:22:40.733553, ERROR, "Error inesperado" ,GetDataOrchestrator
+2023-08-31 15:22:40.814847, INFO, "Inicio del modulo Chage Status BPM" ,Change_Status_BPM
+2023-08-31 15:22:40.977013, ERROR, "Error inesperado" ,Change_Status_BPM
+2023-08-31 15:22:41.644633, TRACE, Inicio del modulo EndProcess ,EndProcess
+2023-08-31 15:22:41.715546, TRACE, Inicio del submodulo KillProcess ,KillProcess
+2023-08-31 15:22:50.317382, TRACE, Fin del submodulo KillProcess ,KillProcess
+2023-08-31 15:22:50.385335, TRACE, Fin del modulo EndProcess ,EndProcess
+2023-08-31 15:22:50.431208, TRACE, Finalizacion de Ejecucion, RB_ES_EDSA_013_CambioComercializadora
+
+2023-08-31 15:24:04.680463, TRACE, Incio del modulo Init ,Init
+
+2023-08-31 15:24:04.787604, TRACE, Inicio Ejecucion, RB_ES_EDSA_013_CambioComercializadora
+2023-08-31 15:24:04.851451, TRACE, Inicio del modulo Init ,InitConfig
+2023-08-31 15:24:04.997150, TRACE, Fin del modulo Init ,InitConfig
+2023-08-31 15:24:05.073753, INFO, "Inicio del modulo GetAssets" ,GetAssets
+2023-08-31 15:24:11.876099, INFO, "Inicio del modulo GetAssets" ,GetAssets
+2023-08-31 15:24:11.985099, TRACE, Inicio del submodulo KillProcess ,KillProcess
+2023-08-31 15:24:48.955001, TRACE, Fin del submodulo KillProcess ,KillProcess
+2023-08-31 15:24:49.020011, TRACE, Inicio del submodulo InitApps ,InitApps
+2023-08-31 15:24:49.090404, INFO, "Incio del modulo LoginCosmos" ,Login
+2023-08-31 15:25:09.339157, INFO, "Inicio del modulo Obtener Token" ,ObtenerToken
+2023-08-31 15:25:09.402932, INFO, "Fin del modulo Obtener Token" ,ObtenerToken
+2023-08-31 15:25:22.398243, INFO, "Fin del modulo LoginCosmos" ,Login
+2023-08-31 15:25:22.444489, TRACE, Fin del submodulo InitApps ,InitApps
+2023-08-31 15:25:22.490913, TRACE, Fin del modulo Init ,Init
+2023-08-31 15:25:22.913446, TRACE, Inicio del modulo GetTransaction ,GetTransaction
+2023-08-31 15:25:24.997173, TRACE, Fin del modulo GetTransaction ,GetTransaction
+2023-08-31 15:25:25.642817, TRACE, Inicio del modulo Process ,Process
+2023-08-31 15:25:25.722086, INFO, "Inicio del modulo Work Data" ,Work_Data
+2023-08-31 15:25:26.870619, INFO, "Fin del modulo Work Data" ,Work_Data
+2023-08-31 16:17:40.629127, TRACE, Incio del modulo Init ,Init
+
+2023-08-31 16:17:40.734597, TRACE, Inicio Ejecucion, RB_ES_EDSA_013_CambioComercializadora
+2023-08-31 16:17:40.798647, TRACE, Inicio del modulo Init ,InitConfig
+2023-08-31 16:17:40.940333, TRACE, Fin del modulo Init ,InitConfig
+2023-08-31 16:17:41.016628, INFO, "Inicio del modulo GetAssets" ,GetAssets
+2023-08-31 16:17:50.465008, INFO, "Inicio del modulo GetAssets" ,GetAssets
+2023-08-31 16:17:50.541775, TRACE, Inicio del submodulo KillProcess ,KillProcess
+2023-08-31 16:17:55.588940, TRACE, Fin del submodulo KillProcess ,KillProcess
+2023-08-31 16:17:55.657764, TRACE, Inicio del submodulo InitApps ,InitApps
+2023-08-31 16:17:55.725378, INFO, "Incio del modulo LoginCosmos" ,Login
+2023-08-31 16:18:16.052101, INFO, "Inicio del modulo Obtener Token" ,ObtenerToken
+2023-08-31 16:18:16.122866, INFO, "Fin del modulo Obtener Token" ,ObtenerToken
+2023-08-31 16:18:29.771904, INFO, "Fin del modulo LoginCosmos" ,Login
+2023-08-31 16:18:29.817031, TRACE, Fin del submodulo InitApps ,InitApps
+2023-08-31 16:18:29.864065, TRACE, Fin del modulo Init ,Init
+2023-08-31 16:18:30.292201, TRACE, Inicio del modulo GetTransaction ,GetTransaction
+2023-08-31 16:18:32.161889, TRACE, Fin del modulo GetTransaction ,GetTransaction
+2023-08-31 16:18:32.796771, TRACE, Inicio del modulo Process ,Process
+2023-08-31 16:18:32.871719, INFO, "Inicio del modulo Work Data" ,Work_Data
+2023-08-31 16:18:33.911892, INFO, "Fin del modulo Work Data" ,Work_Data
+2023-08-31 16:18:34.030332, INFO, "Inicio del modulo Buscar_Cliente" ,Buscar_Cliente
+2023-08-31 16:18:50.341891, INFO, "Intento de click en Buscar numero "1" de 10" ,Buscar_Cliente
+2023-08-31 17:06:21.873972, TRACE, Incio del modulo Init ,Init
+
+2023-08-31 17:06:21.977502, TRACE, Inicio Ejecucion, RB_ES_EDSA_013_CambioComercializadora
+2023-08-31 17:06:22.042213, TRACE, Inicio del modulo Init ,InitConfig
+2023-08-31 17:06:22.214300, TRACE, Fin del modulo Init ,InitConfig
+2023-08-31 17:06:22.296998, INFO, "Inicio del modulo GetAssets" ,GetAssets
+2023-08-31 17:06:31.872139, INFO, "Inicio del modulo GetAssets" ,GetAssets
+2023-08-31 17:06:31.952191, TRACE, Inicio del submodulo KillProcess ,KillProcess
+2023-08-31 17:06:37.007885, TRACE, Fin del submodulo KillProcess ,KillProcess
+2023-08-31 17:06:37.076185, TRACE, Inicio del submodulo InitApps ,InitApps
+2023-08-31 17:06:37.160045, INFO, "Incio del modulo LoginCosmos" ,Login
+2023-08-31 17:06:57.246166, INFO, "Inicio del modulo Obtener Token" ,ObtenerToken
+2023-08-31 17:06:57.312165, INFO, "Fin del modulo Obtener Token" ,ObtenerToken
+2023-08-31 17:07:11.230691, INFO, "Fin del modulo LoginCosmos" ,Login
+2023-08-31 17:07:11.274503, TRACE, Fin del submodulo InitApps ,InitApps
+2023-08-31 17:07:11.321936, TRACE, Fin del modulo Init ,Init
+2023-08-31 17:07:11.423273, TRACE, Inicio del modulo GetTransaction ,GetTransaction
+2023-08-31 17:07:13.347179, TRACE, Fin del modulo GetTransaction ,GetTransaction
+2023-08-31 17:07:13.980446, TRACE, Inicio del modulo Process ,Process
+2023-08-31 17:07:14.048350, INFO, "Inicio del modulo Work Data" ,Work_Data
+2023-08-31 17:07:15.567319, INFO, "Fin del modulo Work Data" ,Work_Data
+2023-08-31 17:07:15.675371, INFO, "Inicio del modulo Buscar_Cliente" ,Buscar_Cliente
+2023-08-31 17:07:32.546887, INFO, "Intento de click en Buscar numero "1" de 10" ,Buscar_Cliente

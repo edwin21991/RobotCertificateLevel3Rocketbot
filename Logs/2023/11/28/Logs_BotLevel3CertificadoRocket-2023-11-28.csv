@@ -1,0 +1,11 @@
+Hora, Tipo Registro, Mensaje,Robot
+2023-11-28 15:56:27.377846, INFO, None ,InitConfig
+2023-11-28 15:56:27.413859, INFO, Inicio del modulo ,InitConfig
+2023-11-28 15:56:27.726395, INFO, Fin del modulo ,InitConfig
+2023-11-28 15:56:27.770042, INFO, Inicio del modulo ,KillProcess
+2023-11-28 15:56:27.809271, INFO, Fin del modulo ,KillProcess
+2023-11-28 15:56:27.844854, INFO, Inicio del modulo ,InitApps
+2023-11-28 15:56:27.884789, INFO, Incio del modulo ,Login
+2023-11-28 15:56:37.603874, INFO, Fin del modulo ,Login
+2023-11-28 15:56:37.638863, INFO, Fin del modulo ,InitApps
+2023-11-28 15:56:37.676863, INFO, Fin del modulo ,Init

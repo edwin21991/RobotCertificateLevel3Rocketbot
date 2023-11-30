@@ -1,0 +1,309 @@
+Hora, Tipo Registro, Mensaje,Robot
+
+2023-08-22 15:50:59.684102, TRACE, Inicio Ejecucion, RB_ES_EDSA_013_CambioComercializadora
+2023-08-22 15:50:59.750105, TRACE, Inicio del modulo Init ,InitConfig
+2023-08-22 15:50:59.946186, TRACE, Fin del modulo Init ,InitConfig
+2023-08-22 15:51:00.022160, INFO, "Inicio del modulo GetAssets" ,GetAssets
+2023-08-22 15:51:06.284780, INFO, "Inicio del modulo GetAssets" ,GetAssets
+2023-08-22 15:51:06.374432, TRACE, Inicio del submodulo KillProcess ,KillProcess
+2023-08-22 15:51:06.501569, TRACE, Fin del submodulo KillProcess ,KillProcess
+2023-08-22 15:51:06.564984, TRACE, Inicio del submodulo InitApps ,InitApps
+2023-08-22 15:51:06.664211, INFO, "Incio del modulo LoginCosmos" ,LoginTest
+2023-08-22 15:51:29.189823, ERROR, "Error inesperado al intentar loguearse" ,LoginTest
+2023-08-22 15:51:29.237770, TRACE, Fin del submodulo InitApps ,InitApps
+2023-08-22 15:51:29.286825, TRACE, Fin del modulo Init ,Init
+2023-08-22 15:51:35.903946, TRACE, Incio del modulo Init ,Init
+
+2023-08-22 15:51:36.013141, TRACE, Inicio Ejecucion, RB_ES_EDSA_013_CambioComercializadora
+2023-08-22 15:51:36.074027, TRACE, Inicio del modulo Init ,InitConfig
+2023-08-22 15:51:36.226493, TRACE, Fin del modulo Init ,InitConfig
+2023-08-22 15:51:36.308169, INFO, "Inicio del modulo GetAssets" ,GetAssets
+2023-08-22 15:51:42.041981, INFO, "Inicio del modulo GetAssets" ,GetAssets
+2023-08-22 15:51:42.120106, TRACE, Inicio del submodulo KillProcess ,KillProcess
+2023-08-22 15:51:42.240254, TRACE, Fin del submodulo KillProcess ,KillProcess
+2023-08-22 15:51:42.308513, TRACE, Inicio del submodulo InitApps ,InitApps
+2023-08-22 15:51:42.376613, INFO, "Incio del modulo LoginCosmos" ,LoginTest
+2023-08-22 15:52:02.545923, ERROR, "Error inesperado al intentar loguearse" ,LoginTest
+2023-08-22 15:52:02.600926, TRACE, Fin del submodulo InitApps ,InitApps
+2023-08-22 15:52:02.656923, TRACE, Fin del modulo Init ,Init
+2023-08-22 16:06:04.294378, TRACE, Incio del modulo Init ,Init
+
+2023-08-22 16:06:04.395590, TRACE, Inicio Ejecucion, RB_ES_EDSA_013_CambioComercializadora
+2023-08-22 16:06:04.453531, TRACE, Inicio del modulo Init ,InitConfig
+2023-08-22 16:06:04.594990, TRACE, Fin del modulo Init ,InitConfig
+2023-08-22 16:06:04.671986, INFO, "Inicio del modulo GetAssets" ,GetAssets
+2023-08-22 16:06:11.087576, INFO, "Inicio del modulo GetAssets" ,GetAssets
+2023-08-22 16:06:11.178519, TRACE, Inicio del submodulo KillProcess ,KillProcess
+2023-08-22 16:06:11.304522, TRACE, Fin del submodulo KillProcess ,KillProcess
+2023-08-22 16:06:11.378556, TRACE, Inicio del submodulo InitApps ,InitApps
+2023-08-22 16:06:11.445497, INFO, "Incio del modulo LoginCosmos" ,LoginTest
+2023-08-22 16:06:43.930589, INFO, "Fin del modulo LoginCosmos" ,LoginTest
+2023-08-22 16:06:43.976589, TRACE, Fin del submodulo InitApps ,InitApps
+2023-08-22 16:06:44.017468, TRACE, Fin del modulo Init ,Init
+2023-08-22 16:06:44.116937, TRACE, Inicio del modulo GetTransaction ,GetTransaction
+2023-08-22 16:06:46.059771, TRACE, Fin del modulo GetTransaction ,GetTransaction
+2023-08-22 16:06:46.696459, TRACE, Inicio del modulo Process ,Process
+2023-08-22 16:06:46.761784, INFO, "Inicio del modulo Work Data" ,Work_Data
+2023-08-22 16:06:47.674051, INFO, "Fin del modulo Work Data" ,Work_Data
+2023-08-22 16:06:47.793484, INFO, "Inicio del modulo Buscar_Cliente" ,Buscar_Cliente
+2023-08-22 16:06:56.368798, INFO, "Intento de click en Buscar numero "1" de 10" ,Buscar_Cliente
+2023-08-22 16:06:59.346206, INFO, "Intento de click en Buscar numero "2" de 10" ,Buscar_Cliente
+2023-08-22 16:07:02.105529, INFO, "Fin del modulo Buscar_Cliente" ,Buscar_Cliente
+2023-08-22 16:07:02.191867, INFO, "Inicio del modulo Iniciar Simulación" ,Iniciar_Simulacion
+2023-08-22 16:07:27.478427, INFO, "Fin del modulo Iniciar Simulación" ,Iniciar_Simulacion
+2023-08-22 16:07:27.562337, INFO, "Inicio modulo Validacion Cups" ,Validacion_Cups
+2023-08-22 16:23:28.335194, TRACE, Incio del modulo Init ,Init
+
+2023-08-22 16:23:28.427404, TRACE, Inicio Ejecucion, RB_ES_EDSA_013_CambioComercializadora
+2023-08-22 16:23:28.482559, TRACE, Inicio del modulo Init ,InitConfig
+2023-08-22 16:23:28.611691, TRACE, Fin del modulo Init ,InitConfig
+2023-08-22 16:23:28.684055, INFO, "Inicio del modulo GetAssets" ,GetAssets
+2023-08-22 16:23:35.218135, INFO, "Inicio del modulo GetAssets" ,GetAssets
+2023-08-22 16:23:35.290579, TRACE, Inicio del submodulo KillProcess ,KillProcess
+2023-08-22 16:23:40.240672, TRACE, Fin del submodulo KillProcess ,KillProcess
+2023-08-22 16:23:40.299522, TRACE, Inicio del submodulo InitApps ,InitApps
+2023-08-22 16:23:40.359134, INFO, "Incio del modulo LoginCosmos" ,LoginTest
+2023-08-22 16:24:12.258582, INFO, "Fin del modulo LoginCosmos" ,LoginTest
+2023-08-22 16:24:12.297084, TRACE, Fin del submodulo InitApps ,InitApps
+2023-08-22 16:24:12.337795, TRACE, Fin del modulo Init ,Init
+2023-08-22 16:24:12.725496, TRACE, Inicio del modulo GetTransaction ,GetTransaction
+2023-08-22 16:24:15.013661, TRACE, Fin del modulo GetTransaction ,GetTransaction
+2023-08-22 16:24:15.625850, TRACE, Inicio del modulo Process ,Process
+2023-08-22 16:24:15.689874, INFO, "Inicio del modulo Work Data" ,Work_Data
+2023-08-22 16:24:16.625765, INFO, "Fin del modulo Work Data" ,Work_Data
+2023-08-22 16:24:16.735830, INFO, "Inicio del modulo" ,Buscar_Necesidad
+2023-08-22 16:24:26.192098, ERROR, "Error inesperado" ,Buscar_Necesidad
+2023-08-22 16:24:26.280076, INFO, "Inicio del modulo " ,Ultimas_Validaciones
+2023-08-22 16:24:26.348139, INFO, "Reintento numero "1" De "3 ,Ultimas_Validaciones
+2023-08-22 16:24:26.410787, INFO, "Fin del modulo " ,Ultimas_Validaciones
+2023-08-22 16:24:26.499399, INFO, "Inicio del modulo" ,Buscar_Necesidad
+2023-08-22 16:34:09.281934, TRACE, Incio del modulo Init ,Init
+
+2023-08-22 16:34:09.388133, TRACE, Inicio Ejecucion, RB_ES_EDSA_013_CambioComercializadora
+2023-08-22 16:34:09.449707, TRACE, Inicio del modulo Init ,InitConfig
+2023-08-22 16:34:09.599187, TRACE, Fin del modulo Init ,InitConfig
+2023-08-22 16:34:09.677965, INFO, "Inicio del modulo GetAssets" ,GetAssets
+2023-08-22 16:34:15.940527, INFO, "Inicio del modulo GetAssets" ,GetAssets
+2023-08-22 16:34:16.015179, TRACE, Inicio del submodulo KillProcess ,KillProcess
+2023-08-22 16:34:18.761196, TRACE, Fin del submodulo KillProcess ,KillProcess
+2023-08-22 16:34:18.824112, TRACE, Inicio del submodulo InitApps ,InitApps
+2023-08-22 16:34:18.886695, INFO, "Incio del modulo LoginCosmos" ,LoginTest
+2023-08-22 16:34:50.023783, INFO, "Fin del modulo LoginCosmos" ,LoginTest
+2023-08-22 16:34:50.065277, TRACE, Fin del submodulo InitApps ,InitApps
+2023-08-22 16:34:50.108980, TRACE, Fin del modulo Init ,Init
+2023-08-22 16:34:50.200666, TRACE, Inicio del modulo GetTransaction ,GetTransaction
+2023-08-22 16:34:51.749249, TRACE, Fin del modulo GetTransaction ,GetTransaction
+2023-08-22 16:34:52.380047, TRACE, Inicio del modulo Process ,Process
+2023-08-22 16:34:52.429049, INFO, "Inicio del modulo Work Data" ,Work_Data
+2023-08-22 16:34:53.439690, INFO, "Fin del modulo Work Data" ,Work_Data
+2023-08-22 16:34:53.554560, INFO, "Inicio del modulo" ,Buscar_Necesidad
+2023-08-22 16:35:09.509491, INFO, "Inicio del modulo" ,Buscar_Necesidad
+2023-08-22 16:35:09.709093, INFO, "Inicio del modulo finalizar" ,Finalizar_Tramite
+2023-08-22 16:36:39.544939, TRACE, Incio del modulo Init ,Init
+
+2023-08-22 16:36:39.642312, TRACE, Inicio Ejecucion, RB_ES_EDSA_013_CambioComercializadora
+2023-08-22 16:36:39.699919, TRACE, Inicio del modulo Init ,InitConfig
+2023-08-22 16:36:39.839273, TRACE, Fin del modulo Init ,InitConfig
+2023-08-22 16:36:39.939242, INFO, "Inicio del modulo GetAssets" ,GetAssets
+2023-08-22 16:36:46.313871, INFO, "Inicio del modulo GetAssets" ,GetAssets
+2023-08-22 16:36:46.410007, TRACE, Inicio del submodulo KillProcess ,KillProcess
+2023-08-22 16:36:48.922949, TRACE, Fin del submodulo KillProcess ,KillProcess
+2023-08-22 16:36:48.985482, TRACE, Inicio del submodulo InitApps ,InitApps
+2023-08-22 16:36:49.047960, INFO, "Incio del modulo LoginCosmos" ,LoginTest
+2023-08-22 16:37:21.784031, INFO, "Fin del modulo LoginCosmos" ,LoginTest
+2023-08-22 16:37:21.826925, TRACE, Fin del submodulo InitApps ,InitApps
+2023-08-22 16:37:21.871617, TRACE, Fin del modulo Init ,Init
+2023-08-22 16:37:21.972281, TRACE, Inicio del modulo GetTransaction ,GetTransaction
+2023-08-22 16:37:24.270112, TRACE, Fin del modulo GetTransaction ,GetTransaction
+2023-08-22 16:37:24.895266, TRACE, Inicio del modulo Process ,Process
+2023-08-22 16:37:24.959645, INFO, "Inicio del modulo Work Data" ,Work_Data
+2023-08-22 16:37:25.992444, INFO, "Fin del modulo Work Data" ,Work_Data
+2023-08-22 16:37:26.098807, INFO, "Inicio del modulo" ,Buscar_Necesidad
+2023-08-22 16:43:53.192267, ERROR, "Error inesperado" ,Buscar_Necesidad
+2023-08-22 16:43:53.255266, INFO, "Inicio del modulo " ,Ultimas_Validaciones
+2023-08-22 16:43:53.327265, INFO, "Reintento numero "1" De "3 ,Ultimas_Validaciones
+2023-08-22 16:43:53.394285, INFO, "Fin del modulo " ,Ultimas_Validaciones
+2023-08-22 16:43:53.495133, INFO, "Inicio del modulo" ,Buscar_Necesidad
+2023-08-22 16:44:14.143894, TRACE, Incio del modulo Init ,Init
+
+2023-08-22 16:44:14.245026, TRACE, Inicio Ejecucion, RB_ES_EDSA_013_CambioComercializadora
+2023-08-22 16:44:14.305442, TRACE, Inicio del modulo Init ,InitConfig
+2023-08-22 16:44:14.468058, TRACE, Fin del modulo Init ,InitConfig
+2023-08-22 16:44:14.545111, INFO, "Inicio del modulo GetAssets" ,GetAssets
+2023-08-22 16:44:20.791537, INFO, "Inicio del modulo GetAssets" ,GetAssets
+2023-08-22 16:44:20.864460, TRACE, Inicio del submodulo KillProcess ,KillProcess
+2023-08-22 16:44:23.623887, TRACE, Fin del submodulo KillProcess ,KillProcess
+2023-08-22 16:44:23.687393, TRACE, Inicio del submodulo InitApps ,InitApps
+2023-08-22 16:44:23.751324, INFO, "Incio del modulo LoginCosmos" ,LoginTest
+2023-08-22 16:45:10.019155, INFO, "Fin del modulo LoginCosmos" ,LoginTest
+2023-08-22 16:45:10.064153, TRACE, Fin del submodulo InitApps ,InitApps
+2023-08-22 16:45:10.106403, TRACE, Fin del modulo Init ,Init
+2023-08-22 16:45:10.506953, TRACE, Inicio del modulo GetTransaction ,GetTransaction
+2023-08-22 16:45:12.582514, TRACE, Fin del modulo GetTransaction ,GetTransaction
+2023-08-22 16:45:13.220644, TRACE, Inicio del modulo Process ,Process
+2023-08-22 16:45:13.288455, INFO, "Inicio del modulo Work Data" ,Work_Data
+2023-08-22 16:45:14.383114, INFO, "Fin del modulo Work Data" ,Work_Data
+2023-08-22 16:45:14.494343, INFO, "Inicio del modulo" ,Buscar_Necesidad
+2023-08-22 16:45:36.577266, INFO, "Inicio del modulo" ,Buscar_Necesidad
+2023-08-22 16:45:36.777911, INFO, "Inicio del modulo finalizar" ,Finalizar_Tramite
+2023-08-22 16:51:15.605179, TRACE, Incio del modulo Init ,Init
+
+2023-08-22 16:51:15.916760, TRACE, Inicio Ejecucion, RB_ES_EDSA_013_CambioComercializadora
+2023-08-22 16:51:16.108680, TRACE, Inicio del modulo Init ,InitConfig
+2023-08-22 16:51:16.554225, TRACE, Fin del modulo Init ,InitConfig
+2023-08-22 16:51:16.833928, INFO, "Inicio del modulo GetAssets" ,GetAssets
+2023-08-22 16:51:24.531201, INFO, "Inicio del modulo GetAssets" ,GetAssets
+2023-08-22 16:51:24.793699, TRACE, Inicio del submodulo KillProcess ,KillProcess
+2023-08-22 16:51:29.365109, TRACE, Fin del submodulo KillProcess ,KillProcess
+2023-08-22 16:51:29.584143, TRACE, Inicio del submodulo InitApps ,InitApps
+2023-08-22 16:51:29.788967, INFO, "Incio del modulo LoginCosmos" ,LoginTest
+2023-08-22 16:52:09.230467, INFO, "Fin del modulo LoginCosmos" ,LoginTest
+2023-08-22 16:52:09.374031, TRACE, Fin del submodulo InitApps ,InitApps
+2023-08-22 16:52:09.516097, TRACE, Fin del modulo Init ,Init
+2023-08-22 16:52:10.003703, TRACE, Inicio del modulo GetTransaction ,GetTransaction
+2023-08-22 16:52:12.054207, TRACE, Fin del modulo GetTransaction ,GetTransaction
+2023-08-22 16:52:12.813546, TRACE, Inicio del modulo Process ,Process
+2023-08-22 16:52:13.043993, INFO, "Inicio del modulo Work Data" ,Work_Data
+2023-08-22 16:52:14.623040, INFO, "Fin del modulo Work Data" ,Work_Data
+2023-08-22 16:52:14.818853, INFO, "Inicio del modulo" ,Buscar_Necesidad
+2023-08-22 16:54:03.109282, INFO, "Inicio del modulo" ,Buscar_Necesidad
+2023-08-22 16:54:03.593608, INFO, "Inicio del modulo finalizar" ,Finalizar_Tramite
+2023-08-22 16:55:09.444921, TRACE, Incio del modulo Init ,Init
+
+2023-08-22 16:55:09.794568, TRACE, Inicio Ejecucion, RB_ES_EDSA_013_CambioComercializadora
+2023-08-22 16:55:09.999593, TRACE, Inicio del modulo Init ,InitConfig
+2023-08-22 16:55:10.439624, TRACE, Fin del modulo Init ,InitConfig
+2023-08-22 16:55:10.669661, INFO, "Inicio del modulo GetAssets" ,GetAssets
+2023-08-22 16:55:18.515874, INFO, "Inicio del modulo GetAssets" ,GetAssets
+2023-08-22 16:55:18.875481, TRACE, Inicio del submodulo KillProcess ,KillProcess
+2023-08-22 16:55:23.829731, TRACE, Fin del submodulo KillProcess ,KillProcess
+2023-08-22 16:55:24.069818, TRACE, Inicio del submodulo InitApps ,InitApps
+2023-08-22 16:55:24.323856, INFO, "Incio del modulo LoginCosmos" ,LoginTest
+2023-08-22 16:56:04.109891, INFO, "Fin del modulo LoginCosmos" ,LoginTest
+2023-08-22 16:56:04.246754, TRACE, Fin del submodulo InitApps ,InitApps
+2023-08-22 16:56:04.435013, TRACE, Fin del modulo Init ,Init
+2023-08-22 16:56:54.375079, TRACE, Incio del modulo Init ,Init
+
+2023-08-22 16:56:54.716303, TRACE, Inicio Ejecucion, RB_ES_EDSA_013_CambioComercializadora
+2023-08-22 16:56:54.945280, TRACE, Inicio del modulo Init ,InitConfig
+2023-08-22 16:56:55.434950, TRACE, Fin del modulo Init ,InitConfig
+2023-08-22 16:56:55.721058, INFO, "Inicio del modulo GetAssets" ,GetAssets
+2023-08-22 16:57:03.645294, INFO, "Inicio del modulo GetAssets" ,GetAssets
+2023-08-22 16:57:03.888794, TRACE, Inicio del submodulo KillProcess ,KillProcess
+2023-08-22 16:57:07.255726, TRACE, Fin del submodulo KillProcess ,KillProcess
+2023-08-22 16:57:07.437824, TRACE, Inicio del submodulo InitApps ,InitApps
+2023-08-22 16:57:07.615441, INFO, "Incio del modulo LoginCosmos" ,LoginTest
+2023-08-22 16:57:58.177974, INFO, "Fin del modulo LoginCosmos" ,LoginTest
+2023-08-22 16:57:58.336597, TRACE, Fin del submodulo InitApps ,InitApps
+2023-08-22 16:57:58.526677, TRACE, Fin del modulo Init ,Init
+2023-08-22 16:57:59.226401, TRACE, Inicio del modulo GetTransaction ,GetTransaction
+2023-08-22 16:58:01.536491, TRACE, Fin del modulo GetTransaction ,GetTransaction
+2023-08-22 16:58:02.336827, TRACE, Inicio del modulo Process ,Process
+2023-08-22 16:58:02.427319, INFO, "Inicio del modulo Work Data" ,Work_Data
+2023-08-22 16:58:03.641358, INFO, "Fin del modulo Work Data" ,Work_Data
+2023-08-22 16:58:03.929219, INFO, "Inicio del modulo" ,Buscar_Necesidad
+2023-08-22 16:58:50.609725, INFO, "Inicio del modulo" ,Buscar_Necesidad
+2023-08-22 16:58:51.117383, INFO, "Inicio del modulo finalizar" ,Finalizar_Tramite
+2023-08-22 17:00:01.706529, TRACE, Incio del modulo Init ,Init
+
+2023-08-22 17:00:02.092101, TRACE, Inicio Ejecucion, RB_ES_EDSA_013_CambioComercializadora
+2023-08-22 17:00:02.314443, TRACE, Inicio del modulo Init ,InitConfig
+2023-08-22 17:00:02.807158, TRACE, Fin del modulo Init ,InitConfig
+2023-08-22 17:00:03.071763, INFO, "Inicio del modulo GetAssets" ,GetAssets
+2023-08-22 17:00:10.547072, INFO, "Inicio del modulo GetAssets" ,GetAssets
+2023-08-22 17:00:10.797245, TRACE, Inicio del submodulo KillProcess ,KillProcess
+2023-08-22 17:00:14.408407, TRACE, Fin del submodulo KillProcess ,KillProcess
+2023-08-22 17:00:14.597417, TRACE, Inicio del submodulo InitApps ,InitApps
+2023-08-22 17:00:14.807216, INFO, "Incio del modulo LoginCosmos" ,LoginTest
+2023-08-22 17:00:51.622395, INFO, "Fin del modulo LoginCosmos" ,LoginTest
+2023-08-22 17:00:51.746442, TRACE, Fin del submodulo InitApps ,InitApps
+2023-08-22 17:00:51.887390, TRACE, Fin del modulo Init ,Init
+2023-08-22 17:00:52.462296, TRACE, Inicio del modulo GetTransaction ,GetTransaction
+2023-08-22 17:00:54.927181, TRACE, Fin del modulo GetTransaction ,GetTransaction
+2023-08-22 17:00:55.708245, TRACE, Inicio del modulo Process ,Process
+2023-08-22 17:00:55.921970, INFO, "Inicio del modulo Work Data" ,Work_Data
+2023-08-22 17:00:57.487227, INFO, "Fin del modulo Work Data" ,Work_Data
+2023-08-22 17:00:57.652537, INFO, "Inicio del modulo" ,Buscar_Necesidad
+2023-08-22 17:01:23.153359, INFO, "Inicio del modulo" ,Buscar_Necesidad
+2023-08-22 17:01:23.637223, INFO, "Inicio del modulo finalizar" ,Finalizar_Tramite
+2023-08-22 17:02:15.869284, ERROR, "Error inesperado" ,Finalizar_Tramite
+2023-08-22 17:02:16.049235, INFO, "Inicio del modulo Venta Caida" ,Venta_Caida
+2023-08-22 17:02:16.337578, ERROR, "No se logro dejar el caso como venta caida" ,Venta_Caida
+2023-08-22 17:02:16.535865, INFO, "Inicio del modulo " ,Ultimas_Validaciones
+2023-08-22 17:02:16.788720, INFO, "Reintento numero "1" De "3 ,Ultimas_Validaciones
+2023-08-22 17:02:16.897771, INFO, "Fin del modulo " ,Ultimas_Validaciones
+2023-08-22 17:02:17.232710, INFO, "Inicio del modulo" ,Buscar_Necesidad
+2023-08-22 17:02:19.612535, ERROR, "Error inesperado" ,Buscar_Necesidad
+2023-08-22 17:02:19.847347, INFO, "Inicio del modulo " ,Ultimas_Validaciones
+2023-08-22 17:02:20.037563, INFO, "Reintento numero "2" De "3 ,Ultimas_Validaciones
+2023-08-22 17:02:20.218223, INFO, "Fin del modulo " ,Ultimas_Validaciones
+2023-08-22 17:02:20.507486, INFO, "Inicio del modulo" ,Buscar_Necesidad
+2023-08-22 17:02:55.833717, TRACE, Incio del modulo Init ,Init
+
+2023-08-22 17:02:56.218544, TRACE, Inicio Ejecucion, RB_ES_EDSA_013_CambioComercializadora
+2023-08-22 17:02:56.503904, TRACE, Inicio del modulo Init ,InitConfig
+2023-08-22 17:02:56.871007, TRACE, Fin del modulo Init ,InitConfig
+2023-08-22 17:02:57.058499, INFO, "Inicio del modulo GetAssets" ,GetAssets
+2023-08-22 17:03:03.604092, INFO, "Inicio del modulo GetAssets" ,GetAssets
+2023-08-22 17:03:03.833068, TRACE, Inicio del submodulo KillProcess ,KillProcess
+2023-08-22 17:03:06.941177, TRACE, Fin del submodulo KillProcess ,KillProcess
+2023-08-22 17:03:07.113965, TRACE, Inicio del submodulo InitApps ,InitApps
+2023-08-22 17:03:07.289145, INFO, "Incio del modulo LoginCosmos" ,LoginTest
+2023-08-22 17:03:14.684089, ERROR, "Error inesperado al intentar loguearse" ,LoginTest
+2023-08-22 17:03:14.794037, TRACE, Fin del submodulo InitApps ,InitApps
+2023-08-22 17:03:14.909060, TRACE, Fin del modulo Init ,Init
+2023-08-22 17:03:24.874086, TRACE, Incio del modulo Init ,Init
+
+2023-08-22 17:03:25.124247, TRACE, Inicio Ejecucion, RB_ES_EDSA_013_CambioComercializadora
+2023-08-22 17:03:25.280825, TRACE, Inicio del modulo Init ,InitConfig
+2023-08-22 17:03:25.648702, TRACE, Fin del modulo Init ,InitConfig
+2023-08-22 17:03:25.860886, INFO, "Inicio del modulo GetAssets" ,GetAssets
+2023-08-22 17:03:32.873854, INFO, "Inicio del modulo GetAssets" ,GetAssets
+2023-08-22 17:03:33.104228, TRACE, Inicio del submodulo KillProcess ,KillProcess
+2023-08-22 17:03:35.873887, TRACE, Fin del submodulo KillProcess ,KillProcess
+2023-08-22 17:03:36.073930, TRACE, Inicio del submodulo InitApps ,InitApps
+2023-08-22 17:03:36.233737, INFO, "Incio del modulo LoginCosmos" ,LoginTest
+2023-08-22 17:04:18.144212, INFO, "Fin del modulo LoginCosmos" ,LoginTest
+2023-08-22 17:04:18.254254, TRACE, Fin del submodulo InitApps ,InitApps
+2023-08-22 17:04:18.369171, TRACE, Fin del modulo Init ,Init
+2023-08-22 17:04:18.644286, TRACE, Inicio del modulo GetTransaction ,GetTransaction
+2023-08-22 17:04:21.123940, TRACE, Fin del modulo GetTransaction ,GetTransaction
+2023-08-22 17:04:21.874056, TRACE, Inicio del modulo Process ,Process
+2023-08-22 17:04:22.034301, INFO, "Inicio del modulo Work Data" ,Work_Data
+2023-08-22 17:04:23.174395, INFO, "Fin del modulo Work Data" ,Work_Data
+2023-08-22 17:04:23.412082, INFO, "Inicio del modulo" ,Buscar_Necesidad
+2023-08-22 17:04:44.716120, INFO, "Inicio del modulo" ,Buscar_Necesidad
+2023-08-22 17:04:45.003920, INFO, "Inicio del modulo finalizar" ,Finalizar_Tramite
+2023-08-22 17:05:50.269694, INFO, "Inicio del modulo finalizar" ,Finalizar_Tramite
+2023-08-22 17:05:50.404552, INFO, "Inicio del modulo Metodo de pago" ,Metodo_Pago
+2023-08-22 17:06:50.920473, INFO, "Fin del modulo Metodo de pago" ,Metodo_Pago
+2023-08-22 17:06:51.120410, INFO, "Inicio del modulo Firmar contrato" ,Firmar_Contrato
+2023-08-22 17:06:51.337820, ERROR, "Error inesperado" ,Firmar_Contrato
+2023-08-22 17:06:51.538221, INFO, "Inicio del modulo Venta Caida" ,Venta_Caida
+2023-08-22 17:06:53.978047, ERROR, "No se logro dejar el caso como venta caida" ,Venta_Caida
+2023-08-22 17:06:54.113957, INFO, "Inicio del modulo " ,Ultimas_Validaciones
+2023-08-22 17:06:54.190412, INFO, "Reintento numero "1" De "3 ,Ultimas_Validaciones
+2023-08-22 17:06:54.359896, INFO, "Fin del modulo " ,Ultimas_Validaciones
+2023-08-22 17:06:54.597069, INFO, "Inicio del modulo" ,Buscar_Necesidad
+2023-08-22 17:31:23.435574, TRACE, Incio del modulo Init ,Init
+
+2023-08-22 17:31:23.723020, TRACE, Inicio Ejecucion, RB_ES_EDSA_013_CambioComercializadora
+2023-08-22 17:31:23.918483, TRACE, Inicio del modulo Init ,InitConfig
+2023-08-22 17:31:24.365345, TRACE, Fin del modulo Init ,InitConfig
+2023-08-22 17:31:24.593186, INFO, "Inicio del modulo GetAssets" ,GetAssets
+2023-08-22 17:31:31.722987, INFO, "Inicio del modulo GetAssets" ,GetAssets
+2023-08-22 17:31:31.998752, TRACE, Inicio del submodulo KillProcess ,KillProcess
+2023-08-22 17:31:37.648242, TRACE, Fin del submodulo KillProcess ,KillProcess
+2023-08-22 17:31:37.847290, TRACE, Inicio del submodulo InitApps ,InitApps
+2023-08-22 17:31:38.043170, INFO, "Incio del modulo LoginCosmos" ,LoginTest
+2023-08-22 17:32:15.881655, INFO, "Fin del modulo LoginCosmos" ,LoginTest
+2023-08-22 17:32:16.044275, TRACE, Fin del submodulo InitApps ,InitApps
+2023-08-22 17:32:16.184079, TRACE, Fin del modulo Init ,Init
+2023-08-22 17:32:16.565583, TRACE, Inicio del modulo GetTransaction ,GetTransaction
+2023-08-22 17:32:18.346022, TRACE, Fin del modulo GetTransaction ,GetTransaction
+2023-08-22 17:32:19.399054, TRACE, Inicio del modulo Process ,Process
+2023-08-22 17:32:19.532758, INFO, "Inicio del modulo Work Data" ,Work_Data
+2023-08-22 17:32:20.893344, INFO, "Fin del modulo Work Data" ,Work_Data
+2023-08-22 17:32:21.014126, INFO, "Inicio del modulo" ,Buscar_Necesidad
+2023-08-22 17:32:44.335537, INFO, "Inicio del modulo" ,Buscar_Necesidad
+2023-08-22 17:32:44.659245, INFO, "Inicio del modulo finalizar" ,Finalizar_Tramite

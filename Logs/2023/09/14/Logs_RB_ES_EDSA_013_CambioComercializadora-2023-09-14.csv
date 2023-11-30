@@ -1,0 +1,110 @@
+Hora, Tipo Registro, Mensaje,Robot
+
+2023-09-14 15:06:53.453147, TRACE, Inicio Ejecucion, RB_ES_EDSA_013_CambioComercializadora
+2023-09-14 15:06:53.515881, TRACE, Inicio del modulo Init ,InitConfig
+2023-09-14 15:06:53.590270, TRACE, Fin del modulo Init ,InitConfig
+2023-09-14 15:06:53.678688, INFO, Inicio del modulo envio de correo ,NotificacionesCorreo
+2023-09-14 15:06:53.769826, INFO, "Conecta con el server de gmail" ,NotificacionesCorreo
+2023-09-14 15:06:55.232184, INFO, "Valida si es un correo de inicio o de fin" ,NotificacionesCorreo
+2023-09-14 15:06:56.817993, INFO, "Valido que es un correo de Inicio" ,NotificacionesCorreo
+2023-09-14 15:06:56.871343, INFO, Se conecto y envio correo correctamente ,NotificacionesCorreo
+2023-09-14 15:06:56.924781, INFO, Finaliza el modulo de envio de correo ,NotificacionesCorreo
+2023-09-14 15:06:56.997227, TRACE, Inicio del submodulo KillProcess ,KillProcess
+2023-09-14 15:07:33.771146, TRACE, Fin del submodulo KillProcess ,KillProcess
+2023-09-14 15:07:33.849162, TRACE, Inicio del submodulo InitApps ,InitApps
+2023-09-14 15:07:33.929076, INFO, "Incio del modulo LoginCosmos" ,Login
+2023-09-14 15:07:52.086551, INFO, "Inicio del modulo Obtener Token" ,ObtenerToken
+2023-09-14 15:07:52.146583, INFO, "Fin del modulo Obtener Token" ,ObtenerToken
+2023-09-14 15:08:02.800438, INFO, "Fin del modulo LoginCosmos" ,Login
+2023-09-14 15:08:02.861629, TRACE, Fin del submodulo InitApps ,InitApps
+2023-09-14 15:08:02.913680, TRACE, Fin del modulo Init ,Init
+2023-09-14 15:08:06.460830, TRACE, Inicio del modulo GetTransaction ,GetTransaction
+2023-09-14 15:08:08.610625, TRACE, Fin del modulo GetTransaction ,GetTransaction
+2023-09-14 15:08:09.183360, TRACE, Inicio del modulo Process ,Process
+2023-09-14 15:08:09.231877, INFO, "Inicio del modulo Work Data" ,Work_Data
+2023-09-14 15:08:09.730236, INFO, "Inicio del modulo Chage Status BPM" ,Change_Status_BPM
+2023-09-14 15:08:14.485206, INFO, "Fin del modulo Chage Status BPM" ,Change_Status_BPM
+2023-09-14 15:08:14.564206, INFO, "Fin del modulo Work Data" ,Work_Data
+2023-09-14 15:08:14.679206, INFO, "Inicio del modulo" ,Buscar_Necesidad
+2023-09-14 15:08:36.215380, ERROR, "No existe la necesidad" ,Buscar_Necesidad
+2023-09-14 15:08:36.238937, INFO, "Fin del modulo" ,Buscar_Necesidad
+2023-09-14 15:08:36.278473, INFO, "Inicio del modulo " ,Ultimas_Validaciones
+2023-09-14 15:08:36.304618, INFO, "Reintento numero "1" De "3 ,Ultimas_Validaciones
+2023-09-14 15:08:36.372701, INFO, "Fin del modulo " ,Ultimas_Validaciones
+2023-09-14 15:08:36.470655, INFO, "Inicio del modulo" ,Buscar_Necesidad
+2023-09-14 15:08:48.951719, ERROR, "Error inesperado" ,Buscar_Necesidad
+2023-09-14 15:08:49.028905, INFO, "Inicio del modulo " ,Ultimas_Validaciones
+2023-09-14 15:08:49.091862, INFO, "Reintento numero "2" De "3 ,Ultimas_Validaciones
+2023-09-14 15:08:49.154605, INFO, "Fin del modulo " ,Ultimas_Validaciones
+2023-09-14 15:08:49.249225, INFO, "Inicio del modulo" ,Buscar_Necesidad
+2023-09-14 15:09:01.684374, ERROR, "Error inesperado" ,Buscar_Necesidad
+2023-09-14 15:09:01.744493, INFO, "Inicio del modulo " ,Ultimas_Validaciones
+2023-09-14 15:09:01.775577, INFO, "Reintento numero "3" De "3 ,Ultimas_Validaciones
+2023-09-14 15:09:01.804817, INFO, "Fin del modulo " ,Ultimas_Validaciones
+2023-09-14 15:09:01.867693, INFO, "Incio del modulo SetTransactionStatus" ,Set_Transaction_Status
+2023-09-14 15:09:01.929901, INFO, "Inicio del modulo Chage Status BPM" ,Change_Status_BPM
+2023-09-14 15:09:03.866669, INFO, Inicio del modulo envio de correo ,NotificacionesCorreo
+2023-09-14 15:09:03.956109, INFO, "Conecta con el server de gmail" ,NotificacionesCorreo
+2023-09-14 15:09:04.537662, INFO, "Valida si es un correo de inicio o de fin" ,NotificacionesCorreo
+2023-09-14 15:09:06.152570, INFO, "Valido que es un correo de Inicio" ,NotificacionesCorreo
+2023-09-14 15:09:06.203552, ERROR, No se pudo enviar correo ,NotificacionesCorreo
+2023-09-14 15:09:06.240496, INFO, "Conecta con el server de gmail" ,NotificacionesCorreo
+2023-09-14 15:09:07.601003, INFO, "Valida si es un correo de inicio o de fin" ,NotificacionesCorreo
+2023-09-14 15:09:09.203666, INFO, "Valido que es un correo de Inicio" ,NotificacionesCorreo
+2023-09-14 15:09:09.239602, INFO, Se conecto y envio correo correctamente ,NotificacionesCorreo
+2023-09-14 15:09:09.267630, INFO, Finaliza el modulo de envio de correo ,NotificacionesCorreo
+2023-09-14 15:09:13.527473, INFO, "Fin del modulo Chage Status BPM" ,Change_Status_BPM
+2023-09-14 15:09:13.568477, INFO, "Fin del modulo SetTransactionStatus" ,Set_Transaction_Status
+2023-09-14 15:09:13.610093, TRACE, Fin del modulo Process ,Process
+2023-09-14 15:09:14.330426, TRACE, Inicio del modulo EndProcess ,EndProcess
+2023-09-14 15:09:14.385474, TRACE, Inicio del submodulo KillProcess ,KillProcess
+2023-09-14 15:09:19.171889, TRACE, Fin del submodulo KillProcess ,KillProcess
+2023-09-14 15:09:19.230919, TRACE, Fin del modulo EndProcess ,EndProcess
+2023-09-14 15:09:19.264308, TRACE, Finalizacion de Ejecucion, RB_ES_EDSA_013_CambioComercializadora
+
+2023-09-14 15:26:49.834024, TRACE, Incio del modulo Init ,Init
+2023-09-14 15:26:49.895463, INFO, "Inicio del modulo GetAssets" ,GetAssets
+2023-09-14 15:27:01.523660, INFO, "Inicio del modulo GetAssets" ,GetAssets
+
+2023-09-14 15:27:01.641681, TRACE, Inicio Ejecucion, RB_ES_EDSA_013_CambioComercializadora
+2023-09-14 15:27:01.699759, TRACE, Inicio del modulo Init ,InitConfig
+2023-09-14 15:27:01.779208, TRACE, Fin del modulo Init ,InitConfig
+2023-09-14 15:27:01.854930, INFO, Inicio del modulo envio de correo ,NotificacionesCorreo
+2023-09-14 15:27:01.948399, INFO, "Conecta con el server de gmail" ,NotificacionesCorreo
+2023-09-14 15:27:03.376330, INFO, "Valida si es un correo de inicio o de fin" ,NotificacionesCorreo
+2023-09-14 15:27:05.575569, INFO, "Valido que es un correo de Inicio" ,NotificacionesCorreo
+2023-09-14 15:27:05.628399, INFO, Se conecto y envio correo correctamente ,NotificacionesCorreo
+2023-09-14 15:27:05.679146, INFO, Finaliza el modulo de envio de correo ,NotificacionesCorreo
+2023-09-14 15:27:05.743049, TRACE, Inicio del submodulo KillProcess ,KillProcess
+2023-09-14 15:27:42.650262, TRACE, Fin del submodulo KillProcess ,KillProcess
+2023-09-14 15:27:42.714701, TRACE, Inicio del submodulo InitApps ,InitApps
+2023-09-14 15:27:42.779199, INFO, "Incio del modulo LoginCosmos" ,Login
+2023-09-14 15:28:04.526998, INFO, "Inicio del modulo Obtener Token" ,ObtenerToken
+2023-09-14 15:28:04.591179, INFO, "Fin del modulo Obtener Token" ,ObtenerToken
+2023-09-14 15:28:18.181931, INFO, "Fin del modulo LoginCosmos" ,Login
+2023-09-14 15:28:18.226870, TRACE, Fin del submodulo InitApps ,InitApps
+2023-09-14 15:28:18.279677, TRACE, Fin del modulo Init ,Init
+2023-09-14 15:28:22.639881, TRACE, Inicio del modulo GetTransaction ,GetTransaction
+2023-09-14 15:28:26.104788, TRACE, Fin del modulo GetTransaction ,GetTransaction
+2023-09-14 15:28:26.697697, TRACE, Inicio del modulo Process ,Process
+2023-09-14 15:28:26.738698, INFO, "Inicio del modulo Work Data" ,Work_Data
+2023-09-14 15:28:27.425695, INFO, "Inicio del modulo Chage Status BPM" ,Change_Status_BPM
+2023-09-14 15:28:30.001681, INFO, "Fin del modulo Chage Status BPM" ,Change_Status_BPM
+2023-09-14 15:28:30.068303, INFO, "Fin del modulo Work Data" ,Work_Data
+2023-09-14 15:28:30.156705, INFO, "Inicio del modulo" ,Buscar_Necesidad
+2023-09-14 15:28:51.634623, ERROR, "No existe la necesidad" ,Buscar_Necesidad
+2023-09-14 15:28:51.658123, INFO, "Fin del modulo" ,Buscar_Necesidad
+2023-09-14 15:28:51.699493, INFO, "Inicio del modulo " ,Ultimas_Validaciones
+2023-09-14 15:28:51.730985, INFO, "Se pasa la variable de reintentoS a "3+1" Para salir del bucle" ,Ultimas_Validaciones
+2023-09-14 15:28:51.779233, INFO, "Fin del modulo " ,Ultimas_Validaciones
+2023-09-14 15:28:51.842969, INFO, "Incio del modulo SetTransactionStatus" ,Set_Transaction_Status
+2023-09-14 15:28:51.905241, INFO, "Inicio del modulo Chage Status BPM" ,Change_Status_BPM
+2023-09-14 15:28:56.089953, INFO, "Fin del modulo Chage Status BPM" ,Change_Status_BPM
+2023-09-14 15:28:56.134914, INFO, "Fin del modulo SetTransactionStatus" ,Set_Transaction_Status
+2023-09-14 15:28:56.164912, TRACE, Fin del modulo Process ,Process
+2023-09-14 15:28:56.955589, TRACE, Inicio del modulo EndProcess ,EndProcess
+2023-09-14 15:28:57.011588, TRACE, Inicio del submodulo KillProcess ,KillProcess
+2023-09-14 15:29:01.694953, TRACE, Fin del submodulo KillProcess ,KillProcess
+2023-09-14 15:29:01.724477, TRACE, Fin del modulo EndProcess ,EndProcess
+2023-09-14 15:29:01.768766, TRACE, Finalizacion de Ejecucion, RB_ES_EDSA_013_CambioComercializadora
+

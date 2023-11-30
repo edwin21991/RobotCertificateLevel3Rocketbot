@@ -1,0 +1,924 @@
+Hora, Tipo Registro, Mensaje,Robot
+
+2023-09-07 15:33:34.392801, TRACE, Inicio Ejecucion, RB_ES_EDSA_017_CambioComercializadora
+2023-09-07 15:33:34.461233, TRACE, Inicio del modulo Init ,InitConfig
+2023-09-07 15:33:34.727992, TRACE, Fin del modulo Init ,InitConfig
+2023-09-07 15:33:34.803968, TRACE, Inicio del submodulo KillProcess ,KillProcess
+2023-09-07 15:33:34.957477, TRACE, Fin del submodulo KillProcess ,KillProcess
+2023-09-07 15:33:35.020460, TRACE, Inicio del submodulo InitApps ,InitApps
+2023-09-07 15:33:35.084685, INFO, "Incio del modulo LoginCosmos" ,Login
+2023-09-07 15:33:54.315591, INFO, "Inicio del modulo Obtener Token" ,ObtenerToken
+2023-09-07 15:33:54.399654, INFO, "Fin del modulo Obtener Token" ,ObtenerToken
+2023-09-07 15:34:08.417406, INFO, "Fin del modulo LoginCosmos" ,Login
+2023-09-07 15:34:08.460445, TRACE, Fin del submodulo InitApps ,InitApps
+2023-09-07 15:34:08.505549, TRACE, Fin del modulo Init ,Init
+2023-09-07 15:34:08.829860, TRACE, Inicio del modulo GetTransaction ,GetTransaction
+2023-09-07 15:34:12.147650, TRACE, Fin del modulo GetTransaction ,GetTransaction
+2023-09-07 15:34:12.802360, TRACE, Inicio del modulo Process ,Process
+2023-09-07 15:34:12.888003, INFO, "Inicio del modulo Work Data" ,Work_Data
+2023-09-07 15:34:14.407741, INFO, "Fin del modulo Work Data" ,Work_Data
+2023-09-07 15:34:14.534012, INFO, "Inicio del modulo Buscar_Cliente" ,Buscar_Cliente
+2023-09-07 15:35:24.058955, INFO, "Intento de click en Buscar numero "1" de 10" ,Buscar_Cliente
+2023-09-07 15:35:27.070373, INFO, "Intento de click en Buscar numero "2" de 10" ,Buscar_Cliente
+2023-09-07 15:35:29.818209, INFO, "Fin del modulo Buscar_Cliente" ,Buscar_Cliente
+2023-09-07 15:35:29.899896, INFO, "Inicio del modulo Iniciar Simulación" ,Iniciar_Simulacion
+2023-09-07 15:35:55.818256, INFO, "Fin del modulo Iniciar Simulación" ,Iniciar_Simulacion
+2023-09-07 15:35:55.908944, INFO, "Inicio modulo Validacion Cups" ,Validacion_Cups
+2023-09-07 15:36:02.395815, INFO, "El cups existe y esta en vigor " ,Validacion_Cups
+2023-09-07 15:36:02.474708, INFO, "Inicio del modulo" ,Cambio_Comercializadora
+2023-09-07 15:36:02.527352, INFO, "Pantalla del boton Contratación" ,Cambio_Comercializadora
+2023-09-07 15:36:02.970916, INFO, "Pantalla del boton Nueva Oferta" ,Cambio_Comercializadora
+2023-09-07 15:36:13.685810, INFO, "Pantalla donde se busca por Cups" ,Cambio_Comercializadora
+2023-09-07 15:36:21.673804, INFO, "Pantalla donde se da click en la dirección" ,Cambio_Comercializadora
+2023-09-07 15:36:23.180081, INFO, "Pantalla de validación de suministro" ,Cambio_Comercializadora
+2023-09-07 15:39:02.160976, INFO, "Fin del modulo" ,Cambio_Comercializadora
+2023-09-07 15:39:02.250988, INFO, "Inicio del modulo" ,Actualizar_Potencia
+2023-09-07 15:39:15.037149, INFO, "Fin del modulo Modificación de potencia" ,Actualizar_Potencia
+2023-09-07 15:39:15.129073, INFO, "Inicio del modulo" ,Configuracion_Tarifa
+2023-09-07 15:39:58.708926, INFO, "Fin del modulo" ,MOD_PRODUCTO_COSMOS_MOD_LUZ_20_LIBRE_ENDESA
+2023-09-07 15:39:59.360015, INFO, "Fin del modulo" ,Configuracion_Tarifa
+2023-09-07 15:39:59.442540, INFO, "Inicio del modulo Metodo de pago" ,Metodo_Pago
+
+2023-09-07 16:13:01.280451, TRACE, Inicio Ejecucion, RB_ES_EDSA_017_CambioComercializadora
+2023-09-07 16:13:01.339391, TRACE, Inicio del modulo Init ,InitConfig
+2023-09-07 16:13:01.493502, TRACE, Fin del modulo Init ,InitConfig
+2023-09-07 16:13:01.569492, TRACE, Inicio del submodulo KillProcess ,KillProcess
+2023-09-07 16:13:01.708355, TRACE, Fin del submodulo KillProcess ,KillProcess
+2023-09-07 16:13:01.773538, TRACE, Inicio del submodulo InitApps ,InitApps
+2023-09-07 16:13:01.839695, INFO, "Incio del modulo LoginCosmos" ,Login
+2023-09-07 16:13:21.817351, INFO, "Inicio del modulo Obtener Token" ,ObtenerToken
+2023-09-07 16:13:21.895769, INFO, "Fin del modulo Obtener Token" ,ObtenerToken
+2023-09-07 16:13:35.950203, INFO, "Fin del modulo LoginCosmos" ,Login
+2023-09-07 16:13:35.997506, TRACE, Fin del submodulo InitApps ,InitApps
+2023-09-07 16:13:36.046694, TRACE, Fin del modulo Init ,Init
+2023-09-07 16:13:36.158358, TRACE, Inicio del modulo GetTransaction ,GetTransaction
+2023-09-07 16:13:38.251305, TRACE, Fin del modulo GetTransaction ,GetTransaction
+2023-09-07 16:13:38.894898, TRACE, Inicio del modulo Process ,Process
+2023-09-07 16:13:38.969165, INFO, "Inicio del modulo Work Data" ,Work_Data
+2023-09-07 16:13:39.994078, INFO, "Fin del modulo Work Data" ,Work_Data
+2023-09-07 16:13:40.121311, INFO, "Inicio del modulo Buscar_Cliente" ,Buscar_Cliente
+2023-09-07 16:14:07.290256, INFO, "Intento de click en Buscar numero "1" de 10" ,Buscar_Cliente
+2023-09-07 16:14:10.240168, INFO, "Fin del modulo Buscar_Cliente" ,Buscar_Cliente
+2023-09-07 16:14:10.332871, INFO, "Inicio del modulo Iniciar Simulación" ,Iniciar_Simulacion
+2023-09-07 16:14:34.475179, INFO, "Fin del modulo Iniciar Simulación" ,Iniciar_Simulacion
+2023-09-07 16:14:34.567634, INFO, "Inicio modulo Validacion Cups" ,Validacion_Cups
+2023-09-07 16:14:41.065740, INFO, "El cups existe y esta en vigor " ,Validacion_Cups
+2023-09-07 16:14:41.165086, INFO, "Inicio del modulo" ,Cambio_Comercializadora
+2023-09-07 16:14:41.221707, INFO, "Pantalla del boton Contratación" ,Cambio_Comercializadora
+2023-09-07 16:14:41.684421, INFO, "Pantalla del boton Nueva Oferta" ,Cambio_Comercializadora
+2023-09-07 16:14:54.039635, INFO, "Pantalla donde se busca por Cups" ,Cambio_Comercializadora
+2023-09-07 16:14:58.326243, INFO, "Pantalla donde se da click en la dirección" ,Cambio_Comercializadora
+2023-09-07 16:14:59.828486, INFO, "Pantalla de validación de suministro" ,Cambio_Comercializadora
+2023-09-07 16:15:12.833274, INFO, "Fin del modulo" ,Cambio_Comercializadora
+2023-09-07 16:15:12.913227, INFO, "Inicio del modulo" ,Actualizar_Potencia
+2023-09-07 16:15:25.772300, INFO, "Fin del modulo Modificación de potencia" ,Actualizar_Potencia
+2023-09-07 16:15:25.866776, INFO, "Inicio del modulo" ,Configuracion_Tarifa
+2023-09-07 20:48:23.066581, TRACE, Incio del modulo Init ,Init
+2023-09-07 20:48:23.165488, INFO, "Inicio del modulo GetAssets" ,GetAssets
+2023-09-07 20:48:32.977121, INFO, "Inicio del modulo GetAssets" ,GetAssets
+
+2023-09-07 20:48:33.108010, TRACE, Inicio Ejecucion, RB_ES_EDSA_017_CambioComercializadora
+2023-09-07 20:48:33.169322, TRACE, Inicio del modulo Init ,InitConfig
+2023-09-07 20:48:33.343022, TRACE, Fin del modulo Init ,InitConfig
+2023-09-07 20:48:33.421008, TRACE, Inicio del submodulo KillProcess ,KillProcess
+2023-09-07 20:48:36.955908, TRACE, Fin del submodulo KillProcess ,KillProcess
+2023-09-07 20:48:37.021045, TRACE, Inicio del submodulo InitApps ,InitApps
+2023-09-07 20:48:37.093632, INFO, "Incio del modulo LoginCosmos" ,Login
+2023-09-07 20:49:03.819040, INFO, "Inicio del modulo Obtener Token" ,ObtenerToken
+2023-09-07 20:49:03.884005, INFO, "Fin del modulo Obtener Token" ,ObtenerToken
+2023-09-07 20:49:18.269279, INFO, "Fin del modulo LoginCosmos" ,Login
+2023-09-07 20:49:18.311373, TRACE, Fin del submodulo InitApps ,InitApps
+2023-09-07 20:49:18.355671, TRACE, Fin del modulo Init ,Init
+2023-09-07 20:49:18.703440, TRACE, Inicio del modulo GetTransaction ,GetTransaction
+2023-09-07 20:49:20.917836, TRACE, Fin del modulo GetTransaction ,GetTransaction
+2023-09-07 20:49:21.572263, TRACE, Inicio del modulo Process ,Process
+2023-09-07 20:49:21.646267, INFO, "Inicio del modulo Work Data" ,Work_Data
+2023-09-07 20:49:22.674671, INFO, "Fin del modulo Work Data" ,Work_Data
+2023-09-07 20:49:22.804669, INFO, "Inicio del modulo Buscar_Cliente" ,Buscar_Cliente
+2023-09-07 20:49:51.102018, INFO, "Intento de click en Buscar numero "1" de 10" ,Buscar_Cliente
+2023-09-07 20:49:53.886140, INFO, "Fin del modulo Buscar_Cliente" ,Buscar_Cliente
+2023-09-07 20:49:53.965615, INFO, "Inicio del modulo Iniciar Simulación" ,Iniciar_Simulacion
+2023-09-07 20:50:18.679093, INFO, "Fin del modulo Iniciar Simulación" ,Iniciar_Simulacion
+2023-09-07 20:50:18.757209, INFO, "Inicio modulo Validacion Cups" ,Validacion_Cups
+2023-09-07 20:50:25.183721, INFO, "El cups existe y esta en vigor " ,Validacion_Cups
+2023-09-07 20:50:25.261144, INFO, "Inicio del modulo" ,Cambio_Comercializadora
+2023-09-07 20:50:25.312541, INFO, "Pantalla del boton Contratación" ,Cambio_Comercializadora
+2023-09-07 20:50:25.753417, INFO, "Pantalla del boton Nueva Oferta" ,Cambio_Comercializadora
+2023-09-07 20:50:37.473895, INFO, "Pantalla donde se busca por Cups" ,Cambio_Comercializadora
+2023-09-07 20:50:42.744303, INFO, "Pantalla donde se da click en la dirección" ,Cambio_Comercializadora
+2023-09-07 20:50:43.717776, INFO, "Pantalla de validación de suministro" ,Cambio_Comercializadora
+2023-09-07 20:50:55.333521, INFO, "Fin del modulo" ,Cambio_Comercializadora
+2023-09-07 20:50:55.420619, INFO, "Inicio del modulo" ,Actualizar_Potencia
+2023-09-07 20:51:08.781934, INFO, "Fin del modulo Modificación de potencia" ,Actualizar_Potencia
+2023-09-07 20:51:08.859581, INFO, "Inicio del modulo" ,Pasos_Configurador
+2023-09-07 20:51:54.267183, ERROR, "Error inesperado" ,Pasos_Configurador
+2023-09-07 20:51:54.364680, INFO, "Inicio del modulo Venta Caida" ,Venta_Caida
+2023-09-07 20:51:58.939023, INFO, "Fin del modulo Venta Caida" ,Venta_Caida
+2023-09-07 20:51:59.029806, INFO, "Inicio del modulo " ,Ultimas_Validaciones
+2023-09-07 20:51:59.099036, INFO, "Reintento numero "1" De "3 ,Ultimas_Validaciones
+2023-09-07 20:51:59.163193, INFO, "Fin del modulo " ,Ultimas_Validaciones
+2023-09-07 20:51:59.257671, INFO, "Inicio del modulo Buscar_Cliente" ,Buscar_Cliente
+2023-09-07 21:02:22.144466, TRACE, Incio del modulo Init ,Init
+2023-09-07 21:02:22.205807, INFO, "Inicio del modulo GetAssets" ,GetAssets
+2023-09-07 21:02:32.978664, INFO, "Inicio del modulo GetAssets" ,GetAssets
+
+2023-09-07 21:02:33.097974, TRACE, Inicio Ejecucion, RB_ES_EDSA_017_CambioComercializadora
+2023-09-07 21:02:33.161977, TRACE, Inicio del modulo Init ,InitConfig
+2023-09-07 21:02:33.300974, TRACE, Fin del modulo Init ,InitConfig
+2023-09-07 21:02:33.374488, TRACE, Inicio del submodulo KillProcess ,KillProcess
+2023-09-07 21:02:33.514923, TRACE, Fin del submodulo KillProcess ,KillProcess
+2023-09-07 21:02:33.581587, TRACE, Inicio del submodulo InitApps ,InitApps
+2023-09-07 21:02:33.644558, INFO, "Incio del modulo LoginCosmos" ,Login
+2023-09-07 21:02:54.279197, INFO, "Inicio del modulo Obtener Token" ,ObtenerToken
+2023-09-07 21:02:54.366194, INFO, "Fin del modulo Obtener Token" ,ObtenerToken
+2023-09-07 21:03:09.933809, INFO, "Fin del modulo LoginCosmos" ,Login
+2023-09-07 21:03:09.981816, TRACE, Fin del submodulo InitApps ,InitApps
+2023-09-07 21:03:10.027798, TRACE, Fin del modulo Init ,Init
+2023-09-07 21:03:10.136725, TRACE, Inicio del modulo GetTransaction ,GetTransaction
+2023-09-07 21:03:12.071276, TRACE, Fin del modulo GetTransaction ,GetTransaction
+2023-09-07 21:03:12.714609, TRACE, Inicio del modulo Process ,Process
+2023-09-07 21:03:12.782847, INFO, "Inicio del modulo Work Data" ,Work_Data
+2023-09-07 21:03:13.839761, INFO, "Fin del modulo Work Data" ,Work_Data
+2023-09-07 21:03:13.971602, INFO, "Inicio del modulo Buscar_Cliente" ,Buscar_Cliente
+2023-09-07 21:04:03.282220, INFO, "Intento de click en Buscar numero "1" de 10" ,Buscar_Cliente
+2023-09-07 21:04:06.051198, INFO, "Fin del modulo Buscar_Cliente" ,Buscar_Cliente
+2023-09-07 21:04:06.132265, INFO, "Inicio del modulo Iniciar Simulación" ,Iniciar_Simulacion
+2023-09-07 21:04:39.607369, ERROR, "Error inesperado" ,Iniciar_Simulacion
+2023-09-07 21:04:39.697258, INFO, "Inicio del modulo " ,Ultimas_Validaciones
+2023-09-07 21:04:39.764996, INFO, "Reintento numero "1" De "3 ,Ultimas_Validaciones
+2023-09-07 21:04:39.829824, INFO, "Fin del modulo " ,Ultimas_Validaciones
+2023-09-07 21:04:39.925826, INFO, "Inicio del modulo Buscar_Cliente" ,Buscar_Cliente
+2023-09-07 21:04:58.042830, INFO, "Intento de click en Buscar numero "1" de 10" ,Buscar_Cliente
+2023-09-07 21:05:00.810029, INFO, "Fin del modulo Buscar_Cliente" ,Buscar_Cliente
+2023-09-07 21:05:00.888066, INFO, "Inicio del modulo Iniciar Simulación" ,Iniciar_Simulacion
+2023-09-07 21:05:26.079760, INFO, "Fin del modulo Iniciar Simulación" ,Iniciar_Simulacion
+2023-09-07 21:05:26.158536, INFO, "Inicio modulo Validacion Cups" ,Validacion_Cups
+2023-09-07 21:05:32.599403, INFO, "El cups existe y esta en vigor " ,Validacion_Cups
+2023-09-07 21:05:32.679319, INFO, "Inicio del modulo" ,Cambio_Comercializadora
+2023-09-07 21:05:32.752998, INFO, "Pantalla del boton Contratación" ,Cambio_Comercializadora
+2023-09-07 21:05:33.180560, INFO, "Pantalla del boton Nueva Oferta" ,Cambio_Comercializadora
+2023-09-07 21:05:44.958968, INFO, "Pantalla donde se busca por Cups" ,Cambio_Comercializadora
+2023-09-07 21:05:48.739297, INFO, "Pantalla donde se da click en la dirección" ,Cambio_Comercializadora
+2023-09-07 21:05:50.206477, INFO, "Pantalla de validación de suministro" ,Cambio_Comercializadora
+2023-09-07 21:06:20.937877, INFO, "Fin del modulo" ,Cambio_Comercializadora
+2023-09-07 21:06:21.017877, INFO, "Inicio del modulo" ,Actualizar_Potencia
+2023-09-07 21:06:33.939201, INFO, "Fin del modulo Modificación de potencia" ,Actualizar_Potencia
+2023-09-07 21:06:34.017312, INFO, "Inicio del modulo" ,Pasos_Configurador
+2023-09-07 21:07:18.433151, ERROR, "Error inesperado" ,Pasos_Configurador
+2023-09-07 21:07:18.512490, INFO, "Inicio del modulo Venta Caida" ,Venta_Caida
+2023-09-07 21:11:02.553343, TRACE, Incio del modulo Init ,Init
+2023-09-07 21:11:02.631338, INFO, "Inicio del modulo GetAssets" ,GetAssets
+2023-09-07 21:11:12.688996, INFO, "Inicio del modulo GetAssets" ,GetAssets
+2023-09-07 21:11:12.741353, TRACE, Fin del modulo Init ,Init
+2023-09-07 21:11:12.885989, INFO, "Inicio del modulo Chage Status BPM" ,Change_Status_BPM
+2023-09-07 21:11:13.616162, INFO, Inicio del modulo envio de correo ,NotificacionesCorreo
+2023-09-07 21:11:13.713013, INFO, "Conecta con el server de gmail" ,NotificacionesCorreo
+2023-09-07 21:11:15.150050, INFO, "Valida si es un correo de inicio o de fin" ,NotificacionesCorreo
+2023-09-07 21:11:15.899512, INFO, "Valido que es un correo de Inicio" ,NotificacionesCorreo
+2023-09-07 21:11:15.952277, INFO, Se conecto y envio correo correctamente ,NotificacionesCorreo
+2023-09-07 21:11:16.004387, INFO, Finaliza el modulo de envio de correo ,NotificacionesCorreo
+2023-09-07 21:11:18.459972, INFO, "Fin del modulo Chage Status BPM" ,Change_Status_BPM
+2023-09-07 21:11:19.097274, TRACE, Inicio del modulo Process ,Process
+2023-09-07 21:11:19.169860, INFO, "Inicio del modulo Work Data" ,Work_Data
+2023-09-07 21:11:20.459255, INFO, "Fin del modulo Work Data" ,Work_Data
+2023-09-07 21:11:20.564279, INFO, "Inicio del modulo Buscar_Cliente" ,Buscar_Cliente
+2023-09-07 21:12:11.444737, INFO, "Intento de click en Buscar numero "1" de 10" ,Buscar_Cliente
+2023-09-07 21:12:14.490425, INFO, "Intento de click en Buscar numero "2" de 10" ,Buscar_Cliente
+2023-09-07 21:12:17.280085, INFO, "Fin del modulo Buscar_Cliente" ,Buscar_Cliente
+2023-09-07 21:12:17.361086, INFO, "Inicio del modulo Iniciar Simulación" ,Iniciar_Simulacion
+2023-09-07 21:12:40.826569, INFO, "Fin del modulo Iniciar Simulación" ,Iniciar_Simulacion
+2023-09-07 21:12:40.904444, INFO, "Inicio modulo Validacion Cups" ,Validacion_Cups
+2023-09-07 21:12:47.346003, INFO, "El cups existe y esta en vigor " ,Validacion_Cups
+2023-09-07 21:12:47.424517, INFO, "Inicio del modulo" ,Cambio_Comercializadora
+2023-09-07 21:12:47.474114, INFO, "Pantalla del boton Contratación" ,Cambio_Comercializadora
+2023-09-07 21:12:47.913377, INFO, "Pantalla del boton Nueva Oferta" ,Cambio_Comercializadora
+2023-09-07 21:12:57.693925, INFO, "Pantalla donde se busca por Cups" ,Cambio_Comercializadora
+2023-09-07 21:13:00.869559, INFO, "Pantalla donde se da click en la dirección" ,Cambio_Comercializadora
+2023-09-07 21:13:02.355856, INFO, "Pantalla de validación de suministro" ,Cambio_Comercializadora
+2023-09-07 21:13:11.715784, INFO, "Fin del modulo" ,Cambio_Comercializadora
+2023-09-07 21:13:11.790705, INFO, "Inicio del modulo" ,Actualizar_Potencia
+2023-09-07 21:13:24.061619, INFO, "Fin del modulo Modificación de potencia" ,Actualizar_Potencia
+2023-09-07 21:13:24.138708, INFO, "Inicio del modulo" ,Pasos_Configurador
+2023-09-07 21:14:02.756932, ERROR, "Error inesperado" ,Pasos_Configurador
+2023-09-07 21:14:02.830590, INFO, "Inicio del modulo Venta Caida" ,Venta_Caida
+2023-09-07 21:14:06.597167, INFO, "Fin del modulo Venta Caida" ,Venta_Caida
+2023-09-07 21:14:06.666848, INFO, "Inicio del modulo " ,Ultimas_Validaciones
+2023-09-07 21:14:06.733843, INFO, "Reintento numero "1" De "3 ,Ultimas_Validaciones
+2023-09-07 21:14:06.801563, INFO, "Fin del modulo " ,Ultimas_Validaciones
+2023-09-07 21:14:06.901226, INFO, "Inicio del modulo Buscar_Cliente" ,Buscar_Cliente
+2023-09-07 21:32:50.972829, TRACE, Incio del modulo Init ,Init
+2023-09-07 21:32:51.036607, INFO, "Inicio del modulo GetAssets" ,GetAssets
+2023-09-07 21:33:01.044592, INFO, "Inicio del modulo GetAssets" ,GetAssets
+
+2023-09-07 21:33:01.191890, TRACE, Inicio Ejecucion, RB_ES_EDSA_017_CambioComercializadora
+2023-09-07 21:33:01.251846, TRACE, Inicio del modulo Init ,InitConfig
+2023-09-07 21:33:01.393471, TRACE, Fin del modulo Init ,InitConfig
+2023-09-07 21:33:01.475983, TRACE, Inicio del submodulo KillProcess ,KillProcess
+2023-09-07 21:33:04.781290, TRACE, Fin del submodulo KillProcess ,KillProcess
+2023-09-07 21:33:04.846976, TRACE, Inicio del submodulo InitApps ,InitApps
+2023-09-07 21:33:04.910576, INFO, "Incio del modulo LoginCosmos" ,Login
+2023-09-07 21:33:29.628931, INFO, "Inicio del modulo Obtener Token" ,ObtenerToken
+2023-09-07 21:33:29.690677, INFO, "Fin del modulo Obtener Token" ,ObtenerToken
+2023-09-07 21:33:44.046756, INFO, "Fin del modulo LoginCosmos" ,Login
+2023-09-07 21:33:44.091369, TRACE, Fin del submodulo InitApps ,InitApps
+2023-09-07 21:33:44.142250, TRACE, Fin del modulo Init ,Init
+2023-09-07 21:33:44.269259, TRACE, Inicio del modulo GetTransaction ,GetTransaction
+2023-09-07 21:33:46.081919, TRACE, Fin del modulo GetTransaction ,GetTransaction
+2023-09-07 21:33:46.715263, TRACE, Inicio del modulo Process ,Process
+2023-09-07 21:33:46.781442, INFO, "Inicio del modulo Work Data" ,Work_Data
+2023-09-07 21:33:47.870502, INFO, "Fin del modulo Work Data" ,Work_Data
+2023-09-07 21:33:47.982037, INFO, "Inicio del modulo Buscar_Cliente" ,Buscar_Cliente
+2023-09-07 21:34:19.956926, INFO, "Intento de click en Buscar numero "1" de 10" ,Buscar_Cliente
+2023-09-07 21:34:22.753199, INFO, "Fin del modulo Buscar_Cliente" ,Buscar_Cliente
+2023-09-07 21:34:22.839187, INFO, "Inicio del modulo Iniciar Simulación" ,Iniciar_Simulacion
+2023-09-07 21:34:46.695398, INFO, "Fin del modulo Iniciar Simulación" ,Iniciar_Simulacion
+2023-09-07 21:34:46.793065, INFO, "Inicio modulo Validacion Cups" ,Validacion_Cups
+2023-09-07 21:34:53.216297, INFO, "El cups existe y esta en vigor " ,Validacion_Cups
+2023-09-07 21:34:53.302619, INFO, "Inicio del modulo" ,Cambio_Comercializadora
+2023-09-07 21:34:53.355745, INFO, "Pantalla del boton Contratación" ,Cambio_Comercializadora
+2023-09-07 21:34:53.798365, INFO, "Pantalla del boton Nueva Oferta" ,Cambio_Comercializadora
+2023-09-07 21:35:04.546266, INFO, "Pantalla donde se busca por Cups" ,Cambio_Comercializadora
+2023-09-07 21:35:08.272604, INFO, "Pantalla donde se da click en la dirección" ,Cambio_Comercializadora
+2023-09-07 21:35:09.749380, INFO, "Pantalla de validación de suministro" ,Cambio_Comercializadora
+2023-09-07 21:35:35.116750, INFO, "Fin del modulo" ,Cambio_Comercializadora
+2023-09-07 21:35:35.194882, INFO, "Inicio del modulo" ,Actualizar_Potencia
+2023-09-07 21:35:47.966665, INFO, "Fin del modulo Modificación de potencia" ,Actualizar_Potencia
+2023-09-07 21:35:48.044759, INFO, "Inicio del modulo" ,Pasos_Configurador
+2023-09-07 21:36:26.888222, INFO, "Inicio del modulo" ,Configuracion_Tarifa_Energia_TUR
+2023-09-07 21:36:28.108541, INFO, "Inicio del modulo" ,Centrar_Tarifa
+2023-09-07 21:36:28.182524, INFO, "Fin del modulo" ,Centrar_Tarifa
+2023-09-07 21:36:28.589705, INFO, "Fin del modulo" ,Configuracion_Tarifa_Energia_TUR
+2023-09-07 21:36:28.635704, INFO, "Fin del modulo" ,Pasos_Configurador
+2023-09-07 21:36:28.721719, INFO, "Inicio del modulo" ,Finalizar_Confirguracion_Tarifa
+2023-09-07 21:36:34.211826, ERROR, "Error inesperado" ,Finalizar_Confirguracion_Tarifa
+2023-09-07 21:36:34.294826, INFO, "Inicio del modulo Venta Caida" ,Venta_Caida
+2023-09-07 21:36:41.387147, ERROR, "No se logro dejar el caso como venta caida" ,Venta_Caida
+2023-09-07 21:36:41.464145, INFO, "Inicio del modulo " ,Ultimas_Validaciones
+2023-09-07 21:36:41.536148, INFO, "Reintento numero "1" De "3 ,Ultimas_Validaciones
+2023-09-07 21:36:41.600145, INFO, "Fin del modulo " ,Ultimas_Validaciones
+2023-09-07 21:36:41.641151, INFO, "Inicio del modulo Buscar_Cliente" ,Buscar_Cliente
+2023-09-07 21:45:42.305513, TRACE, Incio del modulo Init ,Init
+2023-09-07 21:45:42.373330, INFO, "Inicio del modulo GetAssets" ,GetAssets
+2023-09-07 21:45:54.763826, INFO, "Inicio del modulo GetAssets" ,GetAssets
+
+2023-09-07 21:45:54.897827, TRACE, Inicio Ejecucion, RB_ES_EDSA_017_CambioComercializadora
+2023-09-07 21:45:54.961829, TRACE, Inicio del modulo Init ,InitConfig
+2023-09-07 21:45:55.117823, TRACE, Fin del modulo Init ,InitConfig
+2023-09-07 21:45:55.211235, TRACE, Inicio del submodulo KillProcess ,KillProcess
+2023-09-07 21:45:58.566665, TRACE, Fin del submodulo KillProcess ,KillProcess
+2023-09-07 21:45:58.643232, TRACE, Inicio del submodulo InitApps ,InitApps
+2023-09-07 21:45:58.711305, INFO, "Incio del modulo LoginCosmos" ,Login
+2023-09-07 21:46:21.900427, INFO, "Inicio del modulo Obtener Token" ,ObtenerToken
+2023-09-07 21:46:21.973425, INFO, "Fin del modulo Obtener Token" ,ObtenerToken
+2023-09-07 21:46:36.349156, INFO, "Fin del modulo LoginCosmos" ,Login
+2023-09-07 21:46:36.394216, TRACE, Fin del submodulo InitApps ,InitApps
+2023-09-07 21:46:36.443171, TRACE, Fin del modulo Init ,Init
+2023-09-07 21:46:36.599169, TRACE, Inicio del modulo GetTransaction ,GetTransaction
+2023-09-07 21:46:38.371794, TRACE, Fin del modulo GetTransaction ,GetTransaction
+2023-09-07 21:46:39.021775, TRACE, Inicio del modulo Process ,Process
+2023-09-07 21:46:39.096070, INFO, "Inicio del modulo Work Data" ,Work_Data
+2023-09-07 21:46:41.671050, INFO, "Fin del modulo Work Data" ,Work_Data
+2023-09-07 21:46:41.785940, INFO, "Inicio del modulo Buscar_Cliente" ,Buscar_Cliente
+2023-09-07 21:47:20.965952, INFO, "Intento de click en Buscar numero "1" de 10" ,Buscar_Cliente
+2023-09-07 21:47:23.715011, INFO, "Fin del modulo Buscar_Cliente" ,Buscar_Cliente
+2023-09-07 21:47:23.793472, INFO, "Inicio del modulo Iniciar Simulación" ,Iniciar_Simulacion
+2023-09-07 21:47:49.097508, INFO, "Fin del modulo Iniciar Simulación" ,Iniciar_Simulacion
+2023-09-07 21:47:49.177227, INFO, "Inicio modulo Validacion Cups" ,Validacion_Cups
+2023-09-07 21:47:55.615050, INFO, "El cups existe y esta en vigor " ,Validacion_Cups
+2023-09-07 21:47:55.691807, INFO, "Inicio del modulo" ,Cambio_Comercializadora
+2023-09-07 21:47:55.741630, INFO, "Pantalla del boton Contratación" ,Cambio_Comercializadora
+2023-09-07 21:47:56.182661, INFO, "Pantalla del boton Nueva Oferta" ,Cambio_Comercializadora
+2023-09-07 21:48:07.398256, INFO, "Pantalla donde se busca por Cups" ,Cambio_Comercializadora
+2023-09-07 21:48:11.089409, INFO, "Pantalla donde se da click en la dirección" ,Cambio_Comercializadora
+2023-09-07 21:48:12.563446, INFO, "Pantalla de validación de suministro" ,Cambio_Comercializadora
+2023-09-07 21:48:25.013414, INFO, "Fin del modulo" ,Cambio_Comercializadora
+2023-09-07 21:48:25.092666, INFO, "Inicio del modulo" ,Actualizar_Potencia
+2023-09-07 21:48:38.345008, INFO, "Fin del modulo Modificación de potencia" ,Actualizar_Potencia
+2023-09-07 21:48:38.460405, INFO, "Inicio del modulo" ,Pasos_Configurador
+2023-09-07 21:51:29.514207, TRACE, Incio del modulo Init ,Init
+2023-09-07 21:51:29.581307, INFO, "Inicio del modulo GetAssets" ,GetAssets
+2023-09-07 21:51:38.991771, INFO, "Inicio del modulo GetAssets" ,GetAssets
+
+2023-09-07 21:51:39.113842, TRACE, Inicio Ejecucion, RB_ES_EDSA_017_CambioComercializadora
+2023-09-07 21:51:39.172840, TRACE, Inicio del modulo Init ,InitConfig
+2023-09-07 21:51:39.364766, TRACE, Fin del modulo Init ,InitConfig
+2023-09-07 21:51:39.455769, TRACE, Inicio del submodulo KillProcess ,KillProcess
+2023-09-07 21:51:42.487370, TRACE, Fin del submodulo KillProcess ,KillProcess
+2023-09-07 21:51:42.554237, TRACE, Inicio del submodulo InitApps ,InitApps
+2023-09-07 21:51:42.620222, INFO, "Incio del modulo LoginCosmos" ,Login
+2023-09-07 21:52:08.779154, INFO, "Inicio del modulo Obtener Token" ,ObtenerToken
+2023-09-07 21:52:08.841169, INFO, "Fin del modulo Obtener Token" ,ObtenerToken
+2023-09-07 21:52:22.743833, INFO, "Fin del modulo LoginCosmos" ,Login
+2023-09-07 21:52:22.788161, TRACE, Fin del submodulo InitApps ,InitApps
+2023-09-07 21:52:22.833866, TRACE, Fin del modulo Init ,Init
+2023-09-07 21:52:23.148299, TRACE, Inicio del modulo GetTransaction ,GetTransaction
+2023-09-07 21:52:25.175165, TRACE, Fin del modulo GetTransaction ,GetTransaction
+2023-09-07 21:52:25.810901, TRACE, Inicio del modulo Process ,Process
+2023-09-07 21:52:25.885611, INFO, "Inicio del modulo Work Data" ,Work_Data
+2023-09-07 21:52:26.994659, INFO, "Fin del modulo Work Data" ,Work_Data
+2023-09-07 21:52:27.111089, INFO, "Inicio del modulo Buscar_Cliente" ,Buscar_Cliente
+2023-09-07 21:53:30.948822, INFO, "Intento de click en Buscar numero "1" de 10" ,Buscar_Cliente
+2023-09-07 21:53:33.900787, INFO, "Intento de click en Buscar numero "2" de 10" ,Buscar_Cliente
+2023-09-07 21:53:36.668318, INFO, "Fin del modulo Buscar_Cliente" ,Buscar_Cliente
+2023-09-07 21:53:36.749379, INFO, "Inicio del modulo Iniciar Simulación" ,Iniciar_Simulacion
+2023-09-07 21:54:01.545945, INFO, "Fin del modulo Iniciar Simulación" ,Iniciar_Simulacion
+2023-09-07 21:54:01.627965, INFO, "Inicio modulo Validacion Cups" ,Validacion_Cups
+2023-09-07 21:54:08.067590, INFO, "El cups existe y esta en vigor " ,Validacion_Cups
+2023-09-07 21:54:08.152590, INFO, "Inicio del modulo" ,Cambio_Comercializadora
+2023-09-07 21:54:08.204851, INFO, "Pantalla del boton Contratación" ,Cambio_Comercializadora
+2023-09-07 21:54:08.640479, INFO, "Pantalla del boton Nueva Oferta" ,Cambio_Comercializadora
+2023-09-07 21:54:23.054192, INFO, "Pantalla donde se busca por Cups" ,Cambio_Comercializadora
+2023-09-07 21:54:28.278249, INFO, "Pantalla donde se da click en la dirección" ,Cambio_Comercializadora
+2023-09-07 21:54:29.251273, INFO, "Pantalla de validación de suministro" ,Cambio_Comercializadora
+2023-09-07 21:54:54.781651, INFO, "Fin del modulo" ,Cambio_Comercializadora
+2023-09-07 21:54:54.853232, INFO, "Inicio del modulo" ,Actualizar_Potencia
+2023-09-07 21:55:08.123362, INFO, "Fin del modulo Modificación de potencia" ,Actualizar_Potencia
+2023-09-07 21:55:08.200117, INFO, "Inicio del modulo" ,Pasos_Configurador
+2023-09-07 21:55:34.210719, INFO, "Inicio del modulo" ,Configuracion_Tarifa_Energia_TUR
+2023-09-07 21:55:35.382021, INFO, "Inicio del modulo" ,Centrar_Tarifa
+2023-09-07 21:55:35.455896, INFO, "Fin del modulo" ,Centrar_Tarifa
+2023-09-07 21:55:35.847488, INFO, "Fin del modulo" ,Configuracion_Tarifa_Energia_TUR
+2023-09-07 21:55:35.888560, INFO, "Fin del modulo" ,Pasos_Configurador
+2023-09-07 21:55:35.958974, INFO, "Inicio del modulo" ,Finalizar_Confirguracion_Tarifa
+2023-09-07 21:56:12.625255, INFO, "Fin del modulo" ,Finalizar_Confirguracion_Tarifa
+2023-09-07 21:56:12.705441, INFO, "Inicio del modulo Metodo de pago" ,Metodo_Pago
+2023-09-07 21:56:23.930350, INFO, "Fin del modulo Metodo de pago" ,Metodo_Pago
+2023-09-07 21:56:24.010703, INFO, "Inicio del modulo Firmar contrato" ,Firmar_Contrato
+2023-09-07 22:04:51.565719, TRACE, Incio del modulo Init ,Init
+2023-09-07 22:04:51.635530, INFO, "Inicio del modulo GetAssets" ,GetAssets
+2023-09-07 22:05:02.355687, INFO, "Inicio del modulo GetAssets" ,GetAssets
+
+2023-09-07 22:05:02.478881, TRACE, Inicio Ejecucion, RB_ES_EDSA_017_CambioComercializadora
+2023-09-07 22:05:02.536214, TRACE, Inicio del modulo Init ,InitConfig
+2023-09-07 22:05:02.698190, TRACE, Fin del modulo Init ,InitConfig
+2023-09-07 22:05:02.772325, TRACE, Inicio del submodulo KillProcess ,KillProcess
+2023-09-07 22:05:06.062850, TRACE, Fin del submodulo KillProcess ,KillProcess
+2023-09-07 22:05:06.132848, TRACE, Inicio del submodulo InitApps ,InitApps
+2023-09-07 22:05:06.203938, INFO, "Incio del modulo LoginCosmos" ,Login
+2023-09-07 22:05:28.595192, INFO, "Inicio del modulo Obtener Token" ,ObtenerToken
+2023-09-07 22:05:28.650172, INFO, "Fin del modulo Obtener Token" ,ObtenerToken
+2023-09-07 22:05:43.801389, INFO, "Fin del modulo LoginCosmos" ,Login
+2023-09-07 22:05:43.847467, TRACE, Fin del submodulo InitApps ,InitApps
+2023-09-07 22:05:43.892912, TRACE, Fin del modulo Init ,Init
+2023-09-07 22:05:44.015959, TRACE, Inicio del modulo GetTransaction ,GetTransaction
+2023-09-07 22:05:45.686563, TRACE, Fin del modulo GetTransaction ,GetTransaction
+2023-09-07 22:05:46.331550, TRACE, Inicio del modulo Process ,Process
+2023-09-07 22:05:46.398197, INFO, "Inicio del modulo Work Data" ,Work_Data
+2023-09-07 22:05:47.528763, INFO, "Fin del modulo Work Data" ,Work_Data
+2023-09-07 22:05:47.639228, INFO, "Inicio del modulo Buscar_Cliente" ,Buscar_Cliente
+2023-09-07 22:07:10.713412, INFO, "Intento de click en Buscar numero "1" de 10" ,Buscar_Cliente
+2023-09-07 22:07:13.529435, INFO, "Fin del modulo Buscar_Cliente" ,Buscar_Cliente
+2023-09-07 22:07:13.607462, INFO, "Inicio del modulo Iniciar Simulación" ,Iniciar_Simulacion
+2023-09-07 22:07:37.762120, INFO, "Fin del modulo Iniciar Simulación" ,Iniciar_Simulacion
+2023-09-07 22:07:37.800833, INFO, "Inicio modulo Validacion Cups" ,Validacion_Cups
+2023-09-07 22:07:44.297965, INFO, "El cups existe y esta en vigor " ,Validacion_Cups
+2023-09-07 22:07:44.384027, INFO, "Inicio del modulo" ,Cambio_Comercializadora
+2023-09-07 22:07:44.434858, INFO, "Pantalla del boton Contratación" ,Cambio_Comercializadora
+2023-09-07 22:07:44.875712, INFO, "Pantalla del boton Nueva Oferta" ,Cambio_Comercializadora
+2023-09-07 22:07:56.941378, INFO, "Pantalla donde se busca por Cups" ,Cambio_Comercializadora
+2023-09-07 22:08:00.727263, INFO, "Pantalla donde se da click en la dirección" ,Cambio_Comercializadora
+2023-09-07 22:08:02.218566, INFO, "Pantalla de validación de suministro" ,Cambio_Comercializadora
+2023-09-07 22:08:16.913628, INFO, "Fin del modulo" ,Cambio_Comercializadora
+2023-09-07 22:08:16.995629, INFO, "Inicio del modulo" ,Actualizar_Potencia
+2023-09-07 22:08:35.152574, INFO, "Fin del modulo Modificación de potencia" ,Actualizar_Potencia
+2023-09-07 22:08:35.248588, INFO, "Inicio del modulo" ,Pasos_Configurador
+2023-09-07 22:15:55.521450, TRACE, Incio del modulo Init ,Init
+2023-09-07 22:15:55.595429, INFO, "Inicio del modulo GetAssets" ,GetAssets
+2023-09-07 22:16:04.431180, INFO, "Inicio del modulo GetAssets" ,GetAssets
+
+2023-09-07 22:16:04.577016, TRACE, Inicio Ejecucion, RB_ES_EDSA_017_CambioComercializadora
+2023-09-07 22:16:04.670018, TRACE, Inicio del modulo Init ,InitConfig
+2023-09-07 22:16:04.850114, TRACE, Fin del modulo Init ,InitConfig
+2023-09-07 22:16:04.928576, TRACE, Inicio del submodulo KillProcess ,KillProcess
+2023-09-07 22:16:07.779758, TRACE, Fin del submodulo KillProcess ,KillProcess
+2023-09-07 22:16:07.845773, TRACE, Inicio del submodulo InitApps ,InitApps
+2023-09-07 22:16:07.912032, INFO, "Incio del modulo LoginCosmos" ,Login
+2023-09-07 22:16:16.622581, ERROR, "Error inesperado al intentar loguearse" ,Login
+2023-09-07 22:16:16.689581, TRACE, Fin del submodulo InitApps ,InitApps
+2023-09-07 22:16:16.774107, TRACE, Fin del modulo Init ,Init
+2023-09-07 22:16:17.099136, INFO, "Inicio del modulo Chage Status BPM" ,Change_Status_BPM
+2023-09-07 22:16:17.886923, INFO, Inicio del modulo envio de correo ,NotificacionesCorreo
+2023-09-07 22:16:17.989927, INFO, "Conecta con el server de gmail" ,NotificacionesCorreo
+2023-09-07 22:16:19.532373, INFO, "Valida si es un correo de inicio o de fin" ,NotificacionesCorreo
+2023-09-07 22:16:20.365299, INFO, "Valido que es un correo de Inicio" ,NotificacionesCorreo
+2023-09-07 22:16:20.433807, INFO, Se conecto y envio correo correctamente ,NotificacionesCorreo
+2023-09-07 22:16:20.489556, INFO, Finaliza el modulo de envio de correo ,NotificacionesCorreo
+2023-09-07 22:16:23.056396, INFO, "Fin del modulo Chage Status BPM" ,Change_Status_BPM
+2023-09-07 22:16:23.699259, TRACE, Inicio del modulo Process ,Process
+2023-09-07 22:16:23.770389, INFO, "Inicio del modulo Work Data" ,Work_Data
+2023-09-07 22:16:25.875827, INFO, "Fin del modulo Work Data" ,Work_Data
+2023-09-07 22:16:25.991830, INFO, "Inicio del modulo Buscar_Cliente" ,Buscar_Cliente
+2023-09-07 22:17:09.746540, TRACE, Incio del modulo Init ,Init
+2023-09-07 22:17:09.809446, INFO, "Inicio del modulo GetAssets" ,GetAssets
+2023-09-07 22:17:20.829974, INFO, "Inicio del modulo GetAssets" ,GetAssets
+
+2023-09-07 22:17:20.968513, TRACE, Inicio Ejecucion, RB_ES_EDSA_017_CambioComercializadora
+2023-09-07 22:17:21.030602, TRACE, Inicio del modulo Init ,InitConfig
+2023-09-07 22:17:21.200802, TRACE, Fin del modulo Init ,InitConfig
+2023-09-07 22:17:21.277500, TRACE, Inicio del submodulo KillProcess ,KillProcess
+2023-09-07 22:17:23.591805, TRACE, Fin del submodulo KillProcess ,KillProcess
+2023-09-07 22:17:23.656308, TRACE, Inicio del submodulo InitApps ,InitApps
+2023-09-07 22:17:23.722773, INFO, "Incio del modulo LoginCosmos" ,Login
+2023-09-07 22:17:45.607477, INFO, "Inicio del modulo Obtener Token" ,ObtenerToken
+2023-09-07 22:17:45.666908, INFO, "Fin del modulo Obtener Token" ,ObtenerToken
+2023-09-07 22:18:00.088211, INFO, "Fin del modulo LoginCosmos" ,Login
+2023-09-07 22:18:00.154211, TRACE, Fin del submodulo InitApps ,InitApps
+2023-09-07 22:18:00.202231, TRACE, Fin del modulo Init ,Init
+2023-09-07 22:18:00.359212, TRACE, Inicio del modulo GetTransaction ,GetTransaction
+2023-09-07 22:18:01.975441, TRACE, Fin del modulo GetTransaction ,GetTransaction
+2023-09-07 22:18:02.618826, TRACE, Inicio del modulo Process ,Process
+2023-09-07 22:18:02.651825, INFO, "Inicio del modulo Work Data" ,Work_Data
+2023-09-07 22:18:03.649508, INFO, "Fin del modulo Work Data" ,Work_Data
+2023-09-07 22:18:03.751505, INFO, "Inicio del modulo Buscar_Cliente" ,Buscar_Cliente
+2023-09-07 22:18:49.778919, INFO, "Intento de click en Buscar numero "1" de 10" ,Buscar_Cliente
+2023-09-07 22:18:52.593081, INFO, "Fin del modulo Buscar_Cliente" ,Buscar_Cliente
+2023-09-07 22:18:52.640009, INFO, "Inicio del modulo Iniciar Simulación" ,Iniciar_Simulacion
+2023-09-07 22:19:16.913565, INFO, "Fin del modulo Iniciar Simulación" ,Iniciar_Simulacion
+2023-09-07 22:19:16.996446, INFO, "Inicio modulo Validacion Cups" ,Validacion_Cups
+2023-09-07 22:19:23.453317, INFO, "El cups existe y esta en vigor " ,Validacion_Cups
+2023-09-07 22:19:23.537330, INFO, "Inicio del modulo" ,Cambio_Comercializadora
+2023-09-07 22:19:23.593576, INFO, "Pantalla del boton Contratación" ,Cambio_Comercializadora
+2023-09-07 22:19:24.022503, INFO, "Pantalla del boton Nueva Oferta" ,Cambio_Comercializadora
+2023-09-07 22:19:35.315118, INFO, "Pantalla donde se busca por Cups" ,Cambio_Comercializadora
+2023-09-07 22:19:39.483892, INFO, "Pantalla donde se da click en la dirección" ,Cambio_Comercializadora
+2023-09-07 22:19:40.966940, INFO, "Pantalla de validación de suministro" ,Cambio_Comercializadora
+2023-09-07 22:19:49.960854, INFO, "Fin del modulo" ,Cambio_Comercializadora
+2023-09-07 22:19:50.045810, INFO, "Inicio del modulo" ,Actualizar_Potencia
+2023-09-07 22:20:07.176951, INFO, "Fin del modulo Modificación de potencia" ,Actualizar_Potencia
+2023-09-07 22:20:07.214833, INFO, "Inicio del modulo" ,Pasos_Configurador
+2023-09-07 22:20:56.878281, ERROR, "Error inesperado" ,Pasos_Configurador
+2023-09-07 22:20:56.961833, INFO, "Inicio del modulo Venta Caida" ,Venta_Caida
+2023-09-07 22:29:29.964554, TRACE, Incio del modulo Init ,Init
+2023-09-07 22:29:30.044630, INFO, "Inicio del modulo GetAssets" ,GetAssets
+2023-09-07 22:29:39.003163, INFO, "Inicio del modulo GetAssets" ,GetAssets
+2023-09-07 22:29:39.057471, TRACE, Fin del modulo Init ,Init
+2023-09-07 22:29:39.220686, INFO, "Inicio del modulo Chage Status BPM" ,Change_Status_BPM
+2023-09-07 22:29:39.860755, INFO, Inicio del modulo envio de correo ,NotificacionesCorreo
+2023-09-07 22:29:39.939758, INFO, "Conecta con el server de gmail" ,NotificacionesCorreo
+2023-09-07 22:29:41.453501, INFO, "Valida si es un correo de inicio o de fin" ,NotificacionesCorreo
+2023-09-07 22:29:42.242281, INFO, "Valido que es un correo de Inicio" ,NotificacionesCorreo
+2023-09-07 22:29:42.313391, INFO, Se conecto y envio correo correctamente ,NotificacionesCorreo
+2023-09-07 22:29:42.384062, INFO, Finaliza el modulo de envio de correo ,NotificacionesCorreo
+2023-09-07 22:29:44.750319, INFO, "Fin del modulo Chage Status BPM" ,Change_Status_BPM
+2023-09-07 22:29:45.381265, TRACE, Inicio del modulo Process ,Process
+2023-09-07 22:29:45.476193, INFO, "Inicio del modulo Work Data" ,Work_Data
+2023-09-07 22:29:46.772469, INFO, "Fin del modulo Work Data" ,Work_Data
+2023-09-07 22:29:46.905961, INFO, "Inicio del modulo Buscar_Cliente" ,Buscar_Cliente
+2023-09-07 22:30:52.129366, TRACE, Incio del modulo Init ,Init
+2023-09-07 22:30:52.198416, INFO, "Inicio del modulo GetAssets" ,GetAssets
+2023-09-07 22:31:01.162477, INFO, "Inicio del modulo GetAssets" ,GetAssets
+
+2023-09-07 22:31:01.322556, TRACE, Inicio Ejecucion, RB_ES_EDSA_017_CambioComercializadora
+2023-09-07 22:31:01.385623, TRACE, Inicio del modulo Init ,InitConfig
+2023-09-07 22:31:01.583151, TRACE, Fin del modulo Init ,InitConfig
+2023-09-07 22:31:01.668935, TRACE, Inicio del submodulo KillProcess ,KillProcess
+2023-09-07 22:31:06.771314, TRACE, Fin del submodulo KillProcess ,KillProcess
+2023-09-07 22:31:06.844858, TRACE, Inicio del submodulo InitApps ,InitApps
+2023-09-07 22:31:06.912995, INFO, "Incio del modulo LoginCosmos" ,Login
+2023-09-07 22:31:29.622009, INFO, "Inicio del modulo Obtener Token" ,ObtenerToken
+2023-09-07 22:31:29.681011, INFO, "Fin del modulo Obtener Token" ,ObtenerToken
+2023-09-07 22:31:43.420485, INFO, "Fin del modulo LoginCosmos" ,Login
+2023-09-07 22:31:43.467174, TRACE, Fin del submodulo InitApps ,InitApps
+2023-09-07 22:31:43.513039, TRACE, Fin del modulo Init ,Init
+2023-09-07 22:31:43.642041, TRACE, Inicio del modulo GetTransaction ,GetTransaction
+2023-09-07 22:31:45.260288, TRACE, Fin del modulo GetTransaction ,GetTransaction
+2023-09-07 22:31:45.875599, TRACE, Inicio del modulo Process ,Process
+2023-09-07 22:31:45.907568, INFO, "Inicio del modulo Work Data" ,Work_Data
+2023-09-07 22:31:46.855846, INFO, "Fin del modulo Work Data" ,Work_Data
+2023-09-07 22:31:46.895996, INFO, "Inicio del modulo Buscar_Cliente" ,Buscar_Cliente
+2023-09-07 22:32:50.115535, INFO, "Intento de click en Buscar numero "1" de 10" ,Buscar_Cliente
+2023-09-07 22:32:52.853129, INFO, "Fin del modulo Buscar_Cliente" ,Buscar_Cliente
+2023-09-07 22:32:52.934517, INFO, "Inicio del modulo Iniciar Simulación" ,Iniciar_Simulacion
+2023-09-07 22:33:26.226111, ERROR, "Error inesperado" ,Iniciar_Simulacion
+2023-09-07 22:33:26.327543, INFO, "Inicio del modulo " ,Ultimas_Validaciones
+2023-09-07 22:33:26.387296, INFO, "Reintento numero "1" De "3 ,Ultimas_Validaciones
+2023-09-07 22:33:26.449222, INFO, "Fin del modulo " ,Ultimas_Validaciones
+2023-09-07 22:33:26.553711, INFO, "Inicio del modulo Buscar_Cliente" ,Buscar_Cliente
+2023-09-07 22:33:43.951666, INFO, "Intento de click en Buscar numero "1" de 10" ,Buscar_Cliente
+2023-09-07 22:33:46.675264, INFO, "Fin del modulo Buscar_Cliente" ,Buscar_Cliente
+2023-09-07 22:33:46.754273, INFO, "Inicio del modulo Iniciar Simulación" ,Iniciar_Simulacion
+2023-09-07 22:52:23.044886, TRACE, Incio del modulo Init ,Init
+2023-09-07 22:52:23.101563, INFO, "Inicio del modulo GetAssets" ,GetAssets
+2023-09-07 22:52:32.010489, INFO, "Inicio del modulo GetAssets" ,GetAssets
+
+2023-09-07 22:52:32.119320, TRACE, Inicio Ejecucion, RB_ES_EDSA_017_CambioComercializadora
+2023-09-07 22:52:32.173937, TRACE, Inicio del modulo Init ,InitConfig
+2023-09-07 22:52:32.307599, TRACE, Fin del modulo Init ,InitConfig
+2023-09-07 22:52:32.380489, TRACE, Inicio del submodulo KillProcess ,KillProcess
+2023-09-07 22:52:32.528057, TRACE, Fin del submodulo KillProcess ,KillProcess
+2023-09-07 22:52:32.594059, TRACE, Inicio del submodulo InitApps ,InitApps
+2023-09-07 22:52:32.656058, INFO, "Incio del modulo LoginCosmos" ,Login
+2023-09-07 22:52:50.417917, INFO, "Inicio del modulo Obtener Token" ,ObtenerToken
+2023-09-07 22:52:50.489689, INFO, "Fin del modulo Obtener Token" ,ObtenerToken
+2023-09-07 22:53:04.299492, INFO, "Fin del modulo LoginCosmos" ,Login
+2023-09-07 22:53:04.342525, TRACE, Fin del submodulo InitApps ,InitApps
+2023-09-07 22:53:04.387510, TRACE, Fin del modulo Init ,Init
+2023-09-07 22:53:04.741597, TRACE, Inicio del modulo GetTransaction ,GetTransaction
+2023-09-07 22:53:06.595904, TRACE, Fin del modulo GetTransaction ,GetTransaction
+2023-09-07 22:53:07.232541, TRACE, Inicio del modulo Process ,Process
+2023-09-07 22:53:07.300734, INFO, "Inicio del modulo Work Data" ,Work_Data
+2023-09-07 22:53:08.409432, INFO, "Fin del modulo Work Data" ,Work_Data
+2023-09-07 22:53:08.513138, INFO, "Inicio del modulo Buscar_Cliente" ,Buscar_Cliente
+2023-09-07 22:53:51.553478, INFO, "Intento de click en Buscar numero "1" de 10" ,Buscar_Cliente
+2023-09-07 22:53:54.326318, INFO, "Fin del modulo Buscar_Cliente" ,Buscar_Cliente
+2023-09-07 22:53:54.414606, INFO, "Inicio del modulo Iniciar Simulación" ,Iniciar_Simulacion
+2023-09-07 22:54:16.838696, INFO, "Fin del modulo Iniciar Simulación" ,Iniciar_Simulacion
+2023-09-07 22:54:16.924246, INFO, "Inicio modulo Validacion Cups" ,Validacion_Cups
+2023-09-07 22:54:30.797376, INFO, "El cups no esta en vigor o esta Pte Modificación" ,Validacion_Cups
+2023-09-07 22:54:30.890046, INFO, "Inicio del modulo " ,Ultimas_Validaciones
+2023-09-07 22:54:30.968442, INFO, "Se pasa la variable de reintentoS a "3+1" Para salir del bucle" ,Ultimas_Validaciones
+2023-09-07 22:54:31.015559, INFO, "Fin del modulo " ,Ultimas_Validaciones
+2023-09-07 22:54:31.084577, INFO, "Incio del modulo SetTransactionStatus" ,Set_Transaction_Status
+2023-09-07 22:54:31.152788, INFO, "Inicio del modulo Chage Status BPM" ,Change_Status_BPM
+2023-09-07 22:54:34.330013, INFO, "Fin del modulo Chage Status BPM" ,Change_Status_BPM
+2023-09-07 22:54:34.374290, INFO, "Fin del modulo SetTransactionStatus" ,Set_Transaction_Status
+2023-09-07 22:54:34.418384, TRACE, Fin del modulo Process ,Process
+2023-09-07 22:54:35.197476, TRACE, Inicio del modulo Process ,Process
+2023-09-07 22:54:35.267459, INFO, "Inicio del modulo Work Data" ,Work_Data
+2023-09-07 22:54:36.286922, INFO, "Fin del modulo Work Data" ,Work_Data
+2023-09-07 22:54:36.398355, INFO, "Inicio del modulo Buscar_Cliente" ,Buscar_Cliente
+2023-09-07 22:56:43.068891, INFO, "Intento de click en Buscar numero "1" de 10" ,Buscar_Cliente
+2023-09-07 22:56:46.037530, INFO, "Intento de click en Buscar numero "2" de 10" ,Buscar_Cliente
+2023-09-07 22:56:48.813305, INFO, "Fin del modulo Buscar_Cliente" ,Buscar_Cliente
+2023-09-07 22:56:48.893249, INFO, "Inicio del modulo Iniciar Simulación" ,Iniciar_Simulacion
+2023-09-07 22:57:09.495653, INFO, "Fin del modulo Iniciar Simulación" ,Iniciar_Simulacion
+2023-09-07 22:57:09.584200, INFO, "Inicio modulo Validacion Cups" ,Validacion_Cups
+2023-09-07 22:57:16.073209, INFO, "El cups existe y esta en vigor " ,Validacion_Cups
+2023-09-07 22:57:16.159327, INFO, "Inicio del modulo" ,Cambio_Comercializadora
+2023-09-07 22:57:16.217293, INFO, "Pantalla del boton Contratación" ,Cambio_Comercializadora
+2023-09-07 22:57:16.657366, INFO, "Pantalla del boton Nueva Oferta" ,Cambio_Comercializadora
+2023-09-07 22:57:28.660548, INFO, "Pantalla donde se busca por Cups" ,Cambio_Comercializadora
+2023-09-07 22:57:32.447655, INFO, "Pantalla donde se da click en la dirección" ,Cambio_Comercializadora
+2023-09-07 22:57:33.919755, INFO, "Pantalla de validación de suministro" ,Cambio_Comercializadora
+2023-09-07 22:58:52.688890, TRACE, Incio del modulo Init ,Init
+2023-09-07 22:58:52.770888, INFO, "Inicio del modulo GetAssets" ,GetAssets
+2023-09-07 22:59:01.782157, INFO, "Inicio del modulo GetAssets" ,GetAssets
+
+2023-09-07 22:59:01.899902, TRACE, Inicio Ejecucion, RB_ES_EDSA_017_CambioComercializadora
+2023-09-07 22:59:01.959110, TRACE, Inicio del modulo Init ,InitConfig
+2023-09-07 22:59:02.099194, TRACE, Fin del modulo Init ,InitConfig
+2023-09-07 22:59:02.182193, TRACE, Inicio del submodulo KillProcess ,KillProcess
+2023-09-07 22:59:07.259623, TRACE, Fin del submodulo KillProcess ,KillProcess
+2023-09-07 22:59:07.324640, TRACE, Inicio del submodulo InitApps ,InitApps
+2023-09-07 22:59:07.398638, INFO, "Incio del modulo LoginCosmos" ,Login
+2023-09-07 22:59:27.892373, INFO, "Inicio del modulo Obtener Token" ,ObtenerToken
+2023-09-07 22:59:27.955375, INFO, "Fin del modulo Obtener Token" ,ObtenerToken
+2023-09-07 22:59:42.166616, INFO, "Fin del modulo LoginCosmos" ,Login
+2023-09-07 22:59:42.209981, TRACE, Fin del submodulo InitApps ,InitApps
+2023-09-07 22:59:42.254314, TRACE, Fin del modulo Init ,Init
+2023-09-07 22:59:42.358482, TRACE, Inicio del modulo GetTransaction ,GetTransaction
+2023-09-07 22:59:44.121813, TRACE, Fin del modulo GetTransaction ,GetTransaction
+2023-09-07 22:59:44.761323, TRACE, Inicio del modulo Process ,Process
+2023-09-07 22:59:44.832247, INFO, "Inicio del modulo Work Data" ,Work_Data
+2023-09-07 22:59:45.744662, INFO, "Fin del modulo Work Data" ,Work_Data
+2023-09-07 22:59:45.859107, INFO, "Inicio del modulo Buscar_Cliente" ,Buscar_Cliente
+2023-09-07 23:00:57.064997, INFO, "Intento de click en Buscar numero "1" de 10" ,Buscar_Cliente
+2023-09-07 23:01:00.537467, INFO, "Intento de click en Buscar numero "2" de 10" ,Buscar_Cliente
+2023-09-07 23:01:03.584448, INFO, "Intento de click en Buscar numero "3" de 10" ,Buscar_Cliente
+2023-09-07 23:01:06.432376, INFO, "Fin del modulo Buscar_Cliente" ,Buscar_Cliente
+2023-09-07 23:01:06.510051, INFO, "Inicio del modulo Iniciar Simulación" ,Iniciar_Simulacion
+2023-09-07 23:01:28.461832, INFO, "Fin del modulo Iniciar Simulación" ,Iniciar_Simulacion
+2023-09-07 23:01:28.546696, INFO, "Inicio modulo Validacion Cups" ,Validacion_Cups
+2023-09-07 23:01:35.060060, INFO, "El cups existe y esta en vigor " ,Validacion_Cups
+2023-09-07 23:01:35.158059, INFO, "Inicio del modulo" ,Cambio_Comercializadora
+2023-09-07 23:01:35.227058, INFO, "Pantalla del boton Contratación" ,Cambio_Comercializadora
+2023-09-07 23:01:35.666592, INFO, "Pantalla del boton Nueva Oferta" ,Cambio_Comercializadora
+2023-09-07 23:03:45.742226, TRACE, Incio del modulo Init ,Init
+2023-09-07 23:03:45.804804, INFO, "Inicio del modulo GetAssets" ,GetAssets
+2023-09-07 23:03:55.690797, INFO, "Inicio del modulo GetAssets" ,GetAssets
+
+2023-09-07 23:03:55.807329, TRACE, Inicio Ejecucion, RB_ES_EDSA_017_CambioComercializadora
+2023-09-07 23:03:55.867255, TRACE, Inicio del modulo Init ,InitConfig
+2023-09-07 23:03:56.014743, TRACE, Fin del modulo Init ,InitConfig
+2023-09-07 23:03:56.097829, TRACE, Inicio del submodulo KillProcess ,KillProcess
+2023-09-07 23:04:01.082504, TRACE, Fin del submodulo KillProcess ,KillProcess
+2023-09-07 23:04:01.145455, TRACE, Inicio del submodulo InitApps ,InitApps
+2023-09-07 23:04:01.208148, INFO, "Incio del modulo LoginCosmos" ,Login
+2023-09-07 23:04:24.019473, INFO, "Inicio del modulo Obtener Token" ,ObtenerToken
+2023-09-07 23:04:24.082467, INFO, "Fin del modulo Obtener Token" ,ObtenerToken
+2023-09-07 23:04:37.988872, INFO, "Fin del modulo LoginCosmos" ,Login
+2023-09-07 23:04:38.032873, TRACE, Fin del submodulo InitApps ,InitApps
+2023-09-07 23:04:38.078872, TRACE, Fin del modulo Init ,Init
+2023-09-07 23:04:38.192244, TRACE, Inicio del modulo GetTransaction ,GetTransaction
+2023-09-07 23:04:39.886022, TRACE, Fin del modulo GetTransaction ,GetTransaction
+2023-09-07 23:04:40.514045, TRACE, Inicio del modulo Process ,Process
+2023-09-07 23:04:40.586441, INFO, "Inicio del modulo Work Data" ,Work_Data
+2023-09-07 23:04:41.600250, INFO, "Fin del modulo Work Data" ,Work_Data
+2023-09-07 23:04:41.710395, INFO, "Inicio del modulo Buscar_Cliente" ,Buscar_Cliente
+2023-09-07 23:05:09.898359, INFO, "Intento de click en Buscar numero "1" de 10" ,Buscar_Cliente
+2023-09-07 23:05:12.610186, INFO, "Fin del modulo Buscar_Cliente" ,Buscar_Cliente
+2023-09-07 23:05:12.690828, INFO, "Inicio del modulo Iniciar Simulación" ,Iniciar_Simulacion
+2023-09-07 23:05:48.090787, ERROR, "Error inesperado" ,Iniciar_Simulacion
+2023-09-07 23:05:48.177337, INFO, "Inicio del modulo " ,Ultimas_Validaciones
+2023-09-07 23:05:48.239294, INFO, "Reintento numero "1" De "3 ,Ultimas_Validaciones
+2023-09-07 23:05:48.301490, INFO, "Fin del modulo " ,Ultimas_Validaciones
+2023-09-07 23:05:48.398195, INFO, "Inicio del modulo Buscar_Cliente" ,Buscar_Cliente
+2023-09-07 23:06:07.412070, INFO, "Intento de click en Buscar numero "1" de 10" ,Buscar_Cliente
+2023-09-07 23:06:10.200031, INFO, "Fin del modulo Buscar_Cliente" ,Buscar_Cliente
+2023-09-07 23:06:10.277847, INFO, "Inicio del modulo Iniciar Simulación" ,Iniciar_Simulacion
+2023-09-07 23:06:34.304646, INFO, "Fin del modulo Iniciar Simulación" ,Iniciar_Simulacion
+2023-09-07 23:06:34.385623, INFO, "Inicio modulo Validacion Cups" ,Validacion_Cups
+2023-09-07 23:06:40.804529, INFO, "El cups existe y esta en vigor " ,Validacion_Cups
+2023-09-07 23:06:40.888845, INFO, "Inicio del modulo" ,Cambio_Comercializadora
+2023-09-07 23:06:40.944909, INFO, "Pantalla del boton Contratación" ,Cambio_Comercializadora
+2023-09-07 23:06:41.403968, INFO, "Pantalla del boton Nueva Oferta" ,Cambio_Comercializadora
+2023-09-07 23:07:48.827440, TRACE, Incio del modulo Init ,Init
+2023-09-07 23:07:48.898455, INFO, "Inicio del modulo GetAssets" ,GetAssets
+2023-09-07 23:07:57.534400, INFO, "Inicio del modulo GetAssets" ,GetAssets
+
+2023-09-07 23:07:57.655367, TRACE, Inicio Ejecucion, RB_ES_EDSA_017_CambioComercializadora
+2023-09-07 23:07:57.713817, TRACE, Inicio del modulo Init ,InitConfig
+2023-09-07 23:07:57.853460, TRACE, Fin del modulo Init ,InitConfig
+2023-09-07 23:07:57.928556, TRACE, Inicio del submodulo KillProcess ,KillProcess
+2023-09-07 23:08:00.934427, TRACE, Fin del submodulo KillProcess ,KillProcess
+2023-09-07 23:08:00.995629, TRACE, Inicio del submodulo InitApps ,InitApps
+2023-09-07 23:08:01.059217, INFO, "Incio del modulo LoginCosmos" ,Login
+2023-09-07 23:08:21.170853, INFO, "Inicio del modulo Obtener Token" ,ObtenerToken
+2023-09-07 23:08:21.248853, INFO, "Fin del modulo Obtener Token" ,ObtenerToken
+2023-09-07 23:08:35.237456, INFO, "Fin del modulo LoginCosmos" ,Login
+2023-09-07 23:08:35.281495, TRACE, Fin del submodulo InitApps ,InitApps
+2023-09-07 23:08:35.327259, TRACE, Fin del modulo Init ,Init
+2023-09-07 23:08:35.425213, TRACE, Inicio del modulo GetTransaction ,GetTransaction
+2023-09-07 23:08:37.173687, TRACE, Fin del modulo GetTransaction ,GetTransaction
+2023-09-07 23:08:37.816198, TRACE, Inicio del modulo Process ,Process
+2023-09-07 23:08:37.882229, INFO, "Inicio del modulo Work Data" ,Work_Data
+2023-09-07 23:08:38.869909, INFO, "Fin del modulo Work Data" ,Work_Data
+2023-09-07 23:08:38.985480, INFO, "Inicio del modulo Buscar_Cliente" ,Buscar_Cliente
+2023-09-07 23:09:18.911490, INFO, "Intento de click en Buscar numero "1" de 10" ,Buscar_Cliente
+2023-09-07 23:09:21.652846, INFO, "Fin del modulo Buscar_Cliente" ,Buscar_Cliente
+2023-09-07 23:09:21.725217, INFO, "Inicio del modulo Iniciar Simulación" ,Iniciar_Simulacion
+2023-09-07 23:09:57.134811, ERROR, "Error inesperado" ,Iniciar_Simulacion
+2023-09-07 23:09:57.219460, INFO, "Inicio del modulo " ,Ultimas_Validaciones
+2023-09-07 23:09:57.284618, INFO, "Reintento numero "1" De "3 ,Ultimas_Validaciones
+2023-09-07 23:09:57.346675, INFO, "Fin del modulo " ,Ultimas_Validaciones
+2023-09-07 23:09:57.443277, INFO, "Inicio del modulo Buscar_Cliente" ,Buscar_Cliente
+2023-09-07 23:10:16.489082, INFO, "Intento de click en Buscar numero "1" de 10" ,Buscar_Cliente
+2023-09-07 23:10:19.481976, INFO, "Intento de click en Buscar numero "2" de 10" ,Buscar_Cliente
+2023-09-07 23:10:22.264526, INFO, "Fin del modulo Buscar_Cliente" ,Buscar_Cliente
+2023-09-07 23:10:22.353618, INFO, "Inicio del modulo Iniciar Simulación" ,Iniciar_Simulacion
+2023-09-07 23:10:49.863627, INFO, "Fin del modulo Iniciar Simulación" ,Iniciar_Simulacion
+2023-09-07 23:10:49.949047, INFO, "Inicio modulo Validacion Cups" ,Validacion_Cups
+2023-09-07 23:11:38.719126, TRACE, Incio del modulo Init ,Init
+2023-09-07 23:11:38.785731, INFO, "Inicio del modulo GetAssets" ,GetAssets
+2023-09-07 23:11:47.232304, INFO, "Inicio del modulo GetAssets" ,GetAssets
+
+2023-09-07 23:11:47.357241, TRACE, Inicio Ejecucion, RB_ES_EDSA_017_CambioComercializadora
+2023-09-07 23:11:47.434102, TRACE, Inicio del modulo Init ,InitConfig
+2023-09-07 23:11:47.589436, TRACE, Fin del modulo Init ,InitConfig
+2023-09-07 23:11:47.669867, TRACE, Inicio del submodulo KillProcess ,KillProcess
+2023-09-07 23:11:50.685952, TRACE, Fin del submodulo KillProcess ,KillProcess
+2023-09-07 23:11:50.754688, TRACE, Inicio del submodulo InitApps ,InitApps
+2023-09-07 23:11:50.822605, INFO, "Incio del modulo LoginCosmos" ,Login
+2023-09-07 23:12:11.920435, INFO, "Inicio del modulo Obtener Token" ,ObtenerToken
+2023-09-07 23:12:11.979435, INFO, "Fin del modulo Obtener Token" ,ObtenerToken
+2023-09-07 23:12:25.888226, INFO, "Fin del modulo LoginCosmos" ,Login
+2023-09-07 23:12:25.934760, TRACE, Fin del submodulo InitApps ,InitApps
+2023-09-07 23:12:25.979008, TRACE, Fin del modulo Init ,Init
+2023-09-07 23:12:26.395403, TRACE, Inicio del modulo GetTransaction ,GetTransaction
+2023-09-07 23:12:28.240388, TRACE, Fin del modulo GetTransaction ,GetTransaction
+2023-09-07 23:12:28.889420, TRACE, Inicio del modulo Process ,Process
+2023-09-07 23:12:28.960598, INFO, "Inicio del modulo Work Data" ,Work_Data
+2023-09-07 23:12:29.968399, INFO, "Fin del modulo Work Data" ,Work_Data
+2023-09-07 23:12:30.089871, INFO, "Inicio del modulo Buscar_Cliente" ,Buscar_Cliente
+2023-09-07 23:12:48.780959, INFO, "Intento de click en Buscar numero "1" de 10" ,Buscar_Cliente
+2023-09-07 23:12:51.531075, INFO, "Fin del modulo Buscar_Cliente" ,Buscar_Cliente
+2023-09-07 23:12:51.622510, INFO, "Inicio del modulo Iniciar Simulación" ,Iniciar_Simulacion
+2023-09-07 23:13:18.766679, INFO, "Fin del modulo Iniciar Simulación" ,Iniciar_Simulacion
+2023-09-07 23:13:18.839794, INFO, "Inicio modulo Validacion Cups" ,Validacion_Cups
+2023-09-07 23:13:25.372539, INFO, "El cups existe y esta en vigor " ,Validacion_Cups
+2023-09-07 23:13:25.457691, INFO, "Inicio del modulo" ,Cambio_Comercializadora
+2023-09-07 23:13:25.515673, INFO, "Pantalla del boton Contratación" ,Cambio_Comercializadora
+2023-09-07 23:13:25.973767, INFO, "Pantalla del boton Nueva Oferta" ,Cambio_Comercializadora
+2023-09-07 23:13:36.840031, INFO, "Pantalla donde se busca por Cups" ,Cambio_Comercializadora
+2023-09-07 23:13:40.739674, INFO, "Pantalla donde se da click en la dirección" ,Cambio_Comercializadora
+2023-09-07 23:13:41.697027, INFO, "Pantalla de validación de suministro" ,Cambio_Comercializadora
+2023-09-07 23:13:52.765655, INFO, "Fin del modulo" ,Cambio_Comercializadora
+2023-09-07 23:13:52.833694, INFO, "Inicio del modulo" ,Actualizar_Potencia
+2023-09-07 23:14:10.513307, INFO, "Fin del modulo Modificación de potencia" ,Actualizar_Potencia
+2023-09-07 23:14:10.606531, INFO, "Inicio del modulo" ,Pasos_Configurador
+2023-09-07 23:14:29.396184, INFO, "Inicio del modulo" ,Configuracion_Tarifa_Energia_TUR
+2023-09-07 23:14:30.555948, INFO, "Inicio del modulo" ,Centrar_Tarifa
+2023-09-07 23:14:30.641875, INFO, "Fin del modulo" ,Centrar_Tarifa
+2023-09-07 23:14:31.063820, INFO, "Fin del modulo" ,Configuracion_Tarifa_Energia_TUR
+2023-09-07 23:14:31.109735, INFO, "Fin del modulo" ,Pasos_Configurador
+2023-09-07 23:14:31.197831, INFO, "Inicio del modulo" ,Finalizar_Confirguracion_Tarifa
+2023-09-07 23:15:10.278156, INFO, "Fin del modulo" ,Finalizar_Confirguracion_Tarifa
+2023-09-07 23:15:10.364299, INFO, "Inicio del modulo Metodo de pago" ,Metodo_Pago
+2023-09-07 23:15:20.543128, INFO, "Fin del modulo Metodo de pago" ,Metodo_Pago
+2023-09-07 23:15:20.647254, INFO, "Inicio del modulo Firmar contrato" ,Firmar_Contrato
+2023-09-07 23:16:21.210136, INFO, "Se finaliza el cambio de producto exitosamente" ,Firmar_Contrato
+2023-09-07 23:16:21.262133, INFO, "Fin del modulo Firmar contrato" ,Firmar_Contrato
+2023-09-07 23:16:21.363090, INFO, "Inicio del modulo Venta Caida" ,Venta_Caida
+2023-09-07 23:16:44.161364, ERROR, "No se logro dejar el caso como venta caida" ,Venta_Caida
+2023-09-07 23:16:44.238601, INFO, "Inicio del modulo " ,Ultimas_Validaciones
+2023-09-07 23:16:44.317540, INFO, "Se pasa la variable de reintentoS a "3+1" Para salir del bucle" ,Ultimas_Validaciones
+2023-09-07 23:16:44.362760, INFO, "Fin del modulo " ,Ultimas_Validaciones
+2023-09-07 23:16:44.410012, INFO, "Incio del modulo SetTransactionStatus" ,Set_Transaction_Status
+2023-09-07 23:16:44.488012, INFO, "Inicio del modulo Chage Status BPM" ,Change_Status_BPM
+2023-09-07 23:16:47.688861, INFO, "Fin del modulo Chage Status BPM" ,Change_Status_BPM
+2023-09-07 23:16:47.736779, INFO, "Fin del modulo SetTransactionStatus" ,Set_Transaction_Status
+2023-09-07 23:16:47.787715, TRACE, Fin del modulo Process ,Process
+2023-09-07 23:16:48.611530, TRACE, Inicio del modulo Process ,Process
+2023-09-07 23:16:48.685606, INFO, "Inicio del modulo Work Data" ,Work_Data
+2023-09-07 23:16:49.638179, INFO, "Fin del modulo Work Data" ,Work_Data
+2023-09-07 23:16:49.763425, INFO, "Inicio del modulo Buscar_Cliente" ,Buscar_Cliente
+2023-09-07 23:21:02.725297, INFO, "Intento de click en Buscar numero "1" de 10" ,Buscar_Cliente
+2023-09-07 23:21:05.528804, INFO, "Fin del modulo Buscar_Cliente" ,Buscar_Cliente
+2023-09-07 23:21:05.576468, INFO, "Inicio del modulo Iniciar Simulación" ,Iniciar_Simulacion
+2023-09-07 23:21:26.549153, INFO, "Fin del modulo Iniciar Simulación" ,Iniciar_Simulacion
+2023-09-07 23:21:26.584157, INFO, "Inicio modulo Validacion Cups" ,Validacion_Cups
+2023-09-07 23:21:33.013222, INFO, "El cups existe y esta en vigor " ,Validacion_Cups
+2023-09-07 23:21:33.076189, INFO, "Inicio del modulo" ,Cambio_Comercializadora
+2023-09-07 23:21:33.125281, INFO, "Pantalla del boton Contratación" ,Cambio_Comercializadora
+2023-09-07 23:21:33.574590, INFO, "Pantalla del boton Nueva Oferta" ,Cambio_Comercializadora
+2023-09-07 23:21:42.780893, INFO, "Pantalla donde se busca por Cups" ,Cambio_Comercializadora
+2023-09-07 23:21:46.025808, INFO, "Pantalla donde se da click en la dirección" ,Cambio_Comercializadora
+2023-09-07 23:21:47.025955, INFO, "Pantalla de validación de suministro" ,Cambio_Comercializadora
+2023-09-07 23:22:06.336903, INFO, "Fin del modulo" ,Cambio_Comercializadora
+2023-09-07 23:22:06.411911, INFO, "Inicio del modulo" ,Actualizar_Potencia
+2023-09-07 23:22:18.450615, ERROR, "Error inesperado" ,Actualizar_Potencia
+2023-09-07 23:22:18.527288, INFO, "Inicio del modulo " ,Ultimas_Validaciones
+2023-09-07 23:22:18.582573, INFO, "Reintento numero "1" De "3 ,Ultimas_Validaciones
+2023-09-07 23:22:18.611578, INFO, "Fin del modulo " ,Ultimas_Validaciones
+2023-09-07 23:22:18.715306, INFO, "Inicio del modulo Buscar_Cliente" ,Buscar_Cliente
+2023-09-07 23:22:55.461055, INFO, "Intento de click en Buscar numero "1" de 10" ,Buscar_Cliente
+2023-09-07 23:22:58.272497, INFO, "Fin del modulo Buscar_Cliente" ,Buscar_Cliente
+2023-09-07 23:22:58.350097, INFO, "Inicio del modulo Iniciar Simulación" ,Iniciar_Simulacion
+2023-09-07 23:23:19.199015, INFO, "Fin del modulo Iniciar Simulación" ,Iniciar_Simulacion
+2023-09-07 23:23:19.277212, INFO, "Inicio modulo Validacion Cups" ,Validacion_Cups
+2023-09-07 23:23:25.708574, INFO, "El cups existe y esta en vigor " ,Validacion_Cups
+2023-09-07 23:23:25.784005, INFO, "Inicio del modulo" ,Cambio_Comercializadora
+2023-09-07 23:23:25.835219, INFO, "Pantalla del boton Contratación" ,Cambio_Comercializadora
+2023-09-07 23:23:26.282494, INFO, "Pantalla del boton Nueva Oferta" ,Cambio_Comercializadora
+2023-09-07 23:23:35.634604, INFO, "Pantalla donde se busca por Cups" ,Cambio_Comercializadora
+2023-09-07 23:23:38.843623, INFO, "Pantalla donde se da click en la dirección" ,Cambio_Comercializadora
+2023-09-07 23:23:39.795262, INFO, "Pantalla de validación de suministro" ,Cambio_Comercializadora
+2023-09-07 23:23:59.070028, INFO, "Fin del modulo" ,Cambio_Comercializadora
+2023-09-07 23:23:59.144028, INFO, "Inicio del modulo" ,Actualizar_Potencia
+2023-09-07 23:24:11.292962, ERROR, "Error inesperado" ,Actualizar_Potencia
+2023-09-07 23:24:11.368554, INFO, "Inicio del modulo " ,Ultimas_Validaciones
+2023-09-07 23:24:11.444084, INFO, "Reintento numero "2" De "3 ,Ultimas_Validaciones
+2023-09-07 23:24:11.503948, INFO, "Fin del modulo " ,Ultimas_Validaciones
+2023-09-07 23:24:11.595271, INFO, "Inicio del modulo Buscar_Cliente" ,Buscar_Cliente
+2023-09-07 23:30:49.304399, TRACE, Incio del modulo Init ,Init
+2023-09-07 23:30:49.367662, INFO, "Inicio del modulo GetAssets" ,GetAssets
+2023-09-07 23:30:57.869602, INFO, "Inicio del modulo GetAssets" ,GetAssets
+
+2023-09-07 23:30:58.056521, TRACE, Inicio Ejecucion, RB_ES_EDSA_017_CambioComercializadora
+2023-09-07 23:30:58.140520, TRACE, Inicio del modulo Init ,InitConfig
+2023-09-07 23:30:58.312526, TRACE, Fin del modulo Init ,InitConfig
+2023-09-07 23:30:58.395520, TRACE, Inicio del submodulo KillProcess ,KillProcess
+2023-09-07 23:31:01.804924, TRACE, Fin del submodulo KillProcess ,KillProcess
+2023-09-07 23:31:01.867708, TRACE, Inicio del submodulo InitApps ,InitApps
+2023-09-07 23:31:01.933368, INFO, "Incio del modulo LoginCosmos" ,Login
+2023-09-07 23:31:22.956506, INFO, "Inicio del modulo Obtener Token" ,ObtenerToken
+2023-09-07 23:31:23.025502, INFO, "Fin del modulo Obtener Token" ,ObtenerToken
+2023-09-07 23:31:37.141333, INFO, "Fin del modulo LoginCosmos" ,Login
+2023-09-07 23:31:37.183903, TRACE, Fin del submodulo InitApps ,InitApps
+2023-09-07 23:31:37.228433, TRACE, Fin del modulo Init ,Init
+2023-09-07 23:31:37.330731, TRACE, Inicio del modulo GetTransaction ,GetTransaction
+2023-09-07 23:31:39.610769, TRACE, Fin del modulo GetTransaction ,GetTransaction
+2023-09-07 23:31:41.040594, TRACE, Inicio del modulo Process ,Process
+2023-09-07 23:31:41.081579, INFO, "Inicio del modulo Work Data" ,Work_Data
+2023-09-07 23:31:42.033552, INFO, "Fin del modulo Work Data" ,Work_Data
+2023-09-07 23:31:42.072302, INFO, "Inicio del modulo Buscar_Cliente" ,Buscar_Cliente
+2023-09-07 23:32:04.186454, INFO, "Intento de click en Buscar numero "1" de 10" ,Buscar_Cliente
+2023-09-07 23:32:07.140495, INFO, "Intento de click en Buscar numero "2" de 10" ,Buscar_Cliente
+2023-09-07 23:32:09.935634, INFO, "Fin del modulo Buscar_Cliente" ,Buscar_Cliente
+2023-09-07 23:32:10.038706, INFO, "Inicio del modulo Iniciar Simulación" ,Iniciar_Simulacion
+2023-09-07 23:32:35.885809, INFO, "Fin del modulo Iniciar Simulación" ,Iniciar_Simulacion
+2023-09-07 23:32:35.965414, INFO, "Inicio modulo Validacion Cups" ,Validacion_Cups
+2023-09-07 23:32:42.391448, INFO, "El cups existe y esta en vigor " ,Validacion_Cups
+2023-09-07 23:32:42.465526, INFO, "Inicio del modulo" ,Cambio_Comercializadora
+2023-09-07 23:32:42.521492, INFO, "Pantalla del boton Contratación" ,Cambio_Comercializadora
+2023-09-07 23:32:42.929392, INFO, "Pantalla del boton Nueva Oferta" ,Cambio_Comercializadora
+2023-09-07 23:32:54.361159, INFO, "Pantalla donde se busca por Cups" ,Cambio_Comercializadora
+2023-09-07 23:32:58.657071, INFO, "Pantalla donde se da click en la dirección" ,Cambio_Comercializadora
+2023-09-07 23:32:59.591398, INFO, "Pantalla de validación de suministro" ,Cambio_Comercializadora
+2023-09-07 23:33:08.881386, INFO, "Fin del modulo" ,Cambio_Comercializadora
+2023-09-07 23:33:08.967130, INFO, "Inicio del modulo" ,Actualizar_Potencia
+2023-09-07 23:33:26.134607, INFO, "Fin del modulo Modificación de potencia" ,Actualizar_Potencia
+2023-09-07 23:33:26.212565, INFO, "Inicio del modulo" ,Pasos_Configurador
+2023-09-07 23:33:42.453046, INFO, "Inicio del modulo" ,Configuracion_Tarifa_Energia_TUR
+2023-09-07 23:33:43.604197, INFO, "Inicio del modulo" ,Centrar_Tarifa
+2023-09-07 23:33:43.653189, INFO, "Fin del modulo" ,Centrar_Tarifa
+2023-09-07 23:33:44.039313, INFO, "Fin del modulo" ,Configuracion_Tarifa_Energia_TUR
+2023-09-07 23:33:44.082117, INFO, "Fin del modulo" ,Pasos_Configurador
+2023-09-07 23:33:44.168240, INFO, "Inicio del modulo" ,Finalizar_Confirguracion_Tarifa
+2023-09-07 23:34:23.367674, INFO, "Fin del modulo" ,Finalizar_Confirguracion_Tarifa
+2023-09-07 23:34:23.444758, INFO, "Inicio del modulo Metodo de pago" ,Metodo_Pago
+2023-09-07 23:34:33.604006, INFO, "Fin del modulo Metodo de pago" ,Metodo_Pago
+2023-09-07 23:34:33.677010, INFO, "Inicio del modulo Firmar contrato" ,Firmar_Contrato
+2023-09-07 23:35:56.672022, ERROR, "Error inesperado" ,Firmar_Contrato
+2023-09-07 23:35:56.708113, INFO, "Inicio del modulo Venta Caida" ,Venta_Caida
+2023-09-07 23:36:19.590118, ERROR, "No se logro dejar el caso como venta caida" ,Venta_Caida
+2023-09-07 23:36:19.662578, INFO, "Inicio del modulo " ,Ultimas_Validaciones
+2023-09-07 23:36:19.692243, INFO, "Reintento numero "1" De "3 ,Ultimas_Validaciones
+2023-09-07 23:36:19.760232, INFO, "Fin del modulo " ,Ultimas_Validaciones
+2023-09-07 23:36:19.865414, INFO, "Inicio del modulo Buscar_Cliente" ,Buscar_Cliente
+2023-09-07 23:45:09.521496, TRACE, Incio del modulo Init ,Init
+2023-09-07 23:45:09.577719, INFO, "Inicio del modulo GetAssets" ,GetAssets
+2023-09-07 23:45:18.426910, INFO, "Inicio del modulo GetAssets" ,GetAssets
+
+2023-09-07 23:45:18.544929, TRACE, Inicio Ejecucion, RB_ES_EDSA_017_CambioComercializadora
+2023-09-07 23:45:18.613359, TRACE, Inicio del modulo Init ,InitConfig
+2023-09-07 23:45:18.741012, TRACE, Fin del modulo Init ,InitConfig
+2023-09-07 23:45:18.823010, TRACE, Inicio del submodulo KillProcess ,KillProcess
+2023-09-07 23:45:18.960547, TRACE, Fin del submodulo KillProcess ,KillProcess
+2023-09-07 23:45:19.024831, TRACE, Inicio del submodulo InitApps ,InitApps
+2023-09-07 23:45:19.088354, INFO, "Incio del modulo LoginCosmos" ,Login
+2023-09-07 23:45:36.195020, INFO, "Inicio del modulo Obtener Token" ,ObtenerToken
+2023-09-07 23:45:36.262218, INFO, "Fin del modulo Obtener Token" ,ObtenerToken
+2023-09-07 23:45:50.497525, INFO, "Fin del modulo LoginCosmos" ,Login
+2023-09-07 23:45:50.542508, TRACE, Fin del submodulo InitApps ,InitApps
+2023-09-07 23:45:50.590952, TRACE, Fin del modulo Init ,Init
+2023-09-07 23:45:50.718476, TRACE, Inicio del modulo GetTransaction ,GetTransaction
+2023-09-07 23:45:52.539113, TRACE, Fin del modulo GetTransaction ,GetTransaction
+2023-09-07 23:45:53.172868, TRACE, Inicio del modulo Process ,Process
+2023-09-07 23:45:53.246721, INFO, "Inicio del modulo Work Data" ,Work_Data
+2023-09-07 23:45:54.191762, INFO, "Fin del modulo Work Data" ,Work_Data
+2023-09-07 23:45:54.314851, INFO, "Inicio del modulo Buscar_Cliente" ,Buscar_Cliente
+2023-09-07 23:46:17.312510, INFO, "Intento de click en Buscar numero "1" de 10" ,Buscar_Cliente
+2023-09-07 23:46:20.289793, INFO, "Intento de click en Buscar numero "2" de 10" ,Buscar_Cliente
+2023-09-07 23:46:23.106113, INFO, "Fin del modulo Buscar_Cliente" ,Buscar_Cliente
+2023-09-07 23:46:23.211113, INFO, "Inicio del modulo Iniciar Simulación" ,Iniciar_Simulacion
+2023-09-07 23:46:44.537741, INFO, "Fin del modulo Iniciar Simulación" ,Iniciar_Simulacion
+2023-09-07 23:46:44.626768, INFO, "Inicio modulo Validacion Cups" ,Validacion_Cups
+2023-09-07 23:46:51.066962, INFO, "El cups existe y esta en vigor " ,Validacion_Cups
+2023-09-07 23:46:51.150298, INFO, "Inicio del modulo" ,Cambio_Comercializadora
+2023-09-07 23:46:51.228135, INFO, "Pantalla del boton Contratación" ,Cambio_Comercializadora
+2023-09-07 23:46:51.697377, INFO, "Pantalla del boton Nueva Oferta" ,Cambio_Comercializadora
+2023-09-07 23:47:02.683480, INFO, "Pantalla donde se busca por Cups" ,Cambio_Comercializadora
+2023-09-07 23:47:06.462438, INFO, "Pantalla donde se da click en la dirección" ,Cambio_Comercializadora
+2023-09-07 23:47:07.449373, INFO, "Pantalla de validación de suministro" ,Cambio_Comercializadora
+2023-09-07 23:47:16.390896, INFO, "Fin del modulo" ,Cambio_Comercializadora
+2023-09-07 23:47:16.471404, INFO, "Inicio del modulo" ,Actualizar_Potencia
+2023-09-07 23:47:33.779664, INFO, "Fin del modulo Modificación de potencia" ,Actualizar_Potencia
+2023-09-07 23:47:33.875652, INFO, "Inicio del modulo" ,Pasos_Configurador
+2023-09-07 23:47:49.484505, INFO, "Inicio del modulo" ,Configuracion_Tarifa_Gas_TUR
+2023-09-07 23:47:51.050893, INFO, "Inicio del modulo" ,Centrar_Tarifa
+2023-09-07 23:47:51.135880, INFO, "Fin del modulo" ,Centrar_Tarifa
+2023-09-07 23:47:51.541004, INFO, "Fin del modulo" ,Configuracion_Tarifa_Gas_TUR
+2023-09-07 23:47:51.587567, INFO, "Fin del modulo" ,Pasos_Configurador
+2023-09-07 23:47:51.670484, INFO, "Inicio del modulo" ,Finalizar_Confirguracion_Tarifa
+2023-09-07 23:48:28.569939, INFO, "Fin del modulo" ,Finalizar_Confirguracion_Tarifa
+2023-09-07 23:48:28.650374, INFO, "Inicio del modulo Metodo de pago" ,Metodo_Pago
+2023-09-07 23:48:38.685546, INFO, "Fin del modulo Metodo de pago" ,Metodo_Pago
+2023-09-07 23:48:38.766915, INFO, "Inicio del modulo Firmar contrato" ,Firmar_Contrato
+2023-09-07 23:50:07.781751, INFO, "Se finaliza el cambio de producto exitosamente" ,Firmar_Contrato
+2023-09-07 23:50:07.827241, INFO, "Fin del modulo Firmar contrato" ,Firmar_Contrato
+2023-09-07 23:50:07.907294, INFO, "Inicio del modulo Venta Caida" ,Venta_Caida
+2023-09-07 23:50:30.673842, ERROR, "No se logro dejar el caso como venta caida" ,Venta_Caida
+2023-09-07 23:50:30.750915, INFO, "Inicio del modulo " ,Ultimas_Validaciones
+2023-09-07 23:50:30.836610, INFO, "Se pasa la variable de reintentoS a "3+1" Para salir del bucle" ,Ultimas_Validaciones
+2023-09-07 23:50:30.878742, INFO, "Fin del modulo " ,Ultimas_Validaciones
+2023-09-07 23:50:30.953259, INFO, "Incio del modulo SetTransactionStatus" ,Set_Transaction_Status
+2023-09-07 23:50:31.021272, INFO, "Inicio del modulo Chage Status BPM" ,Change_Status_BPM
+2023-09-07 23:50:33.700525, INFO, "Fin del modulo Chage Status BPM" ,Change_Status_BPM
+2023-09-07 23:50:33.745303, INFO, "Fin del modulo SetTransactionStatus" ,Set_Transaction_Status
+2023-09-07 23:50:33.789341, TRACE, Fin del modulo Process ,Process
+2023-09-07 23:50:34.608694, TRACE, Inicio del modulo Process ,Process
+2023-09-07 23:50:34.670596, INFO, "Inicio del modulo Work Data" ,Work_Data
+2023-09-07 23:50:35.616578, INFO, "Fin del modulo Work Data" ,Work_Data
+2023-09-07 23:50:35.716387, INFO, "Inicio del modulo Buscar_Cliente" ,Buscar_Cliente
+2023-09-07 23:52:23.624447, INFO, "Intento de click en Buscar numero "1" de 10" ,Buscar_Cliente
+2023-09-07 23:52:26.632611, INFO, "Intento de click en Buscar numero "2" de 10" ,Buscar_Cliente
+2023-09-07 23:52:29.464995, INFO, "Fin del modulo Buscar_Cliente" ,Buscar_Cliente
+2023-09-07 23:52:29.542075, INFO, "Inicio del modulo Iniciar Simulación" ,Iniciar_Simulacion
+2023-09-07 23:52:50.452696, INFO, "Fin del modulo Iniciar Simulación" ,Iniciar_Simulacion
+2023-09-07 23:52:50.531472, INFO, "Inicio modulo Validacion Cups" ,Validacion_Cups
+2023-09-07 23:52:56.936507, INFO, "El cups existe y esta en vigor " ,Validacion_Cups
+2023-09-07 23:52:57.014753, INFO, "Inicio del modulo" ,Cambio_Comercializadora
+2023-09-07 23:52:57.065301, INFO, "Pantalla del boton Contratación" ,Cambio_Comercializadora
+2023-09-07 23:52:57.503442, INFO, "Pantalla del boton Nueva Oferta" ,Cambio_Comercializadora
+2023-09-07 23:53:06.778709, INFO, "Pantalla donde se busca por Cups" ,Cambio_Comercializadora
+2023-09-07 23:53:09.898502, INFO, "Pantalla donde se da click en la dirección" ,Cambio_Comercializadora
+2023-09-07 23:53:11.372514, INFO, "Pantalla de validación de suministro" ,Cambio_Comercializadora
+2023-09-07 23:53:24.610173, INFO, "Fin del modulo" ,Cambio_Comercializadora
+2023-09-07 23:53:24.685531, INFO, "Inicio del modulo" ,Actualizar_Potencia
+2023-09-07 23:53:36.791983, ERROR, "Error inesperado" ,Actualizar_Potencia
+2023-09-07 23:53:36.856194, INFO, "Inicio del modulo " ,Ultimas_Validaciones
+2023-09-07 23:53:36.921274, INFO, "Reintento numero "1" De "3 ,Ultimas_Validaciones
+2023-09-07 23:53:36.985680, INFO, "Fin del modulo " ,Ultimas_Validaciones
+2023-09-07 23:53:37.084017, INFO, "Inicio del modulo Buscar_Cliente" ,Buscar_Cliente
+2023-09-07 23:54:49.273710, INFO, "Intento de click en Buscar numero "1" de 10" ,Buscar_Cliente
+2023-09-07 23:54:52.755713, INFO, "Intento de click en Buscar numero "2" de 10" ,Buscar_Cliente
+2023-09-07 23:54:55.759956, INFO, "Intento de click en Buscar numero "3" de 10" ,Buscar_Cliente
+2023-09-07 23:54:58.539377, INFO, "Fin del modulo Buscar_Cliente" ,Buscar_Cliente
+2023-09-07 23:54:58.611453, INFO, "Inicio del modulo Iniciar Simulación" ,Iniciar_Simulacion
+2023-09-07 23:55:24.582195, INFO, "Fin del modulo Iniciar Simulación" ,Iniciar_Simulacion
+2023-09-07 23:55:24.658653, INFO, "Inicio modulo Validacion Cups" ,Validacion_Cups
+2023-09-07 23:55:31.089163, INFO, "El cups existe y esta en vigor " ,Validacion_Cups
+2023-09-07 23:55:31.176348, INFO, "Inicio del modulo" ,Cambio_Comercializadora
+2023-09-07 23:55:31.234864, INFO, "Pantalla del boton Contratación" ,Cambio_Comercializadora
+2023-09-07 23:55:31.663312, INFO, "Pantalla del boton Nueva Oferta" ,Cambio_Comercializadora
+2023-09-07 23:55:41.225519, INFO, "Pantalla donde se busca por Cups" ,Cambio_Comercializadora
+2023-09-07 23:55:44.334929, INFO, "Pantalla donde se da click en la dirección" ,Cambio_Comercializadora
+2023-09-07 23:55:45.810821, INFO, "Pantalla de validación de suministro" ,Cambio_Comercializadora
+2023-09-07 23:55:55.919419, INFO, "Fin del modulo" ,Cambio_Comercializadora
+2023-09-07 23:55:56.000385, INFO, "Inicio del modulo" ,Actualizar_Potencia
+2023-09-07 23:56:08.096491, ERROR, "Error inesperado" ,Actualizar_Potencia
+2023-09-07 23:56:08.170972, INFO, "Inicio del modulo " ,Ultimas_Validaciones
+2023-09-07 23:56:08.232161, INFO, "Reintento numero "2" De "3 ,Ultimas_Validaciones
+2023-09-07 23:56:08.296966, INFO, "Fin del modulo " ,Ultimas_Validaciones
+2023-09-07 23:56:08.390365, INFO, "Inicio del modulo Buscar_Cliente" ,Buscar_Cliente

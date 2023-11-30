@@ -1,0 +1,588 @@
+Hora, Tipo Registro, Mensaje,Robot
+2023-11-17 16:25:49.634457, INFO, None ,InitConfig
+2023-11-17 16:25:49.652976, INFO, Inicio del modulo ,InitConfig
+2023-11-17 16:25:49.870071, INFO, Fin del modulo ,InitConfig
+2023-11-17 16:25:49.902781, INFO, Inicio del modulo envio de correo ,NotificacionesCorreo
+2023-11-17 16:25:52.184273, ERROR, "Error al intentar enviar el correo de notificaci�n" ,NotificacionesCorreo
+2023-11-17 16:25:52.217601, INFO, Inicio del modulo ,KillProcess
+2023-11-17 16:25:52.250605, ERROR, Error inesperado ,KillProcess
+2023-11-17 16:25:52.283886, INFO, "Fin del modulo" ,Init
+2023-11-17 16:25:52.533222, ERROR, Algo salio mal en las confirguraciones iniciales ,GetTransaction
+2023-11-17 16:25:53.532389, INFO, Inicio del modulo ,EndProcess
+2023-11-17 16:25:53.565777, INFO, Inicio del modulo ,KillProcess
+2023-11-17 16:25:53.581986, ERROR, Error inesperado ,KillProcess
+2023-11-17 16:25:53.618769, INFO, Inicio del modulo envio de correo ,NotificacionesCorreo
+2023-11-17 16:25:55.546240, ERROR, "Error al intentar enviar el correo de notificaci�n" ,NotificacionesCorreo
+2023-11-17 16:25:55.563424, INFO, Fin del modulo ,EndProcess
+2023-11-17 16:25:55.597399, TRACE, Finalizacion de Ejecucion, BotLevel2CertificadoRocket
+
+2023-11-17 16:27:37.637420, INFO, "Incio del modulo" ,Init
+2023-11-17 16:27:37.679117, INFO, Inicio del modulo ,GetAssets
+2023-11-17 16:27:43.259012, INFO, Inicio del modulo ,GetAssets
+2023-11-17 16:27:43.307989, INFO, None ,InitConfig
+2023-11-17 16:27:43.325939, INFO, Inicio del modulo ,InitConfig
+2023-11-17 16:27:43.393543, INFO, Fin del modulo ,InitConfig
+2023-11-17 16:27:43.425867, INFO, Inicio del modulo ,KillProcess
+2023-11-17 16:27:43.459896, ERROR, Error inesperado ,KillProcess
+2023-11-17 16:27:43.492341, INFO, "Fin del modulo" ,Init
+2023-11-17 16:27:43.553415, ERROR, Algo salio mal en las confirguraciones iniciales ,GetTransaction
+2023-11-17 16:27:44.655703, INFO, Inicio del modulo ,EndProcess
+2023-11-17 16:27:44.674308, INFO, Inicio del modulo ,KillProcess
+2023-11-17 16:27:44.707866, ERROR, Error inesperado ,KillProcess
+2023-11-17 16:27:44.741950, INFO, Inicio del modulo envio de correo ,NotificacionesCorreo
+2023-11-17 16:27:46.821350, ERROR, "Error al intentar enviar el correo de notificaci�n" ,NotificacionesCorreo
+2023-11-17 16:27:46.838758, INFO, Fin del modulo ,EndProcess
+2023-11-17 16:27:46.855702, TRACE, Finalizacion de Ejecucion, BotLevel2CertificadoRocket
+
+2023-11-17 16:28:43.718731, INFO, "Incio del modulo" ,Init
+2023-11-17 16:28:43.751644, INFO, Inicio del modulo ,GetAssets
+2023-11-17 16:28:49.998769, INFO, Inicio del modulo ,GetAssets
+2023-11-17 16:28:50.032154, INFO, None ,InitConfig
+2023-11-17 16:28:50.061978, INFO, Inicio del modulo ,InitConfig
+2023-11-17 16:28:50.137010, INFO, Fin del modulo ,InitConfig
+2023-11-17 16:28:50.168102, INFO, Inicio del modulo ,KillProcess
+2023-11-17 16:28:50.196172, INFO, Fin del modulo ,KillProcess
+2023-11-17 16:28:50.212275, INFO, Inicio del modulo ,InitApps
+2023-11-17 16:28:50.262715, INFO, Incio del modulo ,Login
+2023-11-17 16:28:57.304980, INFO, Fin del modulo ,Login
+2023-11-17 16:28:57.337642, TRACE, "Fin del modulo" ,InitApps
+2023-11-17 16:28:57.352742, INFO, "Fin del modulo" ,Init
+2023-11-17 16:28:57.414629, INFO, Inicio del modulo ,GetTransaction
+2023-11-17 16:28:59.697526, INFO, Fin del modulo ,GetTransaction
+2023-11-17 16:29:00.299405, INFO, Inicio del modulo ,Process
+2023-11-17 16:29:00.334493, INFO, "Inicio del modulo" ,Work_Data
+2023-11-17 16:29:01.365518, INFO, "Fin del modulo Work Data" ,Work_Data
+2023-11-17 16:29:01.398732, INFO, Inicio del modulo ,Registrar_Persona
+2023-11-17 16:29:03.649123, INFO, Fin del modulo ,Registrar_Persona
+2023-11-17 16:29:03.681794, INFO, Inicio del modulo ,Legacy
+2023-11-17 16:29:06.979342, INFO, Fin del modulo ,Legacy
+2023-11-17 16:29:07.012727, INFO, Inicio del modulo ,LeerXML
+2023-11-17 16:29:07.066995, INFO, Fin del modulo ,LeerXML
+2023-11-17 16:29:07.102331, INFO, Inicio del modulo ,EscribirDataExcel
+2023-11-17 16:29:07.150248, INFO, Fin del modulo ,EscribirDataExcel
+2023-11-17 16:29:07.183595, INFO, Inicio del modulo ,FTP
+2023-11-17 16:29:16.551535, INFO, El archivo cargado en el FTP es: ['Cliente.xlsx'] ,FTP
+2023-11-17 16:29:16.583680, INFO, Fin del modulo ,FTP
+2023-11-17 16:29:16.607622, INFO, Inicio del modulo envio de correo ,NotificacionesCorreo
+2023-11-17 16:29:18.767626, ERROR, "Error al intentar enviar el correo de notificaci�n" ,NotificacionesCorreo
+2023-11-17 16:29:18.798691, INFO, "Inicio del modulo " ,Ultimas_Validaciones
+2023-11-17 16:29:18.817276, INFO, "Se pasa la variable de reintentoS a "3+1" Para salir del bucle" ,Ultimas_Validaciones
+2023-11-17 16:29:18.848752, INFO, "Fin del modulo " ,Ultimas_Validaciones
+2023-11-17 16:29:18.880874, INFO, Incio del modulo ,Set_Transaction_Status
+2023-11-17 16:29:18.910957, INFO, Inicio del modulo ,DataBase
+2023-11-17 16:29:19.651087, INFO, Fin del modulo ,DataBase
+2023-11-17 16:29:19.667446, INFO, Fin del modulo ,Set_Transaction_Status
+2023-11-17 16:29:19.700510, INFO, Fin del modulo ,Process
+2023-11-17 16:29:20.179923, INFO, Inicio del modulo ,EndProcess
+2023-11-17 16:29:20.213157, INFO, Inicio del modulo ,KillProcess
+2023-11-17 16:29:22.544148, INFO, Fin del modulo ,KillProcess
+2023-11-17 16:29:22.577586, INFO, Inicio del modulo envio de correo ,NotificacionesCorreo
+2023-11-17 16:29:24.642315, ERROR, "Error al intentar enviar el correo de notificaci�n" ,NotificacionesCorreo
+2023-11-17 16:29:24.675545, INFO, Fin del modulo ,EndProcess
+2023-11-17 16:29:24.692347, TRACE, Finalizacion de Ejecucion, BotLevel2CertificadoRocket
+
+2023-11-17 16:38:00.343074, INFO, None ,InitConfig
+2023-11-17 16:38:00.375868, INFO, Inicio del modulo ,InitConfig
+2023-11-17 16:38:00.442342, INFO, Fin del modulo ,InitConfig
+2023-11-17 16:38:00.476371, INFO, Inicio del modulo ,KillProcess
+2023-11-17 16:38:20.822858, INFO, Fin del modulo ,KillProcess
+2023-11-17 16:38:20.856298, INFO, Inicio del modulo ,InitApps
+2023-11-17 16:38:20.872504, INFO, Incio del modulo ,Login
+2023-11-17 16:38:27.758592, INFO, Fin del modulo ,Login
+2023-11-17 16:38:27.782007, TRACE, "Fin del modulo" ,InitApps
+2023-11-17 16:38:27.809476, INFO, "Fin del modulo" ,Init
+2023-11-17 16:38:27.901146, INFO, Inicio del modulo ,GetTransaction
+2023-11-17 16:38:31.263914, INFO, Fin del modulo ,GetTransaction
+2023-11-17 16:38:31.861090, INFO, Inicio del modulo ,Process
+2023-11-17 16:38:31.895504, INFO, "Inicio del modulo" ,Work_Data
+2023-11-17 16:38:33.408930, INFO, "Fin del modulo Work Data" ,Work_Data
+2023-11-17 16:38:33.459005, INFO, Inicio del modulo ,Registrar_Persona
+2023-11-17 16:38:39.585441, INFO, Fin del modulo ,Registrar_Persona
+2023-11-17 16:38:39.617918, INFO, Inicio del modulo ,Legacy
+2023-11-17 16:38:43.176583, INFO, El archivo DatosUsuario.XML existe ,Legacy
+2023-11-17 16:38:43.187001, INFO, Fin del modulo ,Legacy
+2023-11-17 16:38:43.220475, INFO, Inicio del modulo ,LeerXML
+2023-11-17 16:38:43.253843, INFO, Fin del modulo ,LeerXML
+2023-11-17 16:38:43.287082, INFO, Inicio del modulo ,EscribirDataExcel
+2023-11-17 16:38:43.351485, INFO, Fin del modulo ,EscribirDataExcel
+2023-11-17 16:38:43.390459, INFO, Inicio del modulo ,FTP
+2023-11-17 16:38:52.682759, INFO, El archivo cargado en el FTP es: ['Cliente.xlsx'] ,FTP
+2023-11-17 16:38:52.712043, INFO, Fin del modulo ,FTP
+2023-11-17 16:38:52.745579, INFO, Inicio del modulo envio de correo ,NotificacionesCorreo
+2023-11-17 16:38:57.052493, INFO, Finaliza el modulo de envio de correo ,NotificacionesCorreo
+2023-11-17 16:38:57.079062, INFO, "Inicio del modulo " ,Ultimas_Validaciones
+2023-11-17 16:38:57.123739, INFO, "Se pasa la variable de reintentoS a "3+1" Para salir del bucle" ,Ultimas_Validaciones
+2023-11-17 16:38:57.137350, INFO, "Fin del modulo " ,Ultimas_Validaciones
+2023-11-17 16:38:57.181016, INFO, Incio del modulo ,Set_Transaction_Status
+2023-11-17 16:38:57.217009, INFO, Inicio del modulo ,DataBase
+2023-11-17 16:38:57.937759, INFO, Fin del modulo ,DataBase
+2023-11-17 16:38:57.954673, INFO, Fin del modulo ,Set_Transaction_Status
+2023-11-17 16:38:57.988134, INFO, Fin del modulo ,Process
+2023-11-17 16:38:58.437530, INFO, Inicio del modulo ,EndProcess
+2023-11-17 16:38:58.469718, INFO, Inicio del modulo ,KillProcess
+2023-11-17 16:39:00.733905, INFO, Fin del modulo ,KillProcess
+2023-11-17 16:39:00.773147, INFO, Inicio del modulo envio de correo ,NotificacionesCorreo
+2023-11-17 16:39:04.565051, INFO, Finaliza el modulo de envio de correo ,NotificacionesCorreo
+2023-11-17 16:39:04.596753, INFO, Fin del modulo ,EndProcess
+2023-11-17 16:39:04.613682, TRACE, Finalizacion de Ejecucion, BotLevel2CertificadoRocket
+
+2023-11-17 18:51:52.050180, INFO, None ,InitConfig
+2023-11-17 18:51:52.075161, INFO, Inicio del modulo ,InitConfig
+2023-11-17 18:51:52.148469, INFO, Fin del modulo ,InitConfig
+2023-11-17 18:51:52.186469, INFO, Inicio del modulo ,KillProcess
+2023-11-17 18:51:54.412302, INFO, Fin del modulo ,KillProcess
+2023-11-17 18:51:54.439130, INFO, Inicio del modulo ,InitApps
+2023-11-17 18:51:54.465962, INFO, Incio del modulo ,Login
+2023-11-17 18:52:01.657176, INFO, Fin del modulo ,Login
+2023-11-17 18:52:01.684098, INFO, Fin del modulo ,InitApps
+2023-11-17 18:52:01.708090, INFO, Fin del modulo ,Init
+2023-11-17 18:52:01.968741, INFO, Inicio del modulo ,GetTransaction
+2023-11-17 18:52:04.989284, INFO, Fin del modulo ,GetTransaction
+2023-11-17 18:52:05.597737, INFO, Inicio del modulo ,Process
+2023-11-17 18:52:05.625349, INFO, "Inicio del modulo" ,Work_Data
+2023-11-17 18:52:06.691336, INFO, "Fin del modulo Work Data" ,Work_Data
+2023-11-17 18:52:06.736988, INFO, Inicio del modulo ,Registrar_Persona
+2023-11-17 18:52:24.094869, INFO, Fin del modulo ,Registrar_Persona
+2023-11-17 18:52:24.129295, INFO, Inicio del modulo ,Legacy
+2023-11-17 18:52:25.892120, INFO, El archivo DatosUsuario.XML existe ,Legacy
+2023-11-17 18:52:25.916161, INFO, Fin del modulo ,Legacy
+2023-11-17 18:52:25.948161, INFO, Inicio del modulo ,LeerXML
+2023-11-17 18:52:25.981146, INFO, Fin del modulo ,LeerXML
+2023-11-17 18:52:26.014291, INFO, Inicio del modulo ,EscribirDataExcel
+2023-11-17 18:52:26.066744, ERROR, Error inesperado ,EscribirDataExcel
+2023-11-17 18:52:26.103764, INFO, "Inicio del modulo " ,Ultimas_Validaciones
+2023-11-17 18:52:26.132351, INFO, "Reintento numero "1" De "3 ,Ultimas_Validaciones
+2023-11-17 18:52:26.159803, INFO, "Fin del modulo " ,Ultimas_Validaciones
+2023-11-17 18:52:26.199718, INFO, Inicio del modulo ,Registrar_Persona
+2023-11-17 18:53:01.769221, ERROR, Error inesperado ,Registrar_Persona
+2023-11-17 18:53:01.805936, INFO, "Inicio del modulo " ,Ultimas_Validaciones
+2023-11-17 18:53:01.831942, INFO, "Reintento numero "2" De "3 ,Ultimas_Validaciones
+2023-11-17 18:53:01.868865, INFO, "Fin del modulo " ,Ultimas_Validaciones
+2023-11-17 18:53:01.905061, INFO, Inicio del modulo ,Registrar_Persona
+2023-11-17 18:56:55.305062, INFO, "Incio del modulo" ,Init
+2023-11-17 18:56:55.336617, INFO, Inicio del modulo ,GetAssets
+2023-11-17 18:56:59.971298, INFO, Fin del modulo ,GetAssets
+2023-11-17 18:57:00.013580, INFO, None ,InitConfig
+2023-11-17 18:57:00.041622, INFO, Inicio del modulo ,InitConfig
+2023-11-17 18:57:00.115371, INFO, Fin del modulo ,InitConfig
+2023-11-17 18:57:00.147027, INFO, Inicio del modulo ,KillProcess
+2023-11-17 18:57:02.315772, INFO, Fin del modulo ,KillProcess
+2023-11-17 18:57:02.344740, INFO, Inicio del modulo ,InitApps
+2023-11-17 18:57:02.371819, INFO, Incio del modulo ,Login
+2023-11-17 18:57:09.018505, INFO, Fin del modulo ,Login
+2023-11-17 18:57:09.053502, INFO, Fin del modulo ,InitApps
+2023-11-17 18:57:09.092504, INFO, Fin del modulo ,Init
+2023-11-17 18:57:09.166509, INFO, Inicio del modulo ,GetTransaction
+2023-11-17 18:57:13.555922, INFO, Fin del modulo ,GetTransaction
+2023-11-17 18:57:14.175435, INFO, Inicio del modulo ,Process
+2023-11-17 18:57:14.205435, INFO, "Inicio del modulo" ,Work_Data
+2023-11-17 18:57:15.394684, INFO, "Fin del modulo Work Data" ,Work_Data
+2023-11-17 18:57:15.433683, INFO, Inicio del modulo ,Registrar_Persona
+2023-11-17 18:57:22.694285, INFO, Fin del modulo ,Registrar_Persona
+2023-11-17 18:57:22.739285, INFO, Inicio del modulo ,Legacy
+2023-11-17 18:59:31.719134, INFO, "Incio del modulo" ,Init
+2023-11-17 18:59:31.749255, INFO, Inicio del modulo ,GetAssets
+2023-11-17 18:59:36.758070, INFO, Fin del modulo ,GetAssets
+2023-11-17 18:59:36.796576, INFO, None ,InitConfig
+2023-11-17 18:59:36.819479, INFO, Inicio del modulo ,InitConfig
+2023-11-17 18:59:36.912084, INFO, Fin del modulo ,InitConfig
+2023-11-17 18:59:36.944522, INFO, Inicio del modulo ,KillProcess
+2023-11-17 18:59:39.126502, INFO, Fin del modulo ,KillProcess
+2023-11-17 18:59:39.159090, INFO, Inicio del modulo ,InitApps
+2023-11-17 18:59:39.187743, INFO, Incio del modulo ,Login
+2023-11-17 18:59:45.695575, INFO, Fin del modulo ,Login
+2023-11-17 18:59:45.722526, INFO, Fin del modulo ,InitApps
+2023-11-17 18:59:45.749436, INFO, Fin del modulo ,Init
+2023-11-17 18:59:45.803437, INFO, Inicio del modulo ,GetTransaction
+2023-11-17 18:59:48.638455, INFO, Fin del modulo ,GetTransaction
+2023-11-17 18:59:49.241191, INFO, Inicio del modulo ,Process
+2023-11-17 18:59:49.274192, INFO, "Inicio del modulo" ,Work_Data
+2023-11-17 18:59:50.488271, INFO, "Fin del modulo Work Data" ,Work_Data
+2023-11-17 18:59:50.524062, INFO, Inicio del modulo ,Registrar_Persona
+2023-11-17 18:59:58.220336, INFO, Fin del modulo ,Registrar_Persona
+2023-11-17 18:59:58.257337, INFO, Inicio del modulo ,Legacy
+2023-11-17 18:59:58.890343, INFO, El archivo DatosUsuario.XML existe ,Legacy
+2023-11-17 18:59:58.914346, INFO, Fin del modulo ,Legacy
+2023-11-17 18:59:58.951347, INFO, Inicio del modulo ,LeerXML
+2023-11-17 18:59:58.985388, INFO, Fin del modulo ,LeerXML
+2023-11-17 18:59:59.024387, INFO, Inicio del modulo ,EscribirDataExcel
+2023-11-17 18:59:59.097960, INFO, Fin del modulo ,EscribirDataExcel
+2023-11-17 18:59:59.138993, INFO, Inicio del modulo ,FTP
+2023-11-17 19:00:08.403244, INFO, El archivo cargado en el FTP es: ['Cliente.xlsx'] ,FTP
+2023-11-17 19:00:08.428262, INFO, Fin del modulo ,FTP
+2023-11-17 19:00:08.469913, INFO, Inicio del modulo envio de correo ,NotificacionesCorreo
+2023-11-17 19:00:12.793251, INFO, Finaliza el modulo de envio de correo ,NotificacionesCorreo
+2023-11-17 19:00:12.824833, INFO, "Inicio del modulo " ,Ultimas_Validaciones
+2023-11-17 19:00:12.852781, INFO, "Se pasa la variable de reintentoS a "3+1" Para salir del bucle" ,Ultimas_Validaciones
+2023-11-17 19:00:12.877861, INFO, "Fin del modulo " ,Ultimas_Validaciones
+2023-11-17 19:00:12.908757, INFO, Incio del modulo ,Set_Transaction_Status
+2023-11-17 19:00:12.940849, INFO, Inicio del modulo ,DataBase
+2023-11-17 19:00:13.017874, INFO, Fin del modulo ,Set_Transaction_Status
+2023-11-17 19:00:13.043947, INFO, Fin del modulo ,Process
+2023-11-17 19:00:13.514998, INFO, Inicio del modulo ,EndProcess
+2023-11-17 19:00:13.542942, INFO, Inicio del modulo ,KillProcess
+2023-11-17 19:00:15.867869, INFO, Fin del modulo ,KillProcess
+2023-11-17 19:00:15.890063, INFO, Fin del modulo ,EndProcess
+2023-11-17 19:00:15.910116, TRACE, Finalizacion de Ejecucion, BotLevel2CertificadoRocket
+
+2023-11-17 19:09:15.631993, INFO, "Incio del modulo" ,Init
+2023-11-17 19:09:15.659798, INFO, Inicio del modulo ,GetAssets
+2023-11-17 19:09:21.788103, INFO, Fin del modulo ,GetAssets
+2023-11-17 19:09:21.830138, INFO, None ,InitConfig
+2023-11-17 19:09:21.857888, INFO, Inicio del modulo ,InitConfig
+2023-11-17 19:09:21.935765, INFO, Fin del modulo ,InitConfig
+2023-11-17 19:09:21.969691, INFO, Inicio del modulo ,KillProcess
+2023-11-17 19:09:42.429802, INFO, Fin del modulo ,KillProcess
+2023-11-17 19:09:42.463801, INFO, Inicio del modulo ,InitApps
+2023-11-17 19:09:42.491801, INFO, Incio del modulo ,Login
+2023-11-17 19:09:49.044077, INFO, Fin del modulo ,Login
+2023-11-17 19:09:49.068439, INFO, Fin del modulo ,InitApps
+2023-11-17 19:09:49.092436, INFO, Fin del modulo ,Init
+2023-11-17 19:09:49.143440, INFO, Inicio del modulo ,GetTransaction
+2023-11-17 19:09:52.230351, INFO, Fin del modulo ,GetTransaction
+2023-11-17 19:09:52.833890, INFO, Inicio del modulo ,Process
+2023-11-17 19:09:52.863012, INFO, "Inicio del modulo" ,Work_Data
+2023-11-17 19:09:53.935604, INFO, "Fin del modulo Work Data" ,Work_Data
+2023-11-17 19:09:53.970800, INFO, Inicio del modulo ,Registrar_Persona
+2023-11-17 19:10:01.664863, INFO, Fin del modulo ,Registrar_Persona
+2023-11-17 19:10:01.703865, INFO, Inicio del modulo ,Legacy
+2023-11-17 19:10:02.290403, INFO, El archivo DatosUsuario.XML existe ,Legacy
+2023-11-17 19:10:02.323402, INFO, Fin del modulo ,Legacy
+2023-11-17 19:10:02.360408, INFO, Inicio del modulo ,LeerXML
+2023-11-17 19:10:02.403403, INFO, Fin del modulo ,LeerXML
+2023-11-17 19:10:02.440408, INFO, Inicio del modulo ,EscribirDataExcel
+2023-11-17 19:10:02.503405, INFO, Fin del modulo ,EscribirDataExcel
+2023-11-17 19:10:02.541428, INFO, Inicio del modulo ,FTP
+2023-11-17 19:10:11.930448, INFO, El archivo cargado en el FTP es: ['Cliente.xlsx'] ,FTP
+2023-11-17 19:10:11.963456, INFO, Fin del modulo ,FTP
+2023-11-17 19:10:11.992542, INFO, Inicio del modulo envio de correo ,NotificacionesCorreo
+2023-11-17 19:10:16.144679, INFO, Finaliza el modulo de envio de correo ,NotificacionesCorreo
+2023-11-17 19:10:16.174792, INFO, "Inicio del modulo " ,Ultimas_Validaciones
+2023-11-17 19:10:16.202095, INFO, "Se pasa la variable de reintentoS a "3+1" Para salir del bucle" ,Ultimas_Validaciones
+2023-11-17 19:10:16.225094, INFO, "Fin del modulo " ,Ultimas_Validaciones
+2023-11-17 19:10:16.275097, INFO, Incio del modulo ,Set_Transaction_Status
+2023-11-17 19:10:16.306117, INFO, Inicio del modulo ,DataBase
+2023-11-17 19:10:18.380221, ERROR, Algo salio mal enviando los datos a la base de datos ,DataBase
+2023-11-17 19:10:18.407220, INFO, Fin del modulo ,Set_Transaction_Status
+2023-11-17 19:10:18.431327, INFO, Fin del modulo ,Process
+2023-11-17 19:10:18.917256, INFO, Inicio del modulo ,EndProcess
+2023-11-17 19:10:18.944409, INFO, Inicio del modulo ,KillProcess
+2023-11-17 19:10:21.226620, INFO, Fin del modulo ,KillProcess
+2023-11-17 19:10:21.250623, INFO, Fin del modulo ,EndProcess
+2023-11-17 19:10:21.272620, TRACE, Finalizacion de Ejecucion, BotLevel2CertificadoRocket
+
+2023-11-17 19:13:04.998986, INFO, "Incio del modulo" ,Init
+2023-11-17 19:13:05.030740, INFO, Inicio del modulo ,GetAssets
+2023-11-17 19:13:11.694767, INFO, Fin del modulo ,GetAssets
+2023-11-17 19:13:11.738224, INFO, None ,InitConfig
+2023-11-17 19:13:11.761202, INFO, Inicio del modulo ,InitConfig
+2023-11-17 19:13:11.840127, INFO, Fin del modulo ,InitConfig
+2023-11-17 19:13:11.874301, INFO, Inicio del modulo ,KillProcess
+2023-11-17 19:13:32.367334, INFO, Fin del modulo ,KillProcess
+2023-11-17 19:13:32.394242, INFO, Inicio del modulo ,InitApps
+2023-11-17 19:13:32.423318, INFO, Incio del modulo ,Login
+2023-11-17 19:13:39.048202, INFO, Fin del modulo ,Login
+2023-11-17 19:13:39.075205, INFO, Fin del modulo ,InitApps
+2023-11-17 19:13:39.100422, INFO, Fin del modulo ,Init
+2023-11-17 19:13:39.184440, INFO, Inicio del modulo ,GetTransaction
+2023-11-17 19:13:42.790095, INFO, Fin del modulo ,GetTransaction
+2023-11-17 19:13:43.395133, INFO, Inicio del modulo ,Process
+2023-11-17 19:13:43.428907, INFO, "Inicio del modulo" ,Work_Data
+2023-11-17 19:13:44.449264, INFO, "Fin del modulo Work Data" ,Work_Data
+2023-11-17 19:13:44.494264, INFO, Inicio del modulo ,Registrar_Persona
+2023-11-17 19:13:52.112048, INFO, Fin del modulo ,Registrar_Persona
+2023-11-17 19:13:52.172048, INFO, Inicio del modulo ,Legacy
+2023-11-17 19:13:52.847566, INFO, El archivo DatosUsuario.XML existe ,Legacy
+2023-11-17 19:13:52.883568, INFO, Fin del modulo ,Legacy
+2023-11-17 19:13:52.924569, INFO, Inicio del modulo ,LeerXML
+2023-11-17 19:13:52.976569, INFO, Fin del modulo ,LeerXML
+2023-11-17 19:13:53.022582, INFO, Inicio del modulo ,EscribirDataExcel
+2023-11-17 19:13:53.104581, INFO, Fin del modulo ,EscribirDataExcel
+2023-11-17 19:13:53.155568, INFO, Inicio del modulo ,FTP
+2023-11-17 19:13:56.441109, ERROR, Error inesperado ,FTP
+2023-11-17 19:13:56.486099, INFO, "Inicio del modulo " ,Ultimas_Validaciones
+2023-11-17 19:13:56.522098, INFO, "Reintento numero "1" De "3 ,Ultimas_Validaciones
+2023-11-17 19:13:56.560100, INFO, "Fin del modulo " ,Ultimas_Validaciones
+2023-11-17 19:13:56.601185, INFO, Inicio del modulo ,Registrar_Persona
+2023-11-17 19:14:00.143639, INFO, Fin del modulo ,Registrar_Persona
+2023-11-17 19:14:00.176388, INFO, Inicio del modulo ,Legacy
+2023-11-17 19:14:00.750773, INFO, El archivo DatosUsuario.XML existe ,Legacy
+2023-11-17 19:14:00.777775, INFO, Fin del modulo ,Legacy
+2023-11-17 19:14:00.814287, INFO, Inicio del modulo ,LeerXML
+2023-11-17 19:14:00.846617, INFO, Fin del modulo ,LeerXML
+2023-11-17 19:14:00.884630, INFO, Inicio del modulo ,EscribirDataExcel
+2023-11-17 19:14:00.946603, INFO, Fin del modulo ,EscribirDataExcel
+2023-11-17 19:14:00.986586, INFO, Inicio del modulo ,FTP
+2023-11-17 19:14:04.059792, ERROR, Error inesperado ,FTP
+2023-11-17 19:14:04.093336, INFO, "Inicio del modulo " ,Ultimas_Validaciones
+2023-11-17 19:14:04.120848, INFO, "Reintento numero "2" De "3 ,Ultimas_Validaciones
+2023-11-17 19:14:04.148773, INFO, "Fin del modulo " ,Ultimas_Validaciones
+2023-11-17 19:14:04.183389, INFO, Inicio del modulo ,Registrar_Persona
+2023-11-17 19:14:07.681594, INFO, Fin del modulo ,Registrar_Persona
+2023-11-17 19:14:07.718678, INFO, Inicio del modulo ,Legacy
+2023-11-17 19:14:08.280048, INFO, El archivo DatosUsuario.XML existe ,Legacy
+2023-11-17 19:14:08.309045, INFO, Fin del modulo ,Legacy
+2023-11-17 19:14:08.348045, INFO, Inicio del modulo ,LeerXML
+2023-11-17 19:14:08.393048, INFO, Fin del modulo ,LeerXML
+2023-11-17 19:14:08.450051, INFO, Inicio del modulo ,EscribirDataExcel
+2023-11-17 19:14:08.552047, INFO, Fin del modulo ,EscribirDataExcel
+2023-11-17 19:14:08.601050, INFO, Inicio del modulo ,FTP
+2023-11-17 19:14:11.614570, ERROR, Error inesperado ,FTP
+2023-11-17 19:14:11.651567, INFO, "Inicio del modulo " ,Ultimas_Validaciones
+2023-11-17 19:14:11.681568, INFO, "Reintento numero "3" De "3 ,Ultimas_Validaciones
+2023-11-17 19:14:11.713567, INFO, "Fin del modulo " ,Ultimas_Validaciones
+2023-11-17 19:14:11.751568, INFO, Incio del modulo ,Set_Transaction_Status
+2023-11-17 19:14:11.787570, INFO, Inicio del modulo ,DataBase
+2023-11-17 19:15:23.215921, INFO, "Incio del modulo" ,Init
+2023-11-17 19:15:23.247527, INFO, Inicio del modulo ,GetAssets
+2023-11-17 19:15:28.427998, INFO, Fin del modulo ,GetAssets
+2023-11-17 19:15:28.469999, INFO, None ,InitConfig
+2023-11-17 19:15:28.494998, INFO, Inicio del modulo ,InitConfig
+2023-11-17 19:15:28.590030, INFO, Fin del modulo ,InitConfig
+2023-11-17 19:15:28.625028, INFO, Inicio del modulo ,KillProcess
+2023-11-17 19:15:30.837780, INFO, Fin del modulo ,KillProcess
+2023-11-17 19:15:30.864435, INFO, Inicio del modulo ,InitApps
+2023-11-17 19:15:30.891377, INFO, Incio del modulo ,Login
+2023-11-17 19:15:37.927126, INFO, Fin del modulo ,Login
+2023-11-17 19:15:37.953165, INFO, Fin del modulo ,InitApps
+2023-11-17 19:15:37.979890, INFO, Fin del modulo ,Init
+2023-11-17 19:15:38.329892, INFO, Inicio del modulo ,GetTransaction
+2023-11-17 19:15:41.953758, INFO, Fin del modulo ,GetTransaction
+2023-11-17 19:15:42.564662, INFO, Inicio del modulo ,Process
+2023-11-17 19:15:42.595668, INFO, "Inicio del modulo" ,Work_Data
+2023-11-17 19:15:43.571220, INFO, "Fin del modulo Work Data" ,Work_Data
+2023-11-17 19:15:43.605243, INFO, Inicio del modulo ,Registrar_Persona
+2023-11-17 19:15:51.256092, INFO, Fin del modulo ,Registrar_Persona
+2023-11-17 19:15:51.291130, INFO, Inicio del modulo ,Legacy
+2023-11-17 19:15:51.981133, INFO, El archivo DatosUsuario.XML existe ,Legacy
+2023-11-17 19:15:52.013140, INFO, Fin del modulo ,Legacy
+2023-11-17 19:15:52.063135, INFO, Inicio del modulo ,LeerXML
+2023-11-17 19:15:52.106145, INFO, Fin del modulo ,LeerXML
+2023-11-17 19:15:52.151134, INFO, Inicio del modulo ,EscribirDataExcel
+2023-11-17 19:15:52.231136, INFO, Fin del modulo ,EscribirDataExcel
+2023-11-17 19:15:52.273135, INFO, Inicio del modulo ,FTP
+2023-11-17 19:15:55.257467, ERROR, Error inesperado ,FTP
+2023-11-17 19:15:55.292464, INFO, "Inicio del modulo " ,Ultimas_Validaciones
+2023-11-17 19:15:55.321464, INFO, "Reintento numero "1" De "3 ,Ultimas_Validaciones
+2023-11-17 19:15:55.354550, INFO, "Fin del modulo " ,Ultimas_Validaciones
+2023-11-17 19:15:55.394541, INFO, Inicio del modulo ,Registrar_Person
+
+2023-11-17 19:19:08.946894, INFO, Fin del modulo ,KillProcess
+2023-11-17 19:19:08.979070, INFO, Inicio del modulo ,InitApps
+2023-11-17 19:19:09.006646, INFO, Incio del modulo ,Login
+2023-11-17 19:19:15.534946, INFO, Fin del modulo ,Login
+2023-11-17 19:19:15.557933, INFO, Fin del modulo ,InitApps
+2023-11-17 19:19:15.582266, INFO, Fin del modulo ,Init
+2023-11-17 19:19:15.634265, INFO, Inicio del modulo ,GetTransaction
+2023-11-17 19:19:17.804049, INFO, Fin del modulo ,GetTransaction
+2023-11-17 19:19:18.412369, INFO, Inicio del modulo ,Process
+2023-11-17 19:19:18.443372, INFO, "Inicio del modulo" ,Work_Data
+2023-11-17 19:19:19.362650, INFO, "Fin del modulo Work Data" ,Work_Data
+2023-11-17 19:19:19.395743, INFO, Inicio del modulo ,Registrar_Persona
+2023-11-17 19:19:26.959880, INFO, Fin del modulo ,Registrar_Persona
+2023-11-17 19:19:26.995884, INFO, Inicio del modulo ,Legacy
+2023-11-17 19:19:27.529274, INFO, El archivo DatosUsuario.XML existe ,Legacy
+2023-11-17 19:19:27.552274, INFO, Fin del modulo ,Legacy
+2023-11-17 19:19:27.581096, INFO, Inicio del modulo ,LeerXML
+2023-11-17 19:19:27.612396, INFO, Fin del modulo ,LeerXML
+2023-11-17 19:19:27.647421, INFO, Inicio del modulo ,EscribirDataExcel
+2023-11-17 19:19:27.697045, INFO, Fin del modulo ,EscribirDataExcel
+2023-11-17 19:19:27.728240, INFO, Inicio del modulo ,FTP
+2023-11-17 19:19:35.788645, INFO, El archivo cargado en el FTP es: ['Cliente.xlsx'] ,FTP
+2023-11-17 19:19:35.810688, INFO, Fin del modulo ,FTP
+2023-11-17 19:19:35.838071, INFO, Inicio del modulo envio de correo ,NotificacionesCorreo
+2023-11-17 19:19:39.934132, INFO, Finaliza el modulo de envio de correo ,NotificacionesCorreo
+2023-11-17 19:19:39.969131, INFO, "Inicio del modulo " ,Ultimas_Validaciones
+2023-11-17 19:19:40.004132, INFO, "Se pasa la variable de reintentoS a "3+1" Para salir del bucle" ,Ultimas_Validaciones
+2023-11-17 19:19:40.028131, INFO, "Fin del modulo " ,Ultimas_Validaciones
+2023-11-17 19:19:40.062149, INFO, Incio del modulo ,Set_Transaction_Status
+2023-11-17 19:19:40.090644, INFO, Inicio del modulo ,DataBase
+2023-11-17 19:19:42.160195, ERROR, Algo salio mal enviando los datos a la base de datos ,DataBase
+2023-11-17 19:19:42.181931, INFO, Fin del modulo ,Set_Transaction_Status
+2023-11-17 19:19:42.203226, INFO, Fin del modulo ,Process
+2023-11-17 19:19:42.649935, INFO, Inicio del modulo ,EndProcess
+2023-11-17 19:19:42.676035, INFO, Inicio del modulo ,KillProcess
+2023-11-17 19:19:44.920425, INFO, Fin del modulo ,KillProcess
+2023-11-17 19:19:44.945513, INFO, Fin del modulo ,EndProcess
+2023-11-17 19:19:44.969427, TRACE, Finalizacion de Ejecucion, BotLevel2CertificadoRocket
+
+2023-11-17 19:51:16.529095, INFO, "Incio del modulo" ,Init
+2023-11-17 19:51:16.559248, INFO, Inicio del modulo ,GetAssets
+2023-11-17 19:51:22.797918, INFO, Fin del modulo ,GetAssets
+2023-11-17 19:51:22.837187, INFO, None ,InitConfig
+2023-11-17 19:51:22.861192, INFO, Inicio del modulo ,InitConfig
+2023-11-17 19:51:22.934195, INFO, Fin del modulo ,InitConfig
+2023-11-17 19:51:22.968281, INFO, Inicio del modulo ,KillProcess
+2023-11-17 19:51:43.430876, INFO, Fin del modulo ,KillProcess
+2023-11-17 19:51:43.459938, INFO, Inicio del modulo ,InitApps
+2023-11-17 19:51:43.484947, INFO, Incio del modulo ,Login
+2023-11-17 19:51:50.234392, INFO, Fin del modulo ,Login
+2023-11-17 19:51:50.264389, INFO, Fin del modulo ,InitApps
+2023-11-17 19:51:50.296479, INFO, Fin del modulo ,Init
+2023-11-17 19:51:50.361394, INFO, Inicio del modulo ,GetTransaction
+2023-11-17 19:51:52.922256, INFO, Fin del modulo ,GetTransaction
+2023-11-17 19:51:53.522435, INFO, Inicio del modulo ,Process
+2023-11-17 19:51:53.557465, INFO, "Inicio del modulo" ,Work_Data
+2023-11-17 19:51:54.522233, INFO, "Fin del modulo Work Data" ,Work_Data
+2023-11-17 19:51:54.555707, INFO, Inicio del modulo ,Registrar_Persona
+2023-11-17 19:52:02.366803, INFO, Fin del modulo ,Registrar_Persona
+2023-11-17 19:52:02.409763, INFO, Inicio del modulo ,Legacy
+2023-11-17 19:52:02.996752, INFO, El archivo DatosUsuario.XML existe ,Legacy
+2023-11-17 19:52:03.025751, INFO, Fin del modulo ,Legacy
+2023-11-17 19:52:03.061750, INFO, Inicio del modulo ,LeerXML
+2023-11-17 19:52:03.098752, INFO, Fin del modulo ,LeerXML
+2023-11-17 19:52:03.139752, INFO, Inicio del modulo ,EscribirDataExcel
+2023-11-17 19:52:03.214756, INFO, Fin del modulo ,EscribirDataExcel
+2023-11-17 19:52:03.287539, INFO, Inicio del modulo ,FTP
+2023-11-17 19:52:12.771156, INFO, El archivo cargado en el FTP es: ['Cliente.xlsx'] ,FTP
+2023-11-17 19:52:12.793141, INFO, Fin del modulo ,FTP
+2023-11-17 19:52:12.819761, INFO, Inicio del modulo envio de correo ,NotificacionesCorreo
+2023-11-17 19:52:17.083790, INFO, Finaliza el modulo de envio de correo ,NotificacionesCorreo
+2023-11-17 19:52:17.111310, INFO, "Inicio del modulo " ,Ultimas_Validaciones
+2023-11-17 19:52:17.139768, INFO, "Se pasa la variable de reintentoS a "3+1" Para salir del bucle" ,Ultimas_Validaciones
+2023-11-17 19:52:17.161851, INFO, "Fin del modulo " ,Ultimas_Validaciones
+2023-11-17 19:52:17.191360, INFO, Incio del modulo ,Set_Transaction_Status
+2023-11-17 19:52:17.224431, INFO, Inicio del modulo ,DataBase
+2023-11-17 19:52:17.280359, INFO, Fin del modulo ,Set_Transaction_Status
+2023-11-17 19:52:17.304433, INFO, Fin del modulo ,Process
+2023-11-17 19:52:17.750928, INFO, Inicio del modulo ,EndProcess
+2023-11-17 19:52:17.776350, INFO, Inicio del modulo ,KillProcess
+2023-11-17 19:52:20.035726, INFO, Fin del modulo ,KillProcess
+2023-11-17 19:52:20.057736, INFO, Fin del modulo ,EndProcess
+2023-11-17 19:52:20.079274, TRACE, Finalizacion de Ejecucion, BotLevel2CertificadoRocket
+
+2023-11-17 19:54:06.792386, INFO, "Incio del modulo" ,Init
+2023-11-17 19:54:06.824934, INFO, Inicio del modulo ,GetAssets
+2023-11-17 19:54:13.276732, INFO, Fin del modulo ,GetAssets
+2023-11-17 19:54:13.313445, INFO, None ,InitConfig
+2023-11-17 19:54:13.334882, INFO, Inicio del modulo ,InitConfig
+2023-11-17 19:54:13.408804, INFO, Fin del modulo ,InitConfig
+2023-11-17 19:54:13.435896, INFO, Inicio del modulo ,KillProcess
+2023-11-17 19:54:33.919997, INFO, Fin del modulo ,KillProcess
+2023-11-17 19:54:33.956197, INFO, Inicio del modulo ,InitApps
+2023-11-17 19:54:33.981194, INFO, Incio del modulo ,Login
+2023-11-17 19:54:40.901792, INFO, Fin del modulo ,Login
+2023-11-17 19:54:40.925909, INFO, Fin del modulo ,InitApps
+2023-11-17 19:54:40.949915, INFO, Fin del modulo ,Init
+2023-11-17 19:54:41.176097, INFO, Inicio del modulo ,GetTransaction
+2023-11-17 19:54:43.540014, INFO, Fin del modulo ,GetTransaction
+2023-11-17 19:54:44.138343, INFO, Inicio del modulo ,Process
+2023-11-17 19:54:44.166508, INFO, "Inicio del modulo" ,Work_Data
+2023-11-17 19:54:45.118202, INFO, "Fin del modulo Work Data" ,Work_Data
+2023-11-17 19:54:45.146734, INFO, Inicio del modulo ,Registrar_Persona
+2023-11-17 19:54:52.695287, INFO, Fin del modulo ,Registrar_Persona
+2023-11-17 19:54:52.731212, INFO, Inicio del modulo ,Legacy
+2023-11-17 19:54:53.463539, INFO, El archivo DatosUsuario.XML existe ,Legacy
+2023-11-17 19:54:53.491539, INFO, Fin del modulo ,Legacy
+2023-11-17 19:54:53.523539, INFO, Inicio del modulo ,LeerXML
+2023-11-17 19:54:53.556563, INFO, Fin del modulo ,LeerXML
+2023-11-17 19:54:53.597073, INFO, Inicio del modulo ,EscribirDataExcel
+2023-11-17 19:54:53.652591, INFO, Fin del modulo ,EscribirDataExcel
+2023-11-17 19:54:53.696590, INFO, Inicio del modulo ,FTP
+2023-11-17 19:55:01.982304, INFO, El archivo cargado en el FTP es: ['Cliente.xlsx'] ,FTP
+2023-11-17 19:55:02.005295, INFO, Fin del modulo ,FTP
+2023-11-17 19:55:02.035213, INFO, Inicio del modulo envio de correo ,NotificacionesCorreo
+2023-11-17 19:55:06.149187, INFO, Finaliza el modulo de envio de correo ,NotificacionesCorreo
+2023-11-17 19:55:06.177374, INFO, "Inicio del modulo " ,Ultimas_Validaciones
+2023-11-17 19:55:06.216391, INFO, "Se pasa la variable de reintentoS a "3+1" Para salir del bucle" ,Ultimas_Validaciones
+2023-11-17 19:55:06.238379, INFO, "Fin del modulo " ,Ultimas_Validaciones
+2023-11-17 19:55:06.268820, INFO, Incio del modulo ,Set_Transaction_Status
+2023-11-17 19:55:06.295887, INFO, Inicio del modulo ,DataBase
+2023-11-17 19:55:06.341828, INFO, Fin del modulo ,DataBase
+2023-11-17 19:55:06.366808, INFO, Fin del modulo ,Set_Transaction_Status
+2023-11-17 19:55:06.389812, INFO, Fin del modulo ,Process
+2023-11-17 19:55:06.875704, INFO, Inicio del modulo ,EndProcess
+2023-11-17 19:55:06.903716, INFO, Inicio del modulo ,KillProcess
+2023-11-17 19:55:09.173195, INFO, Fin del modulo ,KillProcess
+2023-11-17 19:55:09.193415, INFO, Fin del modulo ,EndProcess
+2023-11-17 19:55:09.214424, TRACE, Finalizacion de Ejecucion, BotLevel2CertificadoRocket
+
+2023-11-17 19:58:25.763889, INFO, "Incio del modulo" ,Init
+2023-11-17 19:58:25.794813, INFO, Inicio del modulo ,GetAssets
+2023-11-17 19:58:30.934057, INFO, Fin del modulo ,GetAssets
+2023-11-17 19:58:30.978987, INFO, None ,InitConfig
+2023-11-17 19:58:31.001060, INFO, Inicio del modulo ,InitConfig
+2023-11-17 19:58:31.080995, INFO, Fin del modulo ,InitConfig
+2023-11-17 19:58:31.115070, INFO, Inicio del modulo ,KillProcess
+2023-11-17 19:58:51.580655, INFO, Fin del modulo ,KillProcess
+2023-11-17 19:58:51.607638, INFO, Inicio del modulo ,InitApps
+2023-11-17 19:58:51.634637, INFO, Incio del modulo ,Login
+2023-11-17 19:58:58.558942, INFO, Fin del modulo ,Login
+2023-11-17 19:58:58.588951, INFO, Fin del modulo ,InitApps
+2023-11-17 19:58:58.612861, INFO, Fin del modulo ,Init
+2023-11-17 19:58:58.674547, INFO, Inicio del modulo ,GetTransaction
+2023-11-17 19:59:01.052601, INFO, Fin del modulo ,GetTransaction
+2023-11-17 19:59:01.661733, INFO, Inicio del modulo ,Process
+2023-11-17 19:59:01.698731, INFO, "Inicio del modulo" ,Work_Data
+2023-11-17 19:59:02.684225, INFO, "Fin del modulo Work Data" ,Work_Data
+2023-11-17 19:59:02.715212, INFO, Inicio del modulo ,Registrar_Persona
+2023-11-17 19:59:10.394993, INFO, Fin del modulo ,Registrar_Persona
+2023-11-17 19:59:10.437899, INFO, Inicio del modulo ,Legacy
+2023-11-17 19:59:11.063910, INFO, El archivo DatosUsuario.XML existe ,Legacy
+2023-11-17 19:59:11.095904, INFO, Fin del modulo ,Legacy
+2023-11-17 19:59:11.134904, INFO, Inicio del modulo ,LeerXML
+2023-11-17 19:59:11.167901, INFO, Fin del modulo ,LeerXML
+2023-11-17 19:59:11.228903, INFO, Inicio del modulo ,EscribirDataExcel
+2023-11-17 19:59:11.293908, INFO, Fin del modulo ,EscribirDataExcel
+2023-11-17 19:59:11.350903, INFO, Inicio del modulo ,FTP
+2023-11-17 19:59:19.805433, INFO, El archivo cargado en el FTP es: ['Cliente.xlsx'] ,FTP
+2023-11-17 19:59:19.826522, INFO, Fin del modulo ,FTP
+2023-11-17 19:59:19.854464, INFO, Inicio del modulo envio de correo ,NotificacionesCorreo
+2023-11-17 19:59:23.755893, INFO, Finaliza el modulo de envio de correo ,NotificacionesCorreo
+2023-11-17 19:59:23.784908, INFO, "Inicio del modulo " ,Ultimas_Validaciones
+2023-11-17 19:59:23.809990, INFO, "Se pasa la variable de reintentoS a "3+1" Para salir del bucle" ,Ultimas_Validaciones
+2023-11-17 19:59:23.830894, INFO, "Fin del modulo " ,Ultimas_Validaciones
+2023-11-17 19:59:23.859943, INFO, Incio del modulo ,Set_Transaction_Status
+2023-11-17 19:59:23.888979, INFO, Inicio del modulo ,DataBase
+2023-11-17 19:59:23.950388, INFO, Fin del modulo ,DataBase
+2023-11-17 19:59:23.978388, INFO, Fin del modulo ,Set_Transaction_Status
+2023-11-17 19:59:24.001387, INFO, Fin del modulo ,Process
+2023-11-17 19:59:24.520511, INFO, Inicio del modulo ,EndProcess
+2023-11-17 19:59:24.548514, INFO, Inicio del modulo ,KillProcess
+2023-11-17 19:59:26.851601, INFO, Fin del modulo ,KillProcess
+2023-11-17 19:59:26.873524, INFO, Fin del modulo ,EndProcess
+2023-11-17 19:59:26.895611, TRACE, Finalizacion de Ejecucion, BotLevel2CertificadoRocket
+
+2023-11-17 20:09:25.418165, INFO, None ,InitConfig
+2023-11-17 20:09:25.445760, INFO, Inicio del modulo ,InitConfig
+2023-11-17 20:09:25.522730, INFO, Fin del modulo ,InitConfig
+2023-11-17 20:09:25.573044, INFO, Inicio del modulo ,KillProcess
+2023-11-17 20:09:46.023447, INFO, Fin del modulo ,KillProcess
+2023-11-17 20:09:46.050515, INFO, Inicio del modulo ,InitApps
+2023-11-17 20:09:46.080521, INFO, Incio del modulo ,Login
+2023-11-17 20:09:53.302802, INFO, Fin del modulo ,Login
+2023-11-17 20:09:53.332816, INFO, Fin del modulo ,InitApps
+2023-11-17 20:09:53.361804, INFO, Fin del modulo ,Init
+2023-11-17 20:09:53.427805, INFO, Inicio del modulo ,GetTransaction
+2023-11-17 20:09:55.538931, INFO, Fin del modulo ,GetTransaction
+2023-11-17 20:09:56.152941, INFO, Inicio del modulo ,Process
+2023-11-17 20:09:56.191919, INFO, "Inicio del modulo" ,Work_Data
+2023-11-17 20:09:57.108868, INFO, "Fin del modulo Work Data" ,Work_Data
+2023-11-17 20:09:57.141867, INFO, Inicio del modulo ,Registrar_Persona
+2023-11-17 20:10:05.301421, INFO, Fin del modulo ,Registrar_Persona
+2023-11-17 20:10:05.354425, INFO, Inicio del modulo ,Legacy
+2023-11-17 20:10:06.021384, INFO, El archivo DatosUsuario.XML existe ,Legacy
+2023-11-17 20:10:06.048380, INFO, Fin del modulo ,Legacy
+2023-11-17 20:10:06.089383, INFO, Inicio del modulo ,LeerXML
+2023-11-17 20:10:06.135383, INFO, Fin del modulo ,LeerXML
+2023-11-17 20:10:06.181383, INFO, Inicio del modulo ,EscribirDataExcel
+2023-11-17 20:10:06.256384, INFO, Fin del modulo ,EscribirDataExcel
+2023-11-17 20:10:06.314382, INFO, Inicio del modulo ,FTP
+2023-11-17 20:10:16.146379, INFO, El archivo cargado en el FTP es: ['Cliente.xlsx'] ,FTP
+2023-11-17 20:10:16.169482, INFO, Fin del modulo ,FTP
+2023-11-17 20:10:16.199378, INFO, Inicio del modulo envio de correo ,NotificacionesCorreo
+2023-11-17 20:10:20.508848, INFO, Finaliza el modulo de envio de correo ,NotificacionesCorreo
+2023-11-17 20:10:20.539849, INFO, "Inicio del modulo " ,Ultimas_Validaciones
+2023-11-17 20:10:20.565849, INFO, "Se pasa la variable de reintentoS a "3+1" Para salir del bucle" ,Ultimas_Validaciones
+2023-11-17 20:10:20.587850, INFO, "Fin del modulo " ,Ultimas_Validaciones
+2023-11-17 20:10:20.619853, INFO, Incio del modulo ,Set_Transaction_Status
+2023-11-17 20:10:20.646913, INFO, Inicio del modulo ,DataBase
+2023-11-17 20:10:21.328932, INFO, Fin del modulo ,DataBase
+2023-11-17 20:10:21.350936, INFO, Fin del modulo ,Set_Transaction_Status
+2023-11-17 20:10:21.373933, INFO, Fin del modulo ,Process
+2023-11-17 20:10:21.849793, INFO, Inicio del modulo ,EndProcess
+2023-11-17 20:10:21.876809, INFO, Inicio del modulo ,KillProcess
+2023-11-17 20:10:24.226072, INFO, Fin del modulo ,KillProcess
+2023-11-17 20:10:24.250075, INFO, Fin del modulo ,EndProcess
+2023-11-17 20:10:24.276074, TRACE, Finalizacion de Ejecucion, BotLevel2CertificadoRocket
+

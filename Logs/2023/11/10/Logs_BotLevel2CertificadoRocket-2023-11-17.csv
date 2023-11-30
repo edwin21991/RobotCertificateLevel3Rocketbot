@@ -1,0 +1,4 @@
+Hora, Tipo Registro, Mensaje,Robot
+2023-11-17 16:25:43.725097, INFO, "Incio del modulo" ,Init
+2023-11-17 16:25:43.758339, INFO, Inicio del modulo ,GetAssets
+2023-11-17 16:25:49.571375, INFO, Inicio del modulo ,GetAssets

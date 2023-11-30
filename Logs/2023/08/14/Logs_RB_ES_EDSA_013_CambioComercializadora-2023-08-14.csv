@@ -1,0 +1,273 @@
+Hora, Tipo Registro, Mensaje,Robot
+2023-08-14 15:19:30.118328, ERROR, Error inesperado ,InitConfig
+2023-08-14 15:19:30.208411, TRACE, Fin del modulo Init ,Init
+2023-08-14 15:19:30.370736, INFO, "Inicio del modulo Chage Status BPM" ,Change_Status_BPM
+2023-08-14 15:19:34.171822, INFO, Inicio del modulo envio de correo ,NotificacionesCorreo
+2023-08-14 15:19:34.268173, INFO, "Conecta con el server de gmail" ,NotificacionesCorreo
+2023-08-14 15:19:35.832330, INFO, "Valida si es un correo de inicio o de fin" ,NotificacionesCorreo
+2023-08-14 15:19:36.742450, INFO, "Valido que es un correo de Inicio" ,NotificacionesCorreo
+2023-08-14 15:19:36.796362, INFO, Se conecto y envio correo correctamente ,NotificacionesCorreo
+2023-08-14 15:19:36.849362, INFO, Finaliza el modulo de envio de correo ,NotificacionesCorreo
+2023-08-14 15:19:36.893470, INFO, "Fin del modulo Chage Status BPM" ,Change_Status_BPM
+2023-08-14 15:19:37.518466, TRACE, Inicio del modulo Process ,Process
+2023-08-14 15:19:37.576747, INFO, "Inicio del modulo Work Data" ,Work_Data
+2023-08-14 15:19:38.978245, ERROR, "Error inesperado" ,Work_Data
+2023-08-14 15:27:14.170050, TRACE, Incio del modulo Init ,Init
+
+2023-08-14 15:27:14.276508, TRACE, Inicio Ejecucion, RB_ES_EDSA_013_CambioComercializadora
+2023-08-14 15:27:14.340504, TRACE, Inicio del modulo Init ,InitConfig
+2023-08-14 15:27:14.524429, TRACE, Fin del modulo Init ,InitConfig
+2023-08-14 15:27:14.622431, INFO, "Inicio del modulo GetAssets" ,GetAssets
+2023-08-14 15:27:23.345430, INFO, "Inicio del modulo GetAssets" ,GetAssets
+2023-08-14 15:27:23.416819, INFO, Inicio del modulo envio de correo ,NotificacionesCorreo
+2023-08-14 15:27:23.518285, INFO, "Conecta con el server de gmail" ,NotificacionesCorreo
+2023-08-14 15:27:25.624037, INFO, "Valida si es un correo de inicio o de fin" ,NotificacionesCorreo
+2023-08-14 15:27:26.446463, INFO, "Valido que es un correo de Inicio" ,NotificacionesCorreo
+2023-08-14 15:27:26.496540, INFO, Se conecto y envio correo correctamente ,NotificacionesCorreo
+2023-08-14 15:27:26.547444, INFO, Finaliza el modulo de envio de correo ,NotificacionesCorreo
+2023-08-14 15:27:26.612444, TRACE, Inicio del submodulo KillProcess ,KillProcess
+2023-08-14 15:27:28.896051, TRACE, Fin del submodulo KillProcess ,KillProcess
+2023-08-14 15:27:28.959177, TRACE, Inicio del submodulo InitApps ,InitApps
+2023-08-14 15:27:29.021393, INFO, "Incio del modulo LoginCosmos" ,LoginTest
+2023-08-14 15:28:03.180706, INFO, "Fin del modulo LoginCosmos" ,LoginTest
+2023-08-14 15:28:03.221218, TRACE, Fin del submodulo InitApps ,InitApps
+2023-08-14 15:28:03.268137, TRACE, Fin del modulo Init ,Init
+2023-08-14 15:28:03.385946, TRACE, Inicio del modulo GetTransaction ,GetTransaction
+2023-08-14 15:28:05.622244, TRACE, Fin del modulo GetTransaction ,GetTransaction
+2023-08-14 15:28:06.250910, TRACE, Inicio del modulo Process ,Process
+2023-08-14 15:28:06.318700, INFO, "Inicio del modulo Work Data" ,Work_Data
+2023-08-14 15:28:07.581312, INFO, "Fin del modulo Work Data" ,Work_Data
+2023-08-14 17:10:25.163788, TRACE, Incio del modulo Init ,Init
+
+2023-08-14 17:10:25.280463, TRACE, Inicio Ejecucion, RB_ES_EDSA_013_CambioComercializadora
+2023-08-14 17:10:25.339462, TRACE, Inicio del modulo Init ,InitConfig
+2023-08-14 17:10:25.503339, TRACE, Fin del modulo Init ,InitConfig
+2023-08-14 17:10:25.578273, INFO, "Inicio del modulo GetAssets" ,GetAssets
+2023-08-14 17:10:32.412793, INFO, "Inicio del modulo GetAssets" ,GetAssets
+2023-08-14 17:10:32.485436, INFO, Inicio del modulo envio de correo ,NotificacionesCorreo
+2023-08-14 17:10:32.577684, INFO, "Conecta con el server de gmail" ,NotificacionesCorreo
+2023-08-14 17:10:34.186599, INFO, "Valida si es un correo de inicio o de fin" ,NotificacionesCorreo
+2023-08-14 17:10:35.003106, INFO, "Valido que es un correo de Inicio" ,NotificacionesCorreo
+2023-08-14 17:10:35.053111, INFO, Se conecto y envio correo correctamente ,NotificacionesCorreo
+2023-08-14 17:10:35.105776, INFO, Finaliza el modulo de envio de correo ,NotificacionesCorreo
+2023-08-14 17:10:35.170989, TRACE, Inicio del submodulo KillProcess ,KillProcess
+2023-08-14 17:10:37.996172, TRACE, Fin del submodulo KillProcess ,KillProcess
+2023-08-14 17:10:38.062171, TRACE, Inicio del submodulo InitApps ,InitApps
+2023-08-14 17:10:38.130250, INFO, "Incio del modulo LoginCosmos" ,LoginTest
+2023-08-14 17:11:12.286908, INFO, "Fin del modulo LoginCosmos" ,LoginTest
+2023-08-14 17:11:12.325815, TRACE, Fin del submodulo InitApps ,InitApps
+2023-08-14 17:11:12.365618, TRACE, Fin del modulo Init ,Init
+2023-08-14 17:11:12.648542, TRACE, Inicio del modulo GetTransaction ,GetTransaction
+2023-08-14 17:11:14.247888, TRACE, Fin del modulo GetTransaction ,GetTransaction
+2023-08-14 17:11:14.882973, TRACE, Inicio del modulo Process ,Process
+2023-08-14 17:11:14.950620, INFO, "Inicio del modulo Work Data" ,Work_Data
+2023-08-14 17:11:16.162252, INFO, "Fin del modulo Work Data" ,Work_Data
+2023-08-14 17:11:19.373551, INFO, "Inicio del modulo Buscar_Cliente" ,Buscar_Cliente
+2023-08-14 17:11:29.928360, INFO, "Intento de click en Buscar numero"+1+" de 10" ,Buscar_Cliente
+2023-08-14 17:11:31.360874, INFO, "Intento de click en Buscar numero"+2+" de 10" ,Buscar_Cliente
+2023-08-14 17:11:32.803737, INFO, "Intento de click en Buscar numero"+3+" de 10" ,Buscar_Cliente
+2023-08-14 17:11:34.226965, INFO, "Intento de click en Buscar numero"+4+" de 10" ,Buscar_Cliente
+2023-08-14 17:11:35.659988, INFO, "Intento de click en Buscar numero"+5+" de 10" ,Buscar_Cliente
+2023-08-14 17:11:37.090186, INFO, "Intento de click en Buscar numero"+6+" de 10" ,Buscar_Cliente
+2023-08-14 17:11:38.548419, INFO, "Intento de click en Buscar numero"+7+" de 10" ,Buscar_Cliente
+2023-08-14 17:11:39.988401, INFO, "Intento de click en Buscar numero"+8+" de 10" ,Buscar_Cliente
+2023-08-14 17:11:41.435991, INFO, "Intento de click en Buscar numero"+9+" de 10" ,Buscar_Cliente
+2023-08-14 17:11:42.892732, INFO, "Intento de click en Buscar numero"+10+" de 10" ,Buscar_Cliente
+2023-08-14 17:11:42.962748, INFO, "El cliente no existe" ,Buscar_Cliente
+2023-08-14 17:11:43.058316, INFO, "Inicio del modulo " ,Ultimas_Validaciones
+2023-08-14 17:11:43.134263, INFO, "Se pasa la variable de reintentoS a "3+1" Para salir del bucle" ,Ultimas_Validaciones
+2023-08-14 17:11:43.172830, INFO, "Fin del modulo " ,Ultimas_Validaciones
+2023-08-14 17:11:43.233440, INFO, "Incio del modulo SetTransactionStatus" ,Set_Transaction_Status
+2023-08-14 17:11:43.300934, INFO, "Inicio del modulo Chage Status BPM" ,Change_Status_BPM
+2023-08-14 17:11:48.769719, INFO, "Fin del modulo Chage Status BPM" ,Change_Status_BPM
+2023-08-14 17:11:48.809984, INFO, "Fin del modulo SetTransactionStatus" ,Set_Transaction_Status
+2023-08-14 17:11:48.842138, TRACE, Fin del modulo Process ,Process
+2023-08-14 17:11:49.359737, TRACE, Inicio del modulo Process ,Process
+2023-08-14 17:11:49.426761, INFO, "Inicio del modulo Work Data" ,Work_Data
+2023-08-14 17:11:50.357502, INFO, "Fin del modulo Work Data" ,Work_Data
+2023-08-14 17:20:48.638940, INFO, "Inicio del modulo Buscar_Cliente" ,Buscar_Cliente
+2023-08-14 17:21:17.398083, ERROR, "Error inesperado" ,Buscar_Cliente
+2023-08-14 17:21:17.474465, INFO, "Inicio del modulo " ,Ultimas_Validaciones
+2023-08-14 17:21:17.538465, INFO, "Reintento numero "1" De "3 ,Ultimas_Validaciones
+2023-08-14 17:21:17.566542, INFO, "Fin del modulo " ,Ultimas_Validaciones
+2023-08-14 17:21:17.664973, INFO, "Inicio del modulo Buscar_Cliente" ,Buscar_Cliente
+2023-08-14 17:21:28.933700, INFO, "Intento de click en Buscar numero"+1+" de 10" ,Buscar_Cliente
+2023-08-14 17:21:30.373792, INFO, "Intento de click en Buscar numero"+2+" de 10" ,Buscar_Cliente
+2023-08-14 17:21:31.805627, INFO, "Intento de click en Buscar numero"+3+" de 10" ,Buscar_Cliente
+2023-08-14 17:21:33.234801, INFO, "Intento de click en Buscar numero"+4+" de 10" ,Buscar_Cliente
+2023-08-14 17:21:34.663818, INFO, "Intento de click en Buscar numero"+5+" de 10" ,Buscar_Cliente
+2023-08-14 17:21:36.072405, INFO, "Intento de click en Buscar numero"+6+" de 10" ,Buscar_Cliente
+2023-08-14 17:21:37.506764, INFO, "Intento de click en Buscar numero"+7+" de 10" ,Buscar_Cliente
+2023-08-14 17:21:38.953046, INFO, "Intento de click en Buscar numero"+8+" de 10" ,Buscar_Cliente
+2023-08-14 17:21:40.402559, INFO, "Intento de click en Buscar numero"+9+" de 10" ,Buscar_Cliente
+2023-08-14 17:21:41.838330, INFO, "Intento de click en Buscar numero"+10+" de 10" ,Buscar_Cliente
+2023-08-14 17:21:41.907767, INFO, "El cliente no existe" ,Buscar_Cliente
+2023-08-14 17:21:42.001614, INFO, "Inicio del modulo " ,Ultimas_Validaciones
+2023-08-14 17:21:42.075486, INFO, "Se pasa la variable de reintentoS a "3+1" Para salir del bucle" ,Ultimas_Validaciones
+2023-08-14 17:21:42.119429, INFO, "Fin del modulo " ,Ultimas_Validaciones
+2023-08-14 17:21:42.184197, INFO, "Incio del modulo SetTransactionStatus" ,Set_Transaction_Status
+2023-08-14 17:21:42.244722, INFO, "Inicio del modulo Chage Status BPM" ,Change_Status_BPM
+2023-08-14 17:21:45.731767, INFO, "Fin del modulo Chage Status BPM" ,Change_Status_BPM
+2023-08-14 17:21:45.772768, INFO, "Fin del modulo SetTransactionStatus" ,Set_Transaction_Status
+2023-08-14 17:21:45.814289, TRACE, Fin del modulo Process ,Process
+2023-08-14 17:21:46.555594, TRACE, Inicio del modulo Process ,Process
+2023-08-14 17:21:46.607790, INFO, "Inicio del modulo Work Data" ,Work_Data
+2023-08-14 17:21:47.557693, INFO, "Fin del modulo Work Data" ,Work_Data
+2023-08-14 17:23:22.964771, INFO, "Inicio del modulo Buscar_Cliente" ,Buscar_Cliente
+2023-08-14 17:23:52.177105, ERROR, "Error inesperado" ,Buscar_Cliente
+2023-08-14 17:23:52.254688, INFO, "Inicio del modulo " ,Ultimas_Validaciones
+2023-08-14 17:23:52.319690, INFO, "Reintento numero "1" De "3 ,Ultimas_Validaciones
+2023-08-14 17:23:52.383706, INFO, "Fin del modulo " ,Ultimas_Validaciones
+2023-08-14 17:23:52.465087, INFO, "Inicio del modulo Buscar_Cliente" ,Buscar_Cliente
+2023-08-14 17:24:03.645350, INFO, "Intento de click en Buscar numero"+1+" de 10" ,Buscar_Cliente
+2023-08-14 17:24:05.096653, INFO, "Intento de click en Buscar numero"+2+" de 10" ,Buscar_Cliente
+2023-08-14 17:24:06.544669, INFO, "Intento de click en Buscar numero"+3+" de 10" ,Buscar_Cliente
+2023-08-14 17:24:08.006053, INFO, "Intento de click en Buscar numero"+4+" de 10" ,Buscar_Cliente
+2023-08-14 17:24:09.445602, INFO, "Intento de click en Buscar numero"+5+" de 10" ,Buscar_Cliente
+2023-08-14 17:24:10.894444, INFO, "Intento de click en Buscar numero"+6+" de 10" ,Buscar_Cliente
+2023-08-14 17:24:12.322204, INFO, "Intento de click en Buscar numero"+7+" de 10" ,Buscar_Cliente
+2023-08-14 17:24:13.769351, INFO, "Intento de click en Buscar numero"+8+" de 10" ,Buscar_Cliente
+2023-08-14 17:35:50.716956, TRACE, Incio del modulo Init ,Init
+
+2023-08-14 17:35:50.812249, TRACE, Inicio Ejecucion, RB_ES_EDSA_013_CambioComercializadora
+2023-08-14 17:35:50.869934, TRACE, Inicio del modulo Init ,InitConfig
+2023-08-14 17:35:51.011181, TRACE, Fin del modulo Init ,InitConfig
+2023-08-14 17:35:51.086272, INFO, "Inicio del modulo GetAssets" ,GetAssets
+2023-08-14 17:35:58.049096, INFO, "Inicio del modulo GetAssets" ,GetAssets
+2023-08-14 17:35:58.122107, INFO, Inicio del modulo envio de correo ,NotificacionesCorreo
+2023-08-14 17:35:58.213616, INFO, "Conecta con el server de gmail" ,NotificacionesCorreo
+2023-08-14 17:35:59.843723, INFO, "Valida si es un correo de inicio o de fin" ,NotificacionesCorreo
+2023-08-14 17:36:00.766898, INFO, "Valido que es un correo de Inicio" ,NotificacionesCorreo
+2023-08-14 17:36:00.817408, INFO, Se conecto y envio correo correctamente ,NotificacionesCorreo
+2023-08-14 17:36:00.866484, INFO, Finaliza el modulo de envio de correo ,NotificacionesCorreo
+2023-08-14 17:36:00.929798, TRACE, Inicio del submodulo KillProcess ,KillProcess
+2023-08-14 17:36:05.851794, TRACE, Fin del submodulo KillProcess ,KillProcess
+2023-08-14 17:36:05.917340, TRACE, Inicio del submodulo InitApps ,InitApps
+2023-08-14 17:36:05.994698, INFO, "Incio del modulo LoginCosmos" ,LoginTest
+2023-08-14 17:36:33.798164, INFO, "Fin del modulo LoginCosmos" ,LoginTest
+2023-08-14 17:36:33.839900, TRACE, Fin del submodulo InitApps ,InitApps
+2023-08-14 17:36:33.883897, TRACE, Fin del modulo Init ,Init
+2023-08-14 17:36:34.004900, TRACE, Inicio del modulo GetTransaction ,GetTransaction
+2023-08-14 17:36:36.119518, TRACE, Fin del modulo GetTransaction ,GetTransaction
+2023-08-14 17:36:36.771499, TRACE, Inicio del modulo EndProcess ,EndProcess
+2023-08-14 17:36:36.829501, TRACE, Inicio del submodulo KillProcess ,KillProcess
+2023-08-14 17:36:41.415745, TRACE, Fin del submodulo KillProcess ,KillProcess
+2023-08-14 17:36:41.496647, INFO, Inicio del modulo envio de correo ,NotificacionesCorreo
+2023-08-14 17:36:41.590468, INFO, "Conecta con el server de gmail" ,NotificacionesCorreo
+2023-08-14 17:36:43.197510, INFO, "Valida si es un correo de inicio o de fin" ,NotificacionesCorreo
+2023-08-14 17:36:45.239776, INFO, "Valido que es un correo de fin" ,NotificacionesCorreo
+2023-08-14 17:36:45.292778, INFO, Se conecto y envio correo correctamente ,NotificacionesCorreo
+2023-08-14 17:36:45.341830, INFO, Finaliza el modulo de envio de correo ,NotificacionesCorreo
+2023-08-14 17:36:45.385852, TRACE, Fin del modulo EndProcess ,EndProcess
+2023-08-14 17:36:45.427860, TRACE, Finalizacion de Ejecucion, RB_ES_EDSA_013_CambioComercializadora
+
+2023-08-14 17:38:47.419022, TRACE, Incio del modulo Init ,Init
+
+2023-08-14 17:38:47.516269, TRACE, Inicio Ejecucion, RB_ES_EDSA_013_CambioComercializadora
+2023-08-14 17:38:47.572805, TRACE, Inicio del modulo Init ,InitConfig
+2023-08-14 17:38:47.767382, TRACE, Fin del modulo Init ,InitConfig
+2023-08-14 17:38:47.839323, INFO, "Inicio del modulo GetAssets" ,GetAssets
+2023-08-14 17:38:54.418789, INFO, "Inicio del modulo GetAssets" ,GetAssets
+2023-08-14 17:38:54.490992, INFO, Inicio del modulo envio de correo ,NotificacionesCorreo
+2023-08-14 17:38:54.582742, INFO, "Conecta con el server de gmail" ,NotificacionesCorreo
+2023-08-14 17:38:56.084728, INFO, "Valida si es un correo de inicio o de fin" ,NotificacionesCorreo
+2023-08-14 17:38:56.883394, INFO, "Valido que es un correo de Inicio" ,NotificacionesCorreo
+2023-08-14 17:38:56.937405, INFO, Se conecto y envio correo correctamente ,NotificacionesCorreo
+2023-08-14 17:38:56.994409, INFO, Finaliza el modulo de envio de correo ,NotificacionesCorreo
+2023-08-14 17:38:57.056500, TRACE, Inicio del submodulo KillProcess ,KillProcess
+2023-08-14 17:39:33.993155, TRACE, Fin del submodulo KillProcess ,KillProcess
+2023-08-14 17:39:34.058322, TRACE, Inicio del submodulo InitApps ,InitApps
+2023-08-14 17:39:34.137127, INFO, "Incio del modulo LoginCosmos" ,LoginTest
+2023-08-14 17:40:09.174163, INFO, "Fin del modulo LoginCosmos" ,LoginTest
+2023-08-14 17:40:09.214220, TRACE, Fin del submodulo InitApps ,InitApps
+2023-08-14 17:40:09.258937, TRACE, Fin del modulo Init ,Init
+2023-08-14 17:40:09.636952, TRACE, Inicio del modulo GetTransaction ,GetTransaction
+2023-08-14 17:40:11.485622, TRACE, Fin del modulo GetTransaction ,GetTransaction
+2023-08-14 17:40:12.124727, TRACE, Inicio del modulo Process ,Process
+2023-08-14 17:40:12.184421, INFO, "Inicio del modulo Work Data" ,Work_Data
+2023-08-14 17:40:13.412902, INFO, "Fin del modulo Work Data" ,Work_Data
+2023-08-14 17:40:32.199533, INFO, "Inicio del modulo Buscar_Cliente" ,Buscar_Cliente
+2023-08-14 17:40:49.679987, INFO, "Intento de click en Buscar numero "1" de 10" ,Buscar_Cliente
+2023-08-14 17:40:52.637973, INFO, "Intento de click en Buscar numero "2" de 10" ,Buscar_Cliente
+2023-08-14 17:40:55.403934, INFO, "Fin del modulo Buscar_Cliente" ,Buscar_Cliente
+2023-08-14 17:40:55.479027, INFO, "Inicio del modulo Iniciar Simulación" ,Iniciar_Simulacion
+2023-08-14 17:41:18.826219, ERROR, "Error inesperado" ,Iniciar_Simulacion
+2023-08-14 17:41:18.902862, INFO, "Inicio del modulo " ,Ultimas_Validaciones
+2023-08-14 17:41:18.962838, INFO, "Reintento numero "1" De "3 ,Ultimas_Validaciones
+2023-08-14 17:41:19.026871, INFO, "Fin del modulo " ,Ultimas_Validaciones
+2023-08-14 17:41:19.062998, INFO, "Inicio del modulo Buscar_Cliente" ,Buscar_Cliente
+2023-08-14 17:59:37.334429, TRACE, Incio del modulo Init ,Init
+
+2023-08-14 17:59:37.432080, TRACE, Inicio Ejecucion, RB_ES_EDSA_013_CambioComercializadora
+2023-08-14 17:59:37.489748, TRACE, Inicio del modulo Init ,InitConfig
+2023-08-14 17:59:37.639719, TRACE, Fin del modulo Init ,InitConfig
+2023-08-14 17:59:37.715119, INFO, "Inicio del modulo GetAssets" ,GetAssets
+2023-08-14 17:59:44.710644, INFO, "Inicio del modulo GetAssets" ,GetAssets
+2023-08-14 17:59:44.782906, INFO, Inicio del modulo envio de correo ,NotificacionesCorreo
+2023-08-14 17:59:44.872575, INFO, "Conecta con el server de gmail" ,NotificacionesCorreo
+2023-08-14 17:59:46.455580, INFO, "Valida si es un correo de inicio o de fin" ,NotificacionesCorreo
+2023-08-14 17:59:47.440128, INFO, "Valido que es un correo de Inicio" ,NotificacionesCorreo
+2023-08-14 17:59:47.493014, INFO, Se conecto y envio correo correctamente ,NotificacionesCorreo
+2023-08-14 17:59:47.540211, INFO, Finaliza el modulo de envio de correo ,NotificacionesCorreo
+2023-08-14 17:59:47.601902, TRACE, Inicio del submodulo KillProcess ,KillProcess
+2023-08-14 17:59:50.300065, TRACE, Fin del submodulo KillProcess ,KillProcess
+2023-08-14 17:59:50.362327, TRACE, Inicio del submodulo InitApps ,InitApps
+2023-08-14 17:59:50.423953, INFO, "Incio del modulo LoginCosmos" ,LoginTest
+2023-08-14 18:00:30.434058, INFO, "Fin del modulo LoginCosmos" ,LoginTest
+2023-08-14 18:00:30.479058, TRACE, Fin del submodulo InitApps ,InitApps
+2023-08-14 18:00:30.521072, TRACE, Fin del modulo Init ,Init
+2023-08-14 18:00:30.622063, TRACE, Inicio del modulo GetTransaction ,GetTransaction
+2023-08-14 18:00:32.744301, TRACE, Fin del modulo GetTransaction ,GetTransaction
+2023-08-14 18:00:33.377487, TRACE, Inicio del modulo Process ,Process
+2023-08-14 18:00:33.440340, INFO, "Inicio del modulo Work Data" ,Work_Data
+2023-08-14 18:00:34.630693, INFO, "Fin del modulo Work Data" ,Work_Data
+2023-08-14 18:00:38.086526, INFO, "Inicio del modulo Buscar_Cliente" ,Buscar_Cliente
+2023-08-14 18:00:50.656902, INFO, "Intento de click en Buscar numero "1" de 10" ,Buscar_Cliente
+2023-08-14 18:00:53.630526, INFO, "Intento de click en Buscar numero "2" de 10" ,Buscar_Cliente
+2023-08-14 18:00:56.383830, INFO, "Fin del modulo Buscar_Cliente" ,Buscar_Cliente
+2023-08-14 18:00:56.459705, INFO, "Inicio del modulo Iniciar Simulación" ,Iniciar_Simulacion
+2023-08-14 18:01:16.109663, ERROR, "Error inesperado" ,Iniciar_Simulacion
+2023-08-14 18:01:16.181866, INFO, "Inicio del modulo " ,Ultimas_Validaciones
+2023-08-14 18:01:16.242268, INFO, "Reintento numero "1" De "3 ,Ultimas_Validaciones
+2023-08-14 18:01:16.287760, INFO, "Fin del modulo " ,Ultimas_Validaciones
+2023-08-14 18:01:16.320761, INFO, "Inicio del modulo Buscar_Cliente" ,Buscar_Cliente
+2023-08-14 18:01:48.770338, ERROR, "Error inesperado" ,Buscar_Cliente
+2023-08-14 18:01:48.848073, INFO, "Inicio del modulo " ,Ultimas_Validaciones
+2023-08-14 18:01:48.909738, INFO, "Reintento numero "2" De "3 ,Ultimas_Validaciones
+2023-08-14 18:01:48.970532, INFO, "Fin del modulo " ,Ultimas_Validaciones
+2023-08-14 18:01:49.054571, INFO, "Inicio del modulo Buscar_Cliente" ,Buscar_Cliente
+2023-08-14 18:06:23.580080, TRACE, Incio del modulo Init ,Init
+
+2023-08-14 18:06:23.705993, TRACE, Inicio Ejecucion, RB_ES_EDSA_013_CambioComercializadora
+2023-08-14 18:06:23.781004, TRACE, Inicio del modulo Init ,InitConfig
+2023-08-14 18:06:23.937213, TRACE, Fin del modulo Init ,InitConfig
+2023-08-14 18:06:24.007765, INFO, "Inicio del modulo GetAssets" ,GetAssets
+2023-08-14 18:06:31.044301, INFO, "Inicio del modulo GetAssets" ,GetAssets
+2023-08-14 18:06:31.116032, INFO, Inicio del modulo envio de correo ,NotificacionesCorreo
+2023-08-14 18:06:31.204299, INFO, "Conecta con el server de gmail" ,NotificacionesCorreo
+2023-08-14 18:06:32.659374, INFO, "Valida si es un correo de inicio o de fin" ,NotificacionesCorreo
+2023-08-14 18:06:33.500641, INFO, "Valido que es un correo de Inicio" ,NotificacionesCorreo
+2023-08-14 18:06:33.555642, INFO, Se conecto y envio correo correctamente ,NotificacionesCorreo
+2023-08-14 18:06:33.607657, INFO, Finaliza el modulo de envio de correo ,NotificacionesCorreo
+2023-08-14 18:06:33.669807, TRACE, Inicio del submodulo KillProcess ,KillProcess
+2023-08-14 18:06:36.367408, TRACE, Fin del submodulo KillProcess ,KillProcess
+2023-08-14 18:06:36.426562, TRACE, Inicio del submodulo InitApps ,InitApps
+2023-08-14 18:06:36.484871, INFO, "Incio del modulo LoginCosmos" ,LoginTest
+2023-08-14 18:07:27.936506, INFO, "Fin del modulo LoginCosmos" ,LoginTest
+2023-08-14 18:07:27.974914, TRACE, Fin del submodulo InitApps ,InitApps
+2023-08-14 18:07:28.016978, TRACE, Fin del modulo Init ,Init
+2023-08-14 18:07:28.398580, TRACE, Inicio del modulo GetTransaction ,GetTransaction
+2023-08-14 18:07:30.212515, TRACE, Fin del modulo GetTransaction ,GetTransaction
+2023-08-14 18:07:30.865768, TRACE, Inicio del modulo Process ,Process
+2023-08-14 18:07:30.933789, INFO, "Inicio del modulo Work Data" ,Work_Data
+2023-08-14 18:07:32.057408, INFO, "Fin del modulo Work Data" ,Work_Data
+2023-08-14 18:07:37.974890, INFO, "Inicio del modulo Buscar_Cliente" ,Buscar_Cliente
+2023-08-14 18:07:50.555820, INFO, "Intento de click en Buscar numero "1" de 10" ,Buscar_Cliente
+2023-08-14 18:07:53.511961, INFO, "Intento de click en Buscar numero "2" de 10" ,Buscar_Cliente
+2023-08-14 18:07:56.275857, INFO, "Fin del modulo Buscar_Cliente" ,Buscar_Cliente
+2023-08-14 18:07:56.307855, INFO, "Inicio del modulo Iniciar Simulación" ,Iniciar_Simulacion
+2023-08-14 18:08:16.571215, ERROR, "Error inesperado" ,Iniciar_Simulacion
+2023-08-14 18:08:16.653635, INFO, "Inicio del modulo " ,Ultimas_Validaciones
+2023-08-14 18:08:16.721634, INFO, "Reintento numero "1" De "3 ,Ultimas_Validaciones
+2023-08-14 18:08:16.785634, INFO, "Fin del modulo " ,Ultimas_Validaciones
+2023-08-14 18:08:16.830633, INFO, "Inicio del modulo Buscar_Cliente" ,Buscar_Cliente

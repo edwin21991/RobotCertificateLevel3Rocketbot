@@ -1,0 +1,65 @@
+Hora, Tipo Registro, Mensaje,Robot
+2023-11-10 11:08:21.002702, INFO, None ,InitConfig
+2023-11-10 11:08:21.035700, INFO, Inicio del modulo ,InitConfig
+2023-11-10 11:08:21.379888, INFO, Fin del modulo ,InitConfig
+2023-11-10 11:08:21.412468, INFO, Inicio del modulo envio de correo ,NotificacionesCorreo
+2023-11-10 11:08:21.443954, INFO, "Conecta con el server de gmail" ,NotificacionesCorreo
+2023-11-10 11:08:23.898737, INFO, "Valida si es un correo de inicio o de fin" ,NotificacionesCorreo
+2023-11-10 11:08:25.694885, INFO, "Valido que es un correo de Inicio" ,NotificacionesCorreo
+2023-11-10 11:08:25.722271, INFO, Se conecto y envio correo correctamente ,NotificacionesCorreo
+2023-11-10 11:08:25.745472, INFO, Finaliza el modulo de envio de correo ,NotificacionesCorreo
+2023-11-10 11:08:25.775616, INFO, Inicio del modulo ,KillProcess
+2023-11-10 11:08:28.154094, INFO, Fin del modulo ,KillProcess
+2023-11-10 11:08:28.183029, INFO, Inicio del modulo ,InitApps
+2023-11-10 11:08:28.208021, INFO, Incio del modulo ,Login
+2023-11-10 11:08:35.407243, INFO, Fin del modulo ,Login
+2023-11-10 11:08:35.435242, TRACE, "Fin del modulo" ,InitApps
+2023-11-10 11:08:35.463241, INFO, "Fin del modulo" ,Init
+2023-11-10 12:10:03.917266, INFO, Inicio del modulo ,GetTransaction
+2023-11-10 12:10:07.770317, INFO, Fin del modulo ,GetTransaction
+2023-11-10 12:10:28.513266, INFO, "Incio del modulo" ,Init
+2023-11-10 12:10:28.558035, INFO, Inicio del modulo ,GetAssets
+2023-11-10 12:10:34.833875, INFO, Inicio del modulo ,GetAssets
+2023-11-10 12:10:34.887783, INFO, None ,InitConfig
+2023-11-10 12:10:34.912912, INFO, Inicio del modulo ,InitConfig
+2023-11-10 12:10:35.489336, INFO, Fin del modulo ,InitConfig
+2023-11-10 12:10:35.521855, INFO, Inicio del modulo envio de correo ,NotificacionesCorreo
+2023-11-10 12:10:35.553875, INFO, "Conecta con el server de gmail" ,NotificacionesCorreo
+2023-11-10 12:10:38.758905, INFO, "Valida si es un correo de inicio o de fin" ,NotificacionesCorreo
+2023-11-10 12:10:40.711026, INFO, "Valido que es un correo de Inicio" ,NotificacionesCorreo
+2023-11-10 12:10:40.737786, INFO, Se conecto y envio correo correctamente ,NotificacionesCorreo
+2023-11-10 12:10:40.762205, INFO, Finaliza el modulo de envio de correo ,NotificacionesCorreo
+2023-11-10 12:10:40.790432, INFO, Inicio del modulo ,KillProcess
+2023-11-10 12:10:43.007729, INFO, Fin del modulo ,KillProcess
+2023-11-10 12:10:43.036694, INFO, Inicio del modulo ,InitApps
+2023-11-10 12:10:43.078299, INFO, Incio del modulo ,Login
+2023-11-10 12:10:53.845594, INFO, Fin del modulo ,Login
+2023-11-10 12:10:53.878781, TRACE, "Fin del modulo" ,InitApps
+2023-11-10 12:10:53.904939, INFO, "Fin del modulo" ,Init
+2023-11-10 12:10:55.192454, INFO, Inicio del modulo ,GetTransaction
+2023-11-10 12:10:58.784137, INFO, Fin del modulo ,GetTransaction
+2023-11-10 12:13:51.237349, INFO, Inicio del modulo ,Process
+2023-11-10 12:13:51.265233, INFO, "Inicio del modulo" ,Work_Data
+2023-11-10 12:13:52.046068, INFO, "Inicio del modulo Chage Status BPM" ,Change_Status_BPM
+2023-11-10 12:13:52.077171, ERROR, "Error inesperado" ,Change_Status_BPM
+2023-11-10 12:13:52.106266, INFO, "Fin del modulo Work Data" ,Work_Data
+2023-11-10 12:13:52.130171, INFO, Fin del modulo ,Process
+2023-11-10 12:23:21.410496, INFO, "Incio del modulo" ,Init
+2023-11-10 12:23:21.442512, INFO, Inicio del modulo ,GetAssets
+2023-11-10 12:23:28.719211, INFO, Inicio del modulo ,GetAssets
+2023-11-10 12:23:28.755673, INFO, None ,InitConfig
+2023-11-10 12:23:28.777212, INFO, Inicio del modulo ,InitConfig
+2023-11-10 12:23:28.840977, INFO, Fin del modulo ,InitConfig
+2023-11-10 12:23:28.868375, INFO, Inicio del modulo envio de correo ,NotificacionesCorreo
+2023-11-10 12:23:28.909716, INFO, "Conecta con el server de gmail" ,NotificacionesCorreo
+2023-11-10 12:23:31.039104, INFO, "Valida si es un correo de inicio o de fin" ,NotificacionesCorreo
+2023-11-10 12:23:32.889400, INFO, "Valido que es un correo de Inicio" ,NotificacionesCorreo
+2023-11-10 12:23:32.914402, INFO, Se conecto y envio correo correctamente ,NotificacionesCorreo
+2023-11-10 12:23:32.940402, INFO, Finaliza el modulo de envio de correo ,NotificacionesCorreo
+2023-11-10 12:23:32.971478, INFO, Inicio del modulo ,KillProcess
+2023-11-10 12:23:35.154041, INFO, Fin del modulo ,KillProcess
+2023-11-10 12:23:35.179451, INFO, Inicio del modulo ,InitApps
+2023-11-10 12:23:35.205321, INFO, Incio del modulo ,Login
+2023-11-10 12:23:46.517446, INFO, Fin del modulo ,Login
+2023-11-10 12:23:46.542456, TRACE, "Fin del modulo" ,InitApps
+2023-11-10 12:23:46.567421, INFO, "Fin del modulo" ,Init

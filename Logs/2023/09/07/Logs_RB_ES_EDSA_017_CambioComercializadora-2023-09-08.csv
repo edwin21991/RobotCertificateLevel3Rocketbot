@@ -1,0 +1,13 @@
+Hora, Tipo Registro, Mensaje,Robot
+2023-09-08 00:05:18.767484, TRACE, Incio del modulo Init ,Init
+2023-09-08 00:05:18.830205, INFO, "Inicio del modulo GetAssets" ,GetAssets
+2023-09-08 00:05:27.343927, INFO, "Inicio del modulo GetAssets" ,GetAssets
+2023-09-08 00:30:56.953017, TRACE, Incio del modulo Init ,Init
+2023-09-08 00:30:57.014261, INFO, "Inicio del modulo GetAssets" ,GetAssets
+2023-09-08 00:31:05.819889, INFO, "Inicio del modulo GetAssets" ,GetAssets
+2023-09-08 00:40:38.126320, TRACE, Incio del modulo Init ,Init
+2023-09-08 00:40:38.189467, INFO, "Inicio del modulo GetAssets" ,GetAssets
+2023-09-08 00:40:46.956299, INFO, "Inicio del modulo GetAssets" ,GetAssets
+2023-09-08 01:12:06.504389, TRACE, Incio del modulo Init ,Init
+2023-09-08 01:12:06.564331, INFO, "Inicio del modulo GetAssets" ,GetAssets
+2023-09-08 01:12:16.474086, INFO, "Inicio del modulo GetAssets" ,GetAssets

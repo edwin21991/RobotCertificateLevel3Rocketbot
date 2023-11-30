@@ -1,0 +1,21 @@
+Hora, Tipo Registro, Mensaje,Robot
+
+2023-09-05 14:54:52.996728, TRACE, Inicio Ejecucion, RB_ES_EDSA_013_CambioComercializadora
+2023-09-05 14:54:53.054990, TRACE, Inicio del modulo Init ,InitConfig
+2023-09-05 14:54:53.226535, TRACE, Fin del modulo Init ,InitConfig
+2023-09-05 14:54:53.296955, TRACE, Inicio del submodulo KillProcess ,KillProcess
+2023-09-05 14:55:30.264610, TRACE, Fin del submodulo KillProcess ,KillProcess
+2023-09-05 14:55:30.334103, TRACE, Inicio del submodulo InitApps ,InitApps
+2023-09-05 14:55:30.392358, INFO, "Incio del modulo LoginCosmos" ,Login
+2023-09-05 14:55:53.224195, INFO, "Inicio del modulo Obtener Token" ,ObtenerToken
+2023-09-05 14:55:53.279408, INFO, "Fin del modulo Obtener Token" ,ObtenerToken
+2023-09-05 14:56:07.044334, INFO, "Fin del modulo LoginCosmos" ,Login
+2023-09-05 14:56:07.083540, TRACE, Fin del submodulo InitApps ,InitApps
+2023-09-05 14:56:07.124210, TRACE, Fin del modulo Init ,Init
+2023-09-05 14:56:07.555451, TRACE, Inicio del modulo GetTransaction ,GetTransaction
+2023-09-05 14:56:10.350429, TRACE, Fin del modulo GetTransaction ,GetTransaction
+2023-09-05 14:56:10.970971, TRACE, Inicio del modulo Process ,Process
+2023-09-05 14:56:11.000612, INFO, "Inicio del modulo Work Data" ,Work_Data
+2023-09-05 14:56:12.214892, INFO, "Fin del modulo Work Data" ,Work_Data
+2023-09-05 14:56:12.340417, INFO, "Inicio del modulo Buscar_Cliente" ,Buscar_Cliente
+2023-09-05 14:56:23.749464, INFO, "Intento de click en Buscar numero "1" de 10" ,Buscar_Cliente

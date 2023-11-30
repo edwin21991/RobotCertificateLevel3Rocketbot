@@ -1,0 +1,4 @@
+Hora, Tipo Registro, Mensaje,Robot
+2023-09-05 14:48:18.646717, TRACE, Incio del modulo Init ,Init
+2023-09-05 14:48:18.716705, INFO, "Inicio del modulo GetAssets" ,GetAssets
+2023-09-05 14:48:26.198162, INFO, "Inicio del modulo GetAssets" ,GetAssets
